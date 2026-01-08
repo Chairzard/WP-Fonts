@@ -1,0 +1,89 @@
+The following fonts which work well on e-ink displays have small capitals already built in, so no modified version is needed to render text correctly in KOReader. If the regular font style is too thin (Baskervvile, Ibarra Real Nova, etc), try increasing the font size and/or using a heavier font weight (instead of using Regular/Italic, you may choose Medium/Medium Italic).  
+
+Links to project repositories will be added in a future update. Note that *most* of these are available on either Google Fonts or CTAN. For fonts on Google Fonts, I highly encourage you to seek out the font project's repository for the most up-to-date version of the font; Google Fonts can be very slow to update, if it updates at all.
+- Alegreya
+- Ancizar Serif
+- Andada Pro
+- Antykwa Torunska
+- Baskervaldx
+- Baskervville (regular/bold styles only; a modified version is planned for release so they work across all styles)
+- Bedstead
+- Besley
+- Bitter
+- Bona Nova
+- Brygada 1918
+- Castoro
+- Chapbook
+- Charis
+- Cochineal
+- Coelacanth
+- Departure Mono
+- Drafting Mono
+- EB Garamond
+- ETbb
+- Electrum ADF
+- Elstob
+- Exo
+- Fanwood Text (regular style only; a modified version is planned for release so they work across all styles)
+- Fira Sans
+- FreeSerif
+- GFS Artemisia
+- Gentium
+- Gentium Book
+- Hahmlet
+- Hepta Slab
+- Hyde (small caps are broken in the italic/bold files; a modified version is planned for release so they work across all styles)
+- Ibarra Real Nova
+- JuliaMono
+- Junicode
+- Kierkegaard
+- KpRoman
+- Lekton
+- Libertinus Sans
+- Libertinus Serif
+- Linden Hill (regular style only; a modified version is planned for release so they work across all styles)
+- Literata
+- Luciole
+- Mate
+- Merriweather
+- Minipax
+- Montserrat
+- Munson
+- New Computer Modern
+- Noto Sans
+- Noto Sans Mono
+- Noto Serif
+- Old Standard
+- Overlock
+- Petrona
+- Piazzolla
+- Poltawski Nowy
+- Poly
+- REM
+- Raleway
+- Roboto
+- Roboto Mono
+- Roboto Slab
+- STIX Two Text
+- Science Gothic
+- Sedan (regular style only; a modified version is planned for release so they work across all styles)
+- Signika
+- Sofia Sans
+- Sorts Mill Goudy (regular style only; a modified version is planned for release)
+- Source Serif 4
+- Spectral
+- TeX Gyre Adventor
+- TeX Gyre Bonum
+- TeX Gyre Cursor
+- TeX Gyre Heros
+- TeX Gyre Pagella
+- TeX Gyre Schola
+- TeX Gyre Termes (a modified version is planned for release to fix some bad kerning issues)
+- Vollkorn (regular/bold styles only; a modified version is planned for release so they work across all styles)
+- Work Sans
+- XCharter
+- Young Serif
+- Ysabeau
+- Zilla Slab (a modified version is planned for release to fix some bad kerning issues)
+- erewhon
+- fbb
