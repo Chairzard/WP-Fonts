@@ -1,5 +1,21 @@
 Customized fonts with added small-caps for KOReader!
 
+---
+
+Current list of fonts available. The format of this list is: Original font name/Edited font name - Font license:
+
+The following WP Fonts are licensed under version 1.1 of the SIL Open Font License:
+
+Atkinson Hyperlegible Next/WP Hyperlegible - SIL Open Font License (version 1.1)
+Lora/WP Arol - SIL Open Font License (version 1.1)
+OpenDyslexic/WP OD - Creative Commons Attribution 4.0 International license (CC BY 4.0) (NOTE: Based off OpenDyslexic 2.x, not the latest version)
+Special Elite/WP Elite - Apache License (version 2.0)
+Texturina/WP Texture - SIL Open Font License (version 1.1)
+
+The following WP Fonts are licensed under Creative Commons Attribution 4.0 International license (CC BY 4.0):
+
+---
+
 One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters (according to the developers, this is not something that is viable to add in due to how the engine functions). However, the engine does support small-capitals for fonts that include them already. To work around this and feed my unchecked font addiction, I’ve created (too many) fonts with custom small-capitals and created a GitHub repository to host them (they’re spartan and just scaled-down capital letters like a web browser/the Kobo stock reader would do, but they’ll do the trick in a pinch). The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the the SIL Open Font License. Font licenses for each font can be found in each font's respective directory.
 
 Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters (I just copied over the kerning from the uppercase letters, so a word in small-caps will have the same appearance as a word in all uppercase, just scaled-down to roughly the font’s x-height, +/- 0-20% depending on the font).
