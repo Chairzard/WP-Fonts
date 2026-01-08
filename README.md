@@ -16,13 +16,18 @@ Kerning was also added for the fake small-caps, provided the original font had k
 
 You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommend%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those, unless they are missing small caps in certain styles (or have really bad kerning issues that I can fix).
 
-The format of this list is: **Original font name** / *(Edited font name)* - Font license:
-
-- **Atkinson Hyperlegible Next** / *(WP Hyperlegible)* - SIL Open Font License (version 1.1)
-- **Lora** / *(WP Arol)* - SIL Open Font License (version 1.1)
-- **OpenDyslexic** / *(WP OD)* - Creative Commons Attribution 4.0 International license (CC BY 4.0) (NOTE: Based off OpenDyslexic 2.x, not the latest version)
-- **Special Elite** / *(WP Elite)* - Apache License (version 2.0)
-- **Texturina** / *(WP Texture)*  - SIL Open Font License (version 1.1)
+|Original font name|Edited font name|Font license|
+|---|---|---|
+|**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|
+|**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|
+|**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|
+|**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|
+|**IM FELL French Canon**|WP Fell French Canon|SIL Open Font License (version 1.1)|
+|**IM FELL Great Primer**|WP Fell |SIL Open Font License (version 1.1)|
+|**Lora**|WP Arol|SIL Open Font License (version 1.1)|
+|**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0) (NOTE: Based off OpenDyslexic 2.x, not the latest version)|
+|**Special Elite**|WP Elite|Apache License (version 2.0)|
+|**Texturina**|WP Texture|- SIL Open Font License (version 1.1)|
 
 ## FAQs:
 
