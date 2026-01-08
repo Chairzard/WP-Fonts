@@ -1,0 +1,6 @@
+Original font copyright data: Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.
+http://www.apache.org/licenses/LICENSE-2.0.html
+
+WP Elite font changelog, from the base Special Elite file available at https://fonts.google.com/specimen/Special+Elite:
+
+Version 1: Small capital glyphs have been added to the font by scaling down the font's regular captial glyphs.
