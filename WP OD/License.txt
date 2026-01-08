@@ -1,0 +1,36 @@
+LICENSE AND ATTRIBUTION INFORMATION
+
+FONT NAME: WP OD
+DATE: January 2026
+
+-------------------------------------------------------------------------------
+1. DERIVATIVE WORK INFORMATION
+-------------------------------------------------------------------------------
+This font is a derivative work created by Winston Payne/Chairzard.
+Specific modifications: Small caps, created from scaled-down capitals,
+have been added to the font.
+
+Author: Winston Payne/Chairzard
+Source: https://github.com/Chairzard/WP-Fonts
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+
+-------------------------------------------------------------------------------
+2. ORIGINAL FONT ATTRIBUTION (OpenDyslexic)
+-------------------------------------------------------------------------------
+This work is based on OpenDyslexic by Abelardo Gonzalez.
+
+Author: Abelardo Gonzalez
+Source: http://dyslexicfonts.com (2012)
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+License URL: https://creativecommons.org/licenses/by/3.0/
+
+"Copying is an act of love. Please copy."
+
+Original Fonts are (c) Bitstream.
+
+The Bitstream license governing the base glyphs is available here:
+http://opendyslexic.org/legal/
+
+NOTE: The original link above is dead. An archived copy can be found here:
+https://web.archive.org/web/20080207013128/http://www.gnome.org/fonts/
