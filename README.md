@@ -41,7 +41,7 @@ The format of this list is: **Original font name** / *(Edited font name)* - Font
 **A:** To avoid confusion with the original font files, as well as to allow the modified files to coexist with the originals. Additionally, fonts under the OFL often have reserved font names. To legally redistribute them, I had to change the font names.
 
 **Q:** Why are the Italic/Bold/Bold Italic files missing?  
-**A:** The original font was missing them, but I liked the base font enough to include it anyway. Your ereader/app will probably fake these effects if they’re missing (The only exception I’m aware of is Kindle, which won’t properly render Bold Italic if you are missing the Bold Italic File but have regular Bold and Italic; in that case, delete/don’t use the Bold file at all).
+**A:** Font styles will be missing when the original font lacks them. I try to favor fonts that include all four styles, but oftentimes I liked the base font enough to include it anyway and deal with KOReader applying a fake oblique and/or bold effect when needed. Your ereader/app will probably fake these effects if they’re missing (The only exception I’m aware of is Kindle, which won’t properly render Bold Italic if you are missing the Bold Italic File but have regular Bold and Italic; in that case, delete/don’t use the Bold file at all).
 
 **Q:** (Insert font here from the collection) just released an updated version with true small-caps!  
 **A:** Please let me know if this happens and update your ereader/computer with the official files. I will retire the customized version in that case. Real small-caps always look better than fake, scaled-down ones.
