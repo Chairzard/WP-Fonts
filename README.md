@@ -23,7 +23,7 @@ You may also be interested in my [list of of fonts with real small-caps](https:/
 |**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|
 |**IM FELL French Canon**|WP Fell French Canon|SIL Open Font License (version 1.1)|
-|**IM FELL Great Primer**|WP Fell |SIL Open Font License (version 1.1)|
+|**IM FELL Great Primer**|WP Fell Great Primer|SIL Open Font License (version 1.1)|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|
 |**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0) (NOTE: Based off OpenDyslexic 2.x, not the latest version)|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|
