@@ -1,6 +1,6 @@
 # WP Fonts - Customized fonts with added small-caps for KOReader!
 
-One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters (according to the developers, this is not something that is viable to add in due to how the engine functions). However, the engine does support small-capitals for fonts that include them already. To work around this and feed my unchecked font addiction, I’ve created (too many) fonts with custom small-capitals and created a GitHub repository to host them (they’re spartan and just scaled-down capital letters like a web browser/the Kobo stock reader would do, but they’ll do the trick in a pinch). You can go from this:  
+One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters (according to the developers, this is not a feature that is viable to add in due to how the engine functions). However, the engine does support small-capitals for fonts that include them already. To work around this and feed my unchecked font addiction, I’ve created (too many) fonts with custom small-capitals and created a GitHub repository to host them (they’re spartan and just scaled-down capital letters like a web browser/the Kobo stock reader would do, but they’ll do the trick in a pinch). You can go from this:  
 
 <img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/1acbdf2e-d6bd-4cf9-95b8-69c8ad2cf6fb" />
 
