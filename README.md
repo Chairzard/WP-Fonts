@@ -14,6 +14,8 @@ Kerning was also added for the fake small-caps, provided the original font had k
 
 ## Current list of fonts available:
 
+You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommend%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those, unless they are missing small caps in certain styles (or have really bad kerning issues that I can fix).
+
 The format of this list is: **Original font name** / *(Edited font name)* - Font license:
 
 - **Atkinson Hyperlegible Next** / *(WP Hyperlegible)* - SIL Open Font License (version 1.1)
@@ -44,6 +46,9 @@ The format of this list is: **Original font name** / *(Edited font name)* - Font
 
 **Q:** Can you create variable versions of these fonts?  
 **A:** I use FontForge, which currently doesn’t support this.
+
+**Q:** I found an issue unrelated to small caps with the font. Should I let you know?  
+**A:** I'm open to fixing glaring kerning errors/encoding errors/etc with these fonts, provided I can do so in a reasonable amount of time (I'd fix a couple of really bad kerning pairs, but I'm not re-kerning an entire font, for example). Open an Issue in the Issues tracker and I'll let you know if I can handle it.
 
 **Q:** Why were the font files renamed?  
 **A:** To avoid confusion with the original font files, as well as to allow the modified files to coexist with the originals. Additionally, fonts under the OFL often have reserved font names. To legally redistribute them, I had to change the font names.
