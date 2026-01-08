@@ -27,7 +27,7 @@ You may also be interested in my [list of of fonts with real small-caps](https:/
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|
 |**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0) (NOTE: Based off OpenDyslexic 2.x, not the latest version)|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|
-|**Texturina**|WP Texture|- SIL Open Font License (version 1.1)|
+|**Texturina**|WP Texture|SIL Open Font License (version 1.1)|
 
 ## FAQs:
 
