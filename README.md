@@ -19,11 +19,11 @@ You may also be interested in my [list of of fonts with real small-caps](https:/
 |Original font name|Edited font name|Font license|Bold?|Italics?|Bold Italics?|Notes|
 |---|---|---|---|---|---|---|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅||
-|**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌||
-|**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌||
-|**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌||
-|**IM FELL French Canon**|WP Fell French Canon|SIL Open Font License (version 1.1)|❌|✅|❌||
-|**IM FELL Great Primer**|WP Fell Great Primer|SIL Open Font License (version 1.1)|❌|✅|❌||
+|**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
+|**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
+|**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
+|**IM FELL French Canon**|WP Fell French Canon|SIL Open Font License (version 1.1)|❌|✅|❌|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
+|**IM FELL Great Primer**|WP Fell Great Primer|SIL Open Font License (version 1.1)|❌|✅|❌|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅||
 |**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0)|✅|✅|✅|Based off OpenDyslexic 2.x, not the latest version (4.x has weird kerning/spacing issues)|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌||
