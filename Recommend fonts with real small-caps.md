@@ -54,7 +54,7 @@ Links to project repositories will be added in a future update. Note that *most*
 - Noto Sans Mono
 - Noto Serif
 - Old Standard
-- Overlock
+- Overlock (regular style only, broken in the base font; a modified version is planned).
 - Petrona
 - Piazzolla
 - Poltawski Nowy
