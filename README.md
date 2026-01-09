@@ -16,7 +16,7 @@ Kerning was also added for the fake small-caps, provided the original font had k
 
 You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommend%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those, unless they are missing small caps in certain styles (or have really bad kerning issues that I can fix).  
 
-Fonts without Bold/Italic files are still usable in KOReader. It will create an artificial bold effect or apply an oblique effect, respectively. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from another font (fonts marked with an X just use generic, scaled-down capital letters).
+Fonts without Bold/Italic files are still usable in KOReader. KOReader will create an artificial bold effect or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font (fonts marked with an X just use generic, scaled-down capital letters).
 
 |Original font name|Edited font name|Font license|Bold?|Italics?|Bold Italics?|"True" small caps?|Notes|
 |---|---|---|---|---|---|---|---|
