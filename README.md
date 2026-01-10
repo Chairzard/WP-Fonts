@@ -22,7 +22,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |---|---|---|---|---|---|---|---|
 |**Adelphe**|WP Affinity|Open Inclusif·ve Fonte Licence|✅|✅|✅|❌|This release is based on the Mar 18, 2024 Adelphe font files, as the latest version uses the more restrictive CUTE License.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Baskervville**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
+|**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌|✅|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌|✅|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|✅|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
