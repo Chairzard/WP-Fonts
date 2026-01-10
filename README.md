@@ -31,6 +31,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0)|✅|✅|✅|❌|Based off OpenDyslexic 2.x, not the latest version (4.x has weird kerning/spacing issues)|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for italic/bold italic based on those glyphs.|
 
 ## FAQs:
 
