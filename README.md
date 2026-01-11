@@ -22,7 +22,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |---|---|---|---|---|---|---|---|
 |**Adelphe**|WP Affinity|Open Inclusif·ve Fonte Licence|✅|✅|✅|❌|This release is based on the Mar 18, 2024 Adelphe font files, as the latest version uses the more restrictive CUTE License.|
 |**Afacad**|WP Dacafa|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Afacad was chosen rather than Afacad Flux due to its italic/bold italic styles.|
-|**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|✅|❌|❌|Custom ligatures have also been added.|
+|**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom ligatures have also been added.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospace. Ligatures have been disabled.|
