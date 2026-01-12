@@ -24,11 +24,12 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Afacad**|WP Dacafa|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Afacad was chosen rather than Afacad Flux due to its italic/bold italic styles.|
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Archivo**|WP Archivist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom ligatures have also been added.|
+|**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospace. Ligatures have been disabled.|
 |**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
@@ -40,6 +41,8 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0)|✅|✅|✅|❌|Based off OpenDyslexic 2.x, not the latest version (4.x has weird kerning/spacing issues)|
+|**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" ligature has been made a standard ligature.|
+|**Pixel Code**|WP PixelC|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**PT Serif**|WP Petey Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
