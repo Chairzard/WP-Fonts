@@ -32,7 +32,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small baps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.|
+|**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small baps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.|
 |**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
