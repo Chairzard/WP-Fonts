@@ -38,6 +38,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Libre Baskerville**|WP Mortimer|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Libre Caslon Text**|WP Caslon|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Linden Hill**|WP Hill House|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Mate**|WP Checkmate|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters.|
@@ -51,7 +52,9 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
+|**SUSE**|WP Geeko|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Ubuntu**|Ubuntu WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|The font is named differently than other fonts in this repo due to the font's license terms.|
 |**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 
 ## FAQs:
