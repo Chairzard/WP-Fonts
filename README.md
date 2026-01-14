@@ -23,12 +23,13 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Adelphe**|WP Affinity|Open Inclusif·ve Fonte Licence|✅|✅|✅|❌|This release is based on the Mar 18, 2024 Adelphe font files, as the latest version uses the more restrictive CUTE License.|
 |**Afacad**|WP Dacafa|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Afacad was chosen rather than Afacad Flux due to its italic/bold italic styles.|
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Almendra**|WP Amygdala|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small cap glyphs in the regular style were partially taken from the "SC" font file; all other small cap glyphs in the regular style, as well as all glyphs in the other styles, were generated from scaled down capital letters.|
 |**Anaheim**|WP Ducks|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Archivo**|WP Archivist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Averia Serif Libre**|WP Mean Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
+|**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs. This font uses the Medium weight files rather than the regular weighted ones for better e-ink performance.|
 |**Besley**|WP Bestley|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Made substantial kerning improvements to the SMCP glyphs and made the question mark more sane.|
 |**Cabin**|WP In the Woods|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospace. Ligatures have been disabled.|
@@ -41,6 +42,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL French Canon**|WP Fell French Canon|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL Great Primer**|WP Fell Great Primer|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
+|**Inter**|WP Between|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Libre Baskerville**|WP Mortimer|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -49,6 +51,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Mate**|WP Checkmate|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters.|
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
+|**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌||
 |**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0)|✅|✅|✅|❌|Based off OpenDyslexic 2.x, not the latest version (4.x has weird kerning/spacing issues)|
 |**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" ligature has been made a standard ligature.|
 |**Overlock**|WP Overlocked|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.|
