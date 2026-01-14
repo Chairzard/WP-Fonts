@@ -23,11 +23,14 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Adelphe**|WP Affinity|Open Inclusif·ve Fonte Licence|✅|✅|✅|❌|This release is based on the Mar 18, 2024 Adelphe font files, as the latest version uses the more restrictive CUTE License.|
 |**Afacad**|WP Dacafa|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Afacad was chosen rather than Afacad Flux due to its italic/bold italic styles.|
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Anaheim**|WP Ducks|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Archivo**|WP Archivist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Averia Serif Libre**|WP Mean Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Besley**|WP Bestley|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Made substantial kerning improvements to the SMCP glyphs and made the question mark more sane.|
+|**Cabin**|WP In the Woods|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospace. Ligatures have been disabled.|
 |**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
@@ -51,10 +54,13 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Overlock**|WP Overlocked|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.|
 |**Pixel Code**|WP PixelC|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Poly**|WP Polybius|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
+|**Poppins**|WP Mary|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**PT Serif**|WP Petey Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Radley**|WP Radical|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Redacted**|WP Unredacted|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Roboto Mono**|WP Bot Mono|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Monospace. Corrected the SMCP table in the font and added a C2SC table.|
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Rosarivo**|WP Rosebud|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
 |**Sorts Mill Goudy**|WP Out of Sorts|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
