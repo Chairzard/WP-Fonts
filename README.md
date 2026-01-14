@@ -58,6 +58,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**PT Serif**|WP Petey Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Radley**|WP Radical|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Redacted**|WP Unredacted|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
+|**Reddit Sans**|WP We Did It|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Roboto Mono**|WP Bot Mono|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Monospace. Corrected the SMCP table in the font and added a C2SC table.|
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosarivo**|WP Rosebud|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
@@ -66,9 +67,11 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Sorts Mill Goudy**|WP Out of Sorts|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**SUSE**|WP Geeko|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Tagesschrift**|WP One Day|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Ubuntu**|Ubuntu WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|The font is named differently than other fonts in this repo due to the font's license terms.|
 |**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
+|**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
 
 ## FAQs:
 
