@@ -2,7 +2,7 @@ OIFL - Open Inclusif·ve Fonte Licence
 
 • Copyright (c) - 2022 - Eugénie Bidaut - (http://xn--eugniebidaut-deb.eu / eugenie.bidaut@protonmail.com), avec le nom réservé suivant : Adelphe.
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Affinity. Small cap glyphs were generated from scaled-down uppercase glyphs and various kerning improvements have been made.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Affinity. Small cap glyphs were generated from scaled-down uppercase glyphs and various kerning improvements have been made.
 
 Cette fonte informatique est licenciée sous la licence SIL Open Font Licence, Version 1.1
 Cette licence figure ci dessous, et est aussi disponible, ainsi qu’une FAQ, à l’adresse : http://scripts.sil.org/OFL SIL OPEN FONT LICENCE Version 1.1 -

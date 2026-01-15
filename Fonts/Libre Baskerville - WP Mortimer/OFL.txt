@@ -1,7 +1,7 @@
 Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), 
 Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Libre Baskerville.
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Mortimer. Small cap glyphs were generated from scaled down capital letters.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Mortimer. Small cap glyphs were generated from scaled down capital letters.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

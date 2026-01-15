@@ -1,6 +1,6 @@
 Copyright (c) 2010, Igino Marini (mail@iginomarini.com)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Fell English. Small-cap glyphs were copied over from the IM Fell English SC font and merged into the IM Fell English font regular style, while small cap glyphs were generated from scaled-down uppercase glyphs in the italic style.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Fell English. Small-cap glyphs were copied over from the IM Fell English SC font and merged into the IM Fell English font regular style, while small cap glyphs were generated from scaled-down uppercase glyphs in the italic style.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -1,7 +1,7 @@
 Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), 
 with Reserved Font Names "Overlock" "Overlock SC"
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Overlocked. Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Overlocked. Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

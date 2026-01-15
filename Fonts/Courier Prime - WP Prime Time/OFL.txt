@@ -1,6 +1,6 @@
 Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Prime Time. Basic, scaled-down small capitals have been added to the file.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Prime Time. Basic, scaled-down small capitals have been added to the file.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

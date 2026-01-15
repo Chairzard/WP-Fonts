@@ -1,6 +1,6 @@
 Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Bot Mono. The small cap opentype feature has been fixed to enable small caps to render correctly. A cs2c table has also been added.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Bot Mono. The small cap opentype feature has been fixed to enable small caps to render correctly. A cs2c table has also been added.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

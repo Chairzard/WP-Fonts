@@ -1,6 +1,6 @@
 Copyright 2021 The Outfit Project Authors (https://github.com/Outfitio/Outfit-Fonts)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Outfitted. Small cap glyphs were generated from scaled down capital letters.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Outfitted. Small cap glyphs were generated from scaled down capital letters.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

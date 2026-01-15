@@ -1,6 +1,6 @@
 Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Amygdala. Small cap glyphs in the regular style were partially taken from the "SC" font file; all other small cap glyphs in the regular style, as well as all glyphs in the other styles, were generated from scaled down capital letters.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Amygdala. Small cap glyphs in the regular style were partially taken from the "SC" font file; all other small cap glyphs in the regular style, as well as all glyphs in the other styles, were generated from scaled down capital letters.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -1,6 +1,6 @@
 Copyright 2023 The Sedan Project Authors (https://github.com/googlefonts/sedan)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Bot Serif. Basic, scaled-down small capitals have been added to the italics file. Custom ligatures have been added to the italic style, as well as a major kerning fix to the regular style.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Vroom. Basic, scaled-down small capitals have been added to the italics file. Custom ligatures have been added to the italic style, as well as a major kerning fix to the regular style.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

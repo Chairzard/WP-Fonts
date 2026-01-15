@@ -1,6 +1,6 @@
 Copyright 2011 The Mate Project Authors (https://github.com/etunni/mate) with Reserved Font Name "Mate"
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Checkmate. Scaled-down small cap glyphs were added to the italic file.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Checkmate. Scaled-down small cap glyphs were added to the italic file.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

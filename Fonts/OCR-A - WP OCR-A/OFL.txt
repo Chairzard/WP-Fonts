@@ -1,4 +1,4 @@
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP OCR-A. Basic, scaled-down small capitals have been added to the file and custom glyphs have been added.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP OCR-A. Basic, scaled-down small capitals have been added to the file and custom glyphs have been added.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

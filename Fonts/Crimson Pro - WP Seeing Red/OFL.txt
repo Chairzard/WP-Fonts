@@ -1,6 +1,6 @@
 Copyright 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Seeing Red. Basic, scaled-down small capitals have been added to the file.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Seeing Red. Basic, scaled-down small capitals have been added to the file.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

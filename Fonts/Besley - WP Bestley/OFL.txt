@@ -1,6 +1,6 @@
 Copyright 2020 The Besley Project Authors (https://github.com/indestructible-type/Besley)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Bestley. Kerning for the existing small capital letters has been improved. The question mark has also been made more sane.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Bestley. Kerning for the existing small capital letters has been improved. The question mark has also been made more sane.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

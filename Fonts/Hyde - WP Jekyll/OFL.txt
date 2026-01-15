@@ -1,6 +1,6 @@
 Copyright (c) 2007 by Andrew Berry (https://github.com/andrewb/hyde/). All rights reserved.
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Jekyll. Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small baps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Jekyll. Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small baps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

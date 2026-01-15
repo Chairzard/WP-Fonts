@@ -1,7 +1,7 @@
 Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar), 
 with Reserved Font Names "Rosarivo", "Rosarivo Pro", "Rosarivo UGR"
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Rosebud. Small cap glyphs were generated from scaled down capital letters.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Rosebud. Small cap glyphs were generated from scaled down capital letters.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

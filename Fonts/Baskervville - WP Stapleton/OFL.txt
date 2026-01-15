@@ -1,6 +1,6 @@
 Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Stapleton. Small cap glyphs were added to the italic/bold italic files based on the glyphs in the regular/bold files. A kerning fix was also implemented.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Stapleton. Small cap glyphs were added to the italic/bold italic files based on the glyphs in the regular/bold files. A kerning fix was also implemented.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

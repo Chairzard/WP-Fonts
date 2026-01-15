@@ -1,6 +1,6 @@
 Copyright 2020 The Jost Project Authors (https://github.com/indestructible-type/Jost)
 
-(c) 2025 Winston Payne/Chairzard. (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Jasper. Basic, scaled-down small capitals have been added to the file. Kerning improvements have been made to the font.
+(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Jasper. Basic, scaled-down small capitals have been added to the file. Kerning improvements have been made to the font.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
 
