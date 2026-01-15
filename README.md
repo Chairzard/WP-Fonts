@@ -31,7 +31,10 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Aref Ruqaa**|WP Agile Ruqaa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Arabic characters have been removed.|
 |**Archivo**|WP Archivist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|
+|**Atkinson Hyperlegible Mono**|WP Hyperlegible Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospace.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Averia Libre**|WP Mean|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Averia Sans Libre**|WP Mean Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Averia Serif Libre**|WP Mean Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs. This font uses the Medium weight files rather than the regular weighted ones for better e-ink performance.|
 |**Besley**|WP Bestley|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Made substantial kerning improvements to the SMCP glyphs and made the question mark more sane.|
