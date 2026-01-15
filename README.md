@@ -52,7 +52,9 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Formera**|WP Past|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Gensco**|WP Lucretia|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
+|**Hack**|WP Hacked|MIT License/Bitstream Vera License|✅|✅|✅|❌|Monospaced font.|
 |**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small caps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.|
+|**IBM 3270**|WP 3270|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
@@ -70,6 +72,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
 |**OCR-A**|WP OCR-A|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
 |**OCR-B**|WP OCR-B|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
+|**Old Timey Mono**|WP Old Timer|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font.|
 |**OpenDyslexic**|WP OD|Creative Commons Attribution 4.0 International license (CC BY 4.0)|✅|✅|✅|❌|Based off OpenDyslexic 2.x, not the latest version (4.x has weird kerning/spacing issues)|
 |**Orbit**|WP Galaxy|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font. Ligatures and Korean removed.|
 |**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" ligature has been made a standard ligature.|
@@ -79,7 +82,6 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Poppins**|WP Mary|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**PT Serif**|WP Petey Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Radley**|WP Radical|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
-|**Redacted**|WP Unredacted|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Reddit Sans**|WP We Did It|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Roboto Mono**|WP Bot Mono|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Monospaced font. Corrected the SMCP table in the font and added a C2SC table.|
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
