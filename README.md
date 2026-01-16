@@ -60,6 +60,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL French Canon**|WP Fell French Canon|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL Great Primer**|WP Fell Great Primer|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
+|**Inria Serif**|WP Calcul|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Inter**|WP Between|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
