@@ -46,9 +46,12 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Cause**|WP Just|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font. Ligatures have been disabled.|
 |**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Comic Neue**|WP Comic New|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Cuomotype**|WP Andrewtype|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
+|**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
+|**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Formera**|WP Past|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Gensco**|WP Lucretia|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
@@ -63,6 +66,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Inria Serif**|WP Calcul|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Inter**|WP Between|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Libre Baskerville**|WP Mortimer|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Libre Caslon Text**|WP Caslon|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -71,6 +75,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Mate**|WP Checkmate|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters.|
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
+|**Noticia Text**|WP Notice|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**OCR-A**|WP OCR-A|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
 |**OCR-B**|WP OCR-B|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
 |**Old Timey Mono**|WP Old Timer|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font.|
@@ -88,6 +93,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosarivo**|WP Rosebud|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
+|**Shippori Mincho**|WP S Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
 |**Sorts Mill Goudy**|WP Out of Sorts|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
