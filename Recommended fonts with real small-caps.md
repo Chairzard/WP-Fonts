@@ -1,14 +1,15 @@
 The following fonts which work well on e-ink displays have small capitals already built in, so no modified version is needed to render text correctly in KOReader. If the regular font style is too thin (Baskervvile, Ibarra Real Nova, etc), try increasing the font size and/or using a heavier font weight (instead of using Regular/Italic, you may choose Medium/Medium Italic).  
 
-Links to project repositories will be added in a future update. Note that *most* of these are available on either Google Fonts or CTAN. For fonts on Google Fonts, I highly encourage you to seek out the font project's repository for the most up-to-date version of the font; Google Fonts can be very slow to update, if it updates at all.
+Links to project repositories will be added in a future update. Note that *most* of these are available on either Google Fonts or CTAN. For fonts on Google Fonts, I highly encourage you to seek out the font project's repository for the most up-to-date version of the font; Google Fonts can be very slow to update, if it updates at all. CTAN's fonts generally aren't hosted on external repositories.  
+
+Fonts with native small caps in all four styles:  
+
 - Alegreya
 - Ancizar Serif
 - Andada Pro
 - Antykwa Torunska
 - Baskervaldx
-- Baskervville (regular/bold styles only; a modified version is planned for release so they work across all styles)
 - Bedstead
-- Besley
 - Bitter
 - Bona Nova
 - Brygada 1918
@@ -24,7 +25,6 @@ Links to project repositories will be added in a future update. Note that *most*
 - Electrum ADF
 - Elstob
 - Exo
-- Fanwood Text (regular style only; a modified version is planned for release so they work across all styles)
 - Fira Sans
 - FreeSerif
 - GFS Artemisia
@@ -32,7 +32,6 @@ Links to project repositories will be added in a future update. Note that *most*
 - Gentium Book
 - Hahmlet
 - Hepta Slab
-- Hyde (small caps are broken in the italic/bold files; a modified version is planned for release so they work across all styles)
 - Ibarra Real Nova
 - JuliaMono
 - Junicode
@@ -41,7 +40,6 @@ Links to project repositories will be added in a future update. Note that *most*
 - Lekton
 - Libertinus Sans
 - Libertinus Serif
-- Linden Hill (regular style only; a modified version is planned for release so they work across all styles)
 - Literata
 - Luciole
 - Mate
@@ -54,23 +52,17 @@ Links to project repositories will be added in a future update. Note that *most*
 - Noto Sans Mono
 - Noto Serif
 - Old Standard
-- Overlock (regular style only, broken in the base font; a modified version is planned).
 - Petrona
 - Piazzolla
 - Poltawski Nowy
-- Poly
 - REM
 - Raleway
 - Roboto
-- Roboto Mono
 - Roboto Slab
 - STIX Two Text
 - Science Gothic
-- Sedan (regular style only; a modified version is planned for release so they work across all styles)
 - Signika
 - Sofia Sans
-- Sorts Mill Goudy (regular style only; a modified version is planned for release)
-- Source Serif 4
 - Spectral
 - TeX Gyre Adventor
 - TeX Gyre Bonum
@@ -79,7 +71,6 @@ Links to project repositories will be added in a future update. Note that *most*
 - TeX Gyre Pagella
 - TeX Gyre Schola
 - TeX Gyre Termes (a modified version is planned for release to fix some bad kerning issues)
-- Vollkorn (regular/bold styles only; a modified version is planned for release so they work across all styles)
 - Work Sans
 - XCharter
 - Young Serif
@@ -87,3 +78,18 @@ Links to project repositories will be added in a future update. Note that *most*
 - Zilla Slab (a modified version is planned for release to fix some bad kerning issues)
 - erewhon
 - fbb
+
+The following fonts include small-caps already, but are missing them in one or more styles in the base font files (or their implemenation and/or kerning is broken). I recommend using my modified versions of these font for KOReader:  
+
+- Baskervville
+- Besley
+- Fanwood Text
+- Hyde
+- Linden Hill
+- Overlock
+- Poly
+- Roboto Mono
+- Sedan
+- Sorts Mill Goudy
+- Source Serif 4
+- Vollkorn
