@@ -50,6 +50,8 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Cooper Hewitt**|WP Coop|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Cuomotype**|WP Andrewtype|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
+|**DejaVu Sans Mono**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**DejaVu Serif**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -59,6 +61,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Gensco**|WP Lucretia|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Granstander**|WP Sophist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Google Sans**|WP Search Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Gupter**|WP Reptar|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Hack**|WP Hacked|MIT License/Bitstream Vera License|✅|✅|✅|❌|Monospaced font.|
 |**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small caps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.|
 |**IBM 3270**|WP 3270|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
