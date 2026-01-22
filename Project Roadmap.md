@@ -1,5 +1,6 @@
 # Project Roadmap
 
+|Task|Status|
 |---|---|
 |Upload the highest-priority (most commonly used) fonts|✅ Done|
 |Upload the less commonly used fonts|In progress|
