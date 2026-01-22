@@ -10,7 +10,7 @@ To this:
 
 The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).
 
-Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that word in small-caps will have the same appearance as a word in all uppercase. However, in many cases this results in kerning that is a little too tight. This may be addressed in future updates.
+Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase. However, in many cases this results in kerning that is a little too tight. This may be addressed in future updates.
 
 ## Current list of fonts available:
 
@@ -52,6 +52,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**DejaVu Sans Mono**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**DejaVu Serif**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Eczar**|WP Ick|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
