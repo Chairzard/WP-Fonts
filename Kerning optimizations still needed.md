@@ -17,9 +17,8 @@
 - Inria Serif
 - Jost
 - Jura
-- Koho
+- Koho (I currently don't have plans to update it).
 - Labrada
-- League Spartan
 - Lexend
 - Libre Baskerville
 - Mali
