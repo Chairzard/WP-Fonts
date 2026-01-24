@@ -1,5 +1,4 @@
 ## Current list of fonts that need kerning optimizations (not all have had their WP font counterparts created, but I have them in my collection):  
-- Adelphe
 - Afacad
 - Aleo
 - Amarna
@@ -10,12 +9,10 @@
 - DejaVu Serif
 - Enriqueta
 - Finlandica
-- Formera
 - Glory
 - Google Sans
-- Gupter
+- Gupter (I currently don't have plans to update it).
 - Inria Serif
-- Jost
 - Jura
 - Koho (I currently don't have plans to update it).
 - Labrada
@@ -23,7 +20,7 @@
 - Libre Baskerville
 - Mali
 - OpenDyslexic 2
-- Overpass
+- Overpass (I currently don't have plans to update it).
 - Playpen Sans
 - Recursive Sans Casual
 - Recursive Sans Linear
