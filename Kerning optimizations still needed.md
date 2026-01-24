@@ -15,7 +15,6 @@
 - Google Sans
 - Gupter
 - Inria Serif
-- Jost
 - Jura
 - Koho (I currently don't have plans to update it).
 - Labrada
