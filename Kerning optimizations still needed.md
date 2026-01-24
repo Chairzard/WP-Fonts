@@ -1,0 +1,31 @@
+## Current list of fonts that need kerning optimizations (not all have had their WP font counterparts created, but I have them in my collection):  
+- Adelphe
+- Afacad
+- Aleo
+- Amarna
+- Archivo
+- Caladea
+- Chakra Petch
+- Cooper Hewitt
+- DejaVu Serif
+- Enriqueta
+- Finlandica
+- Formera
+- Glory
+- Google Sans
+- Gupter
+- Inria Serif
+- Jost
+- Jura
+- Koho
+- Labrada
+- League Spartan
+- Lexend
+- Libre Baskerville
+- Mali
+- OpenDyslexic 2
+- Overpass
+- Playpen Sans
+- Recursive Sans Casual
+- Recursive Sans Linear
+- Reddit Sans
