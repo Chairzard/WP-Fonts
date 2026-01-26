@@ -1,11 +1,10 @@
 ## Current list of fonts that need kerning optimizations (not all have had their WP font counterparts created, but I have them in my collection):  
-- Afacad
 - Aleo
 - Amarna
 - Archivo
 - Caladea
 - Chakra Petch
-- Cooper Hewitt
+- Cooper Hewitt (I currently don't have plans to update it).
 - DejaVu Serif
 - Finlandica
 - Glory
