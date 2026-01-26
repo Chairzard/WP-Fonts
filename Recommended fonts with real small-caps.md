@@ -12,6 +12,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Baskervaldx](https://www.ctan.org/pkg/baskervaldx)
 - [Bitter](https://fonts.google.com/specimen/Bitter)
 - [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918)
+- [Walleye](https://github.com/chuckmasterson/walleye)
 
 Links to project repositories will be added in a future update. Note that *most* of these are available on either Google Fonts or CTAN. For fonts on Google Fonts, I highly encourage you to seek out the font project's repository for the most up-to-date version of the font; Google Fonts can be very slow to update, if it updates at all. CTAN's fonts generally aren't hosted on external repositories.  
 

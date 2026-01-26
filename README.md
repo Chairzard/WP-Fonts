@@ -79,6 +79,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Inter**|WP Between|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Kay Pho Du**|WP Kaye|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**Kelvinch**|WP Kelvin|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The base fonts supports petite capitals; I created a small-capital opentype table to enable them to work with small-caps and fixed an error that cause ligatures to override the table. The broken kerning tables were removed to allow the font to save. The font has also been hinted.|
 |**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Liberation Mono**|WP Libertino Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
