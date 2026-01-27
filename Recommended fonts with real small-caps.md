@@ -8,35 +8,39 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Ancizar Serif](https://fonts.google.com/specimen/Ancizar+Serif)
 - [Ancizar Sans](https://fonts.google.com/specimen/Ancizar+Sans)
 - [Andada Pro](https://huertatipografica.com/en/fonts/andada-ht-pro)
+- [Andika](https://github.com/silnrsi/font-andika)
 - [Antykwa Torunska](https://www.ctan.org/tex-archive/fonts/antt/)
 - [Baskervaldx](https://www.ctan.org/pkg/baskervaldx)
 - [Bitter](https://fonts.google.com/specimen/Bitter)
 - [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918)
+- [Castoro](https://github.com/TiroTypeworks/Castoro)
+- [Charis](https://github.com/silnrsi/font-charis/)
+- [Cochineal](https://ctan.org/pkg/cochineal?lang=en)
+- [Coelacanth](https://gitlab.com/Fuzzypeg/coelacanth)
 - [Walleye](https://github.com/chuckmasterson/walleye)
+- [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
 
 Links to project repositories will be added in a future update. Note that *most* of these are available on either Google Fonts or CTAN. For fonts on Google Fonts, I highly encourage you to seek out the font project's repository for the most up-to-date version of the font; Google Fonts can be very slow to update, if it updates at all. CTAN's fonts generally aren't hosted on external repositories.  
 
-Fonts with native small caps in all four styles:  
+The following fonts have 3 files available, but are missing a single style:  
 
-The following fonts do not have italic styles available. KOReader will apply an oblique effect to text, when a file calls for italics:
+- [Bona Nova](https://fonts.google.com/specimen/Bona+Nova) - Missing Bold Italic
+- [Neuton](https://fonts.google.com/specimen/Neuton) - Missing Bold Italic
+
+The following fonts do not have italic styles available. KOReader will apply an oblique effect to text, when a file calls for italics:  
 
 - [Bedstead](https://fontlibrary.org/en/font/bedstead)
 
-The following fonts do not have bold styles available. KOReader will apply added weight to the font when the text call for bold text. How good this looks varies wildly; tread with caution, if reading text that uses bold text:
+The following fonts do not have bold styles available. KOReader will apply added weight to the font when the text call for bold text. How good this looks varies wildly; tread with caution, if reading text that uses bold text:  
 
-The following fonts have 3 files available, but are missing a single style:
+- [Chapbook](https://www.feorag.com/freestuff/chapbook.html)
 
-- [Bona Nova](https://fonts.google.com/specimen/Bona+Nova) - Missing Bold Italic
+The following fonts come in only a single, regular style. Both italics and bold text will have an artificial effect created by KOReader:  
+
+- [Departure Mono](https://github.com/rektdeckard/departure-mono)
 
 UNSORTED (links/more info to be provided in a future update):  
 
-- Andika
-- Castoro
-- Chapbook
-- Charis
-- Cochineal
-- Coelacanth
-- Departure Mono
 - Drafting Mono
 - EB Garamond
 - ETbb
@@ -90,7 +94,6 @@ UNSORTED (links/more info to be provided in a future update):
 - Work Sans
 - XCharter
 - Young Serif
-- Ysabeau
 - Zilla Slab (a modified version is planned for release to fix some bad kerning issues)
 - erewhon
 - fbb
