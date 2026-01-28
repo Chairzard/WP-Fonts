@@ -68,6 +68,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Google Sans**|WP Search Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Gupter**|WP Reptar|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Hack**|WP Hacked|MIT License/Bitstream Vera License|✅|✅|✅|❌|Monospaced font.|
+|**Happy Times at the IKOB**|WP Happy|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small caps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.|
 |**IBM 3270**|WP 3270|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**Inika**|WP Eureka|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
@@ -79,6 +80,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Inria Serif**|WP Calcul|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Inter**|WP Between|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Jura**|WP Ticket|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Kay Pho Du**|WP Kaye|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Kelvinch**|WP Kelvin|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The base fonts supports petite capitals; I created a small-capital opentype table to enable them to work with small-caps and fixed an error that cause ligatures to override the table. The broken kerning tables were removed to allow the font to save. The font has also been hinted.|
 |**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
@@ -93,6 +95,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Maitree**|WP My Tree|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Manuale**|WP Manually|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Mate**|WP Checkmate|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters.|
+|**Merriweather**|WP Merry Weather|SIL Open Font License (version 1.1)|✅|✅|✅|✅|This fixes an issue which causes ligatures to have priority over small-caps in the base font.|
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
 |**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
@@ -143,7 +146,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 **A:** Various other changes have occasionally been made; see the notes for each font above. Among the changes I tend to make:kerning adjustments (usually for glaring errors, but sometimes I'd improve the kerning classes), enabling ligatures that weren’t properly enabled in the original files, manually creating extra ligatures when they were badly needed, hinting the fonts using TTFAutohint, and removing scripts besides Latin and Greek to reduce file sizes (especially with the "Mincho" files).
 
 **Q: Will you add Bookerly, Rakuten Serif, or (insert proprietary font here)?**  
-**A:** Unfortunately, I cannot legally edit or share these font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s firmware does have small-caps built in (the version hosted on the Amazon Developer site for developers is outdated). See the mobileread forums for more info on this.
+**A:** Unfortunately, I cannot legally edit or redistribute these font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s firmware *does* have small-caps built in (the version hosted on the Amazon Developer site for developers is outdated).
 
 **Q: Can you add or update (insert non-proprietary font here)?**  
 **A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here. If the font doesn’t have small-caps, as long as the font you want is available under an open font license such as the OFL/GUST license/etc, I’d consider adding it. I probably only want to update fonts already listed here if the base font has had a major change, and I primarily want to add Serif fonts at this point. There are more than enough good sans-serif fonts out there, some with true small-caps like Work Sans, TeX Gyre Heros, Roboto, Noto Sans, Fira Sans, Raleway, Montserrat, and Sofia Sans, just to name a few. However, if there’s a Sans Serif font that truly stands out or if I feel I can handle it quickly, I’d consider it (I can process a font that uses kerning classes only dramatically faster than one that uses kerning tables in FontForge). Create an issue in the GitHub issue tracker, and I’ll at least take a look.
