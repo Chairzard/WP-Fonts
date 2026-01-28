@@ -18,7 +18,7 @@
 - Mali
 - OpenDyslexic 2
 - Overpass (I currently don't have plans to update it).
-- Playpen Sans
+- Playpen Sans (updating the kerning isn't feasible)
 - Recursive Sans Casual
 - Recursive Sans Linear
 - Reddit Sans
