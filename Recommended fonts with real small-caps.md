@@ -64,7 +64,7 @@ UNSORTED (links/more info to be provided in a future update):
 - Libertinus Serif
 - Literata
 - Luciole
-- Merriweather
+
 - Minipax
 - Montserrat
 - Munson
@@ -111,6 +111,7 @@ The following fonts include small-caps already, but are missing them in one or m
 - [IM FELL Great Primer](github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [Linden Hill](github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
 - [Mate](github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
+- [Merriweather](https://fonts.google.com/specimen/Merriweather) - Fixes broken small-cap implemenation in the base files.
 - [Overlock](github.com/Chairzard/WP-Fonts); Small-caps in all styles except Regular are fake.
 - [Poly](github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
 - [Roboto Mono](github.com/Chairzard/WP-Fonts)
