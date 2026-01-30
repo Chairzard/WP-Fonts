@@ -1,24 +1,46 @@
-## Current list of fonts that need kerning optimizations (not all have had their WP font counterparts created, but I have them in my collection):  
-- Aleo
+## Current list of fonts that need kerning optimizations
+
+Not all listed fonts have had their WP font counterparts created, but I have them in my collection and plan to add them after optimizing the kerning. Existing fonts will be re-uploaded, when completed.:  
+
 - Amarna
+- Anaheim
 - Archivo
+- Atkinson Hyperlegible Next
+- Brawler
+- Cabin
 - Caladea
 - Chakra Petch
-- Cooper Hewitt (I currently don't have plans to update it).
+- Comic Neue
+- Cooper Hewitt
+- Crimson Pro
 - DejaVu Serif
+- Domine
+- Faustina
 - Finlandica
-- Glory
+- Frank Ruhl Libre
 - Google Sans
-- Gupter (I currently don't have plans to update it).
-- Jura
-- Koho (I currently don't have plans to update it).
+- Grandstander
+- Inter
+- Josefin Sans
 - Labrada
-- Lexend
 - Libre Baskerville
+- Libre Caslon Text
+- Lora
 - Mali
-- OpenDyslexic 2
-- Overpass (I currently don't have plans to update it).
-- Playpen Sans (updating the kerning isn't feasible)
+- Manuale
+- Newt Serif
+- Outfit
+- Overpass
+- Philosopher
 - Recursive Sans Casual
 - Recursive Sans Linear
 - Reddit Sans
+- Roboto Serif
+- SUSE
+- Texturina
+- Ubuntu
+- Vesper Libre
+- Volkhov
+- Winky Sans
+- Wittgenstein
+- Zen Old Mincho

@@ -149,7 +149,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 **A:** Unfortunately, I cannot legally edit or redistribute these font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s firmware *does* have small-caps built in (the version hosted on the Amazon Developer site for developers is outdated).
 
 **Q: Can you add or update (insert non-proprietary font here)?**  
-**A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here. If the font doesn’t have small-caps, as long as the font you want is available under an open font license such as the OFL/GUST license/etc, I’d consider adding it. I probably only want to update fonts already listed here if the base font has had a major change, and I primarily want to add Serif fonts at this point. There are more than enough good sans-serif fonts out there, some with true small-caps like Work Sans, TeX Gyre Heros, Roboto, Noto Sans, Fira Sans, Raleway, Montserrat, and Sofia Sans, just to name a few. However, if there’s a Sans Serif font that truly stands out or if I feel I can handle it quickly, I’d consider it (I can process a font that uses kerning classes only dramatically faster than one that uses kerning tables in FontForge). Create an issue in the GitHub issue tracker, and I’ll at least take a look.
+**A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here (unless something is seriously messed up with the base font). I want to move on from this obsession of mine, so I only really would consider creating monospaced fonts (as they require no kerning, by far the most time-intensive step), fonts that lack kerning entirely, fonts that only use kerning pairs rather than classes (as they can have kerning copied effortlessly), or fonts that are so good that they feel worth the time investment for me. Create an issue in the GitHub issue tracker if a font catches your eye that you'd like to see a KOReader-friendly version of.
 
 **Q: Can you add the glyphs from (insert language here)?**  
 **A:** To save time, these files were created and use only the glyph sets I expect to run across in the books I read (Latin and Greek). I currently do not have plans to re-do any of these fonts with other glyph sets. However, I’ve provided instructions on how to make your own fake small-caps below.
@@ -163,6 +163,9 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 **Q: Why were the font files renamed?**  
 **A:** To avoid confusion with the original font files, as well as to allow the modified files to coexist with the originals. Additionally, fonts under the OFL often have reserved font names. To legally redistribute them, I had to change the font names.
 
+**Q: How were the font names chosen?**  
+**A:** I just used references or puns that came to mind, most of the time.
+
 **Q: Why are the Italic/Bold/Bold Italic files missing?**  
 **A:** Font styles will be missing when the original font lacks them. I try to favor fonts that include all four styles, but oftentimes I liked the base font enough to include it anyway and deal with KOReader applying a fake oblique and/or bold effect when needed. Your ereader/app will probably fake these effects if they’re missing (The only exception I’m aware of is Kindle, which won’t properly render Bold Italic if you are missing the Bold Italic File but have regular Bold and Italic; in that case, delete/don’t use the Bold file at all).
 
@@ -170,6 +173,8 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 **A:** Please let me know if this happens and update your ereader/computer with the official files. I will retire the customized version in that case. Real small-caps always look better than fake, scaled-down ones.
 
 ## How to create your own fake small caps in FontForge:
+
+*NOTE: Fonts sometimes keep their kerning classes in their dist/mark tables; if you don't see kerning classes under "kern", look there*.  
 
 If you’re looking to create your own fake small-capital glyphs, here are the steps I used in FontForge (current as of version 20251009). I **strongly** recommend saving frequently when doing this, as FontForge has a bad habit of crashing, especially in step 4.
 
@@ -190,8 +195,25 @@ If you’re looking to create your own fake small-capital glyphs, here are the s
 11. *MONOSPACE FONTS ONLY: Select all glyphs, then select metrics → set width. Set the width of all glyphs in the font to the number from step 9. You need to do this so that FontForge flags the font as a monospace font (this is needed, in turn, so that KOReader recognizes the font as a monospace font).*
 12. *MONOSPACE FONTS ONLY: Select Metrics → Center in width.*
 13. Go to Element → Font info → Lookups. Under GSUB, we’ll need to edit two tables so that smallcap lookups happen correctly. Move smcp and c2sc to the top of your list, if they aren't there already (the order of those two doesn’t matter; those two just need to be above everything else). Hit the plus button for each, then click the entry that pops up, and finally click Edit Data. IN ORDER, do the following: Remove All, Populate, Remove empty. You’ll know you messed this step up if you see dots about your small-capital “I”s when you test out the font!
-14. *OPTIONAL: If you want proper kerning for the small-capital glyphs, you’re going to have to manually add it in. Step 7 copied over any kerning pairs your font may have had, but if your font also uses kerning tables (common, especially for newer fonts), the only way that I know of to do this is to manually add all your small-cap glyphs to the kerning classes that the glyphs they’re based off of are in (for example, you’d add “a.sc” to the Kerning classes “A” is in). Additionally, some fonts for some reason I'm not entirely sure of require the kerning tables to be scaled, too, in order to kern the small caps correctly. In that case, you'd need to have 3 copies of kerning tables per table in the regular file: 1 without any alterations and not scaled down, 1 with only .sc glyphs listed on the left side (scaled down), and 1 with on right side (scaled down). You can scale down the kerning classes by scaling any glyph in the font that's not in the class and selecting the option to scale kerning classes. I’m not going to sugarcoat it; this can be a brutal process and takes way too long, so if you can live without proper kerning, skip this step. I couldn’t, so all fonts here are kerned.*
-15. Go to file → Generate fonts and generate your fonts!
+14. *OPTIONAL: If you want proper kerning for the small-capital glyphs, you’re going to have to manually add it in. Step 7 copied over any kerning pairs your font may have had, but if your font also uses kerning tables (common, especially for newer fonts), the process is nightmarish. See instructions below. I’m not going to sugarcoat it; that can be a brutal process and takes way, way too long, so if you can live without proper kerning, skip this step. I couldn’t, so all fonts here are kerned.*
+15. Go to file → Generate fonts and generate your fonts!  
+
+Masochists only: Kerning your fonts that include kerning classes.  
+
+1. PREREQUISTE: Keep unaltered copies of your fonts handy.
+2. You'll need to manually add all your small-cap glyphs to the kerning classes that the glyphs they’re based off of are in (for example, you’d add “a.sc” to the Kerning classes “A” is in). Save a copy of the new font file(s) with these additions.
+3. Create 2 new files titled Left and Right.
+4. Remove all glyphs from ALL kerning classes on the left or right side, besides the .sc glyphs (you should delete any tables that don't have .sc glyphs on the side you're working on). Save.
+5. Repeat step 4, but in the other file/on the other side. Save.
+6. Load the file from step 2. Delete all kerning classes.
+7. Load the vanilla font from step one from within the same window (this enables imports).
+8. Go to the kerning class tables (element → font info → lookups → GPOS) and import the kerning tables from the other font (delete any "per glyph" tables; they'll be blank. The same goes for the following steps). Give the table and classes unique numbers/names (or you may run into wonky behavior).
+9. Arrange the kerning classes in the same order as the are in the base font. Save and quit FontForge (this prevents crashes).
+10. Open the file you're working on. Within that window, open the "left" or "right" file.
+11. Import the kerning classes from that file. Arrange the imported classes below the existing ones. Save and quit.
+12. Open the file you're working on. Within that window, open the "left" or "right" file not used in step 10.
+13. Import the kerning classes from that file. Arrange the imported classes below the existing ones. Merge them into the classes from step 11 (merge them in the same order; for example, you'd merge kerning class 4 from the right file into class 4 from the left).
+14. Export the font.
 
 **IMPORTANT NOTE:** I recommend saving in the file format that the original font files were in to avoid losing the font’s hinting data. For ttf files, generate the fonts in “TrueType” format, and make sure that within the Options box you have the following settings checked:
 - Hints
