@@ -1,6 +1,6 @@
 ## Current list of fonts that need kerning optimizations
 
-Not all listed fonts have had their WP font counterparts created, but I have them in my collection and plan to add them after optimizing the kerning. Existing fonts will be re-uploaded, when completed.:  
+The fonts listed below have not had their kerning classes scaled down. As a result, kerning on these for the small-cap characters is a bit too tight (how tight depends on the font; the difference may sometimes be almost imperceptible). Not all listed fonts have had their WP font counterparts created, but I have them in my collection and plan to add them after optimizing the kerning. Existing fonts will be re-uploaded, when completed.:  
 
 - Amarna
 - Anaheim
@@ -13,7 +13,6 @@ Not all listed fonts have had their WP font counterparts created, but I have the
 - Comic Neue
 - Cooper Hewitt
 - Crimson Pro
-- DejaVu Serif
 - Domine
 - Faustina
 - Finlandica
