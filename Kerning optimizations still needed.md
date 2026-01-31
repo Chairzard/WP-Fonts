@@ -21,6 +21,7 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Grandstander
 - Inter
 - Josefin Sans
+- Kreon
 - Labrada
 - Libre Baskerville
 - Libre Caslon Text
@@ -35,6 +36,7 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Recursive Sans Linear
 - Reddit Sans
 - Roboto Serif
+- Rosario
 - SUSE
 - Texturina
 - Ubuntu

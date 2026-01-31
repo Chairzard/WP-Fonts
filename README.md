@@ -30,8 +30,8 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Amarna**|WP Armada|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Anaheim**|WP Ducks|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Anonymous Pro**|WP Four Chan|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**Aref Ruqaa**|WP Agile Ruqaa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Arabic characters have been removed.|
 |**Archivo**|WP Archivist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Aref Ruqaa**|WP Agile Ruqaa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Arabic characters have been removed.|
 |**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|
 |**Atkinson Hyperlegible Mono**|WP Hyperlegible Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -46,44 +46,61 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Caladea**|WP Calamari|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Cascadia Mono**|WP Dishwasher|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Cause**|WP Just|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font. Ligatures have been disabled.|
-|**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Comic Neue**|WP Comic New|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Comic Relief**|WP Class Clown|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**Comic Shanns**|WP Funny Shanns|MIT License|❌|❌|❌|❌|Monospaced font.|
+|**Commit Mono**|WP Committed|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Cooper Hewitt**|WP Coop|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font. Ligatures have been disabled.|
+|**Crete Round**|WP Cretan|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
+|**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Cuomotype**|WP Andrewtype|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
-|**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
+|**Cutive Mono**|WP Executive Premier|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font.|
 |**DejaVu Sans Mono**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**DejaVu Serif**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**DM Mono**|WP Dredge|SIL Open Font License (version 1.1)|❌|✅|❌|❌|Monospaced font.|
+|**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**Eczar**|WP Ick|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Enriqueta**|WP Silkscreen|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Fantasque Sans Mono**|WP Fantastic|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Finlandica**|WP Finland|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Fira Mono**|WP Fox Mono|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
 |**Formera**|WP Past|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Frank Ruhl Libre**|WP Frank Rules|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Gensco**|WP Lucretia|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
-|**Granstander**|WP Sophist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Geom**|WP Geometry|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Glegoo**|WP Igloo|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**Go Mono**|WP Collect $200|The 3-Clause BSD License|✅|✅|✅|❌|Monospaced font.|
 |**Google Sans**|WP Search Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Google Sans Code**|WP Search Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Granstander**|WP Sophist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Gupter**|WP Reptar|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Hack**|WP Hacked|MIT License/Bitstream Vera License|✅|✅|✅|❌|Monospaced font.|
 |**Happy Times at the IKOB**|WP Happy|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small caps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.|
 |**IBM 3270**|WP 3270|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
-|**Inika**|WP Eureka|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL French Canon**|WP Fell French Canon|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL Great Primer**|WP Fell Great Primer|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
+|**Inconsolata**|WP Inconsolable|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
+|**Inika**|WP Eureka|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Inria Serif**|WP Calcul|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Intel One Mono**|WP CPU Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Inter**|WP Between|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jura**|WP Ticket|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**Karma**|WP Korma|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Kay Pho Du**|WP Kaye|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Kelvinch**|WP Kelvin|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The base fonts supports petite capitals; I created a small-capital opentype table to enable them to work with small-caps and fixed an error that cause ligatures to override the table. The broken kerning tables were removed to allow the font to save. The font has also been hinted.|
+|**Kode Mono**|WP Koder|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
+|**Laila**|WP Dominos|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-Latin characters have been removed.|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Liberation Mono**|WP Libertino Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Liberation Sans**|WP Libertino Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -92,12 +109,21 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Libre Caslon Text**|WP Caslon|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Linden Hill**|WP Hill House|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Lotion**|WP In the Basket|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Maitree**|WP My Tree|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Manuale**|WP Manually|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Maple Mono**|WP Toronto|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Martian Mono**|WP Mars|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Mate**|WP Checkmate|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters.|
 |**Merriweather**|WP Merry Weather|SIL Open Font License (version 1.1)|✅|✅|✅|✅|This fixes an issue which causes ligatures to have priority over small-caps in the base font.|
-|**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
+|**Monaspace Argon**|WP MS A|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Monaspace Krypton**|WP MS K|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Monaspace Neon**|WP MS N|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Monaspace Radon**|WP MS R|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Monaspace Xenon**|WP MS X|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**mononoki**|WP Doki Doki|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
+|**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
 |**Noticia Text**|WP Notice|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**OCR-A**|WP OCR-A|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
@@ -109,30 +135,33 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" ligature has been made a standard ligature.|
 |**Overlock**|WP Overlocked|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.|
 |**Overpass**|WP Underpass|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Pixel Code**|WP PixelC|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Philospher**|WP Philosophy|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Philosopher**|WP Philosophy|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Pixel Code**|WP PixelC|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced.|
 |**Poly**|WP Polybius|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Poppins**|WP Mary|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Proggy**|WP Froggy|MIT License|❌|❌|❌|❌|Monospaced font.|
 |**Proza Libre**|WP Prose|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Ligatures have been enabled.|
 |**PT Serif**|WP Petey Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Radley**|WP Radical|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Reddit Sans**|WP We Did It|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Roboto Mono**|WP Bot Mono|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Monospaced font. Corrected the SMCP table in the font and added a C2SC table.|
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Rosario**|WP Rosenblum|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosarivo**|WP Rosebud|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
+|**Share Tech Mono**|WP Shared Tech Mono|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced.|
 |**Shippori Mincho**|WP S Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
-|**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
 |**Sorts Mill Goudy**|WP Out of Sorts|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
+|**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
 |**SUSE**|WP Geeko|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Tagesschrift**|WP One Day|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Typey McTypeface**|WP Face Off|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Ubuntu**|Ubuntu WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|The font is named differently than other fonts in this repo due to the font's license terms.|
-|**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|
 |**Vesper Libre**|WP Venus|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Devanagari characters have been removed.|
 |**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
+|**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|
 |**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
 
 ## FAQs:
@@ -147,10 +176,10 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 **A:** Various other changes have occasionally been made; see the notes for each font above. Among the changes I tend to make:kerning adjustments (usually for glaring errors, but sometimes I'd improve the kerning classes), enabling ligatures that weren’t properly enabled in the original files, manually creating extra ligatures when they were badly needed, hinting the fonts using TTFAutohint, and removing scripts besides Latin and Greek to reduce file sizes (especially with the "Mincho" files).
 
 **Q: Will you add Bookerly, Rakuten Serif, or (insert proprietary font here)?**  
-**A:** Unfortunately, I cannot legally edit or redistribute these font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s firmware *does* have small-caps built in (the version hosted on the Amazon Developer site for developers is outdated).
+**A:** Unfortunately, I cannot legally edit or redistribute these proprietary font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s firmware *does* have small-caps built in… (the version hosted on the Amazon Developer site for developers is outdated).
 
 **Q: Can you add or update (insert non-proprietary font here)?**  
-**A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here (unless something is seriously messed up with the base font). I want to move on from this obsession of mine, so I only really would consider creating monospaced fonts (as they require no kerning, by far the most time-intensive step), fonts that lack kerning entirely, fonts that only use kerning pairs rather than classes (as they can have kerning copied effortlessly), or fonts that are so good that they feel worth the time investment for me. Create an issue in the GitHub issue tracker if a font catches your eye that you'd like to see a KOReader-friendly version of.
+**A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here (unless something is seriously messed up with the base font). I want to move on from this obsession of mine, so I only really would consider creating monospaced fonts (as they require no kerning, by far the most time-intensive step), fonts that lack kerning entirely, fonts that only use kerning *pairs* rather than *classes* (as they can have kerning copied effortlessly), or fonts that are so good that they feel worth the time investment for me. Create an issue in the GitHub issue tracker if a font catches your eye that you'd like to see a KOReader-friendly version of.
 
 **Q: Can you add the glyphs from (insert language here)?**  
 **A:** To save time, these files were created and use only the glyph sets I expect to run across in the books I read (Latin and Greek). I currently do not have plans to re-do any of these fonts with other glyph sets. However, I’ve provided instructions on how to make your own fake small-caps below.
