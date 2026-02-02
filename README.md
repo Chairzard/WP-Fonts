@@ -59,6 +59,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**DejaVu Sans Mono**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**DejaVu Serif**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**DM Mono**|WP Dredge|SIL Open Font License (version 1.1)|❌|✅|❌|❌|Monospaced font.|
+|**Domine**|WP Dopamine|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**Eczar**|WP Ick|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Enriqueta**|WP Silkscreen|SIL Open Font License (version 1.1)|✅|❌|❌|❌||

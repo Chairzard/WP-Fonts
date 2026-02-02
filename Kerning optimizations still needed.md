@@ -14,7 +14,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Comic Neue
 - Cooper Hewitt
 - Crimson Pro
-- Domine
 - Faustina
 - Finlandica
 - Frank Ruhl Libre
