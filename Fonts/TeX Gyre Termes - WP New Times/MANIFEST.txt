@@ -1,0 +1,6 @@
+The following 4 font files comprise the WP New Times font family:
+
+WPNewTimes-Bold.ttf
+WPNewTimes-BoldItalic.ttf
+WPNewTimes-Italic.ttf
+WPNewTimes-Regular.ttf

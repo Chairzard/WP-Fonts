@@ -1,0 +1,5 @@
+Ligatures have had their kerning and left/right side bearings corrected. Kerning for the lowercase letter v has also been adjusted, in some cases.
+
+These fonts have also been hinted, using ttfautohint.
+
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts)/
