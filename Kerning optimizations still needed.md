@@ -5,7 +5,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Amarna
 - Anaheim
 - Archivo
-- Atkinson Hyperlegible Next
 - Brawler
 - Cabin
 - Caladea
@@ -43,3 +42,11 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Volkhov
 - Wittgenstein
 - Zen Old Mincho
+
+## List of fonts that won't receive kerning optimizations
+
+The following fonts will not receive kerning optimizations (it's not feasible/possible to add them, or it seems like a waste of time to implement them):
+
+- Gupter
+- KoHo
+- Playpen Sans
