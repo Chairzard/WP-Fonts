@@ -130,6 +130,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**mononoki**|WP Doki Doki|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
+|**Newt Serif**|WP Salamander|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
 |**Noticia Text**|WP Notice|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**OCR-A**|WP OCR-A|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
