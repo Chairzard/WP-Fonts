@@ -10,13 +10,13 @@ To this:
 
 The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).
 
-Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase. However, in many cases this results in kerning that is a little too tight. This may be addressed in future updates.
+Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase.
 
 ## Current list of fonts available:
 
 You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommend%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those, unless they are missing small caps in certain styles (or have really bad kerning issues that I can fix).  
 
-A few of these fonts need kerning refinements (because of how they were created, a few ended up with kerning for the small caps that was a little too tight). These may be corrected in future updates, if I have time; fixing these fonts takes much longer than creating them. You can see the list of affected fonts [here](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md).
+Several of these fonts need kerning refinements (my original files didn't include scaled-down kerning tables, so some fonts ended up with kerning for the small caps that was too tight). These will be corrected in future updates, when feasible; see [this list](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for an update on my progress.
 
 Fonts without Bold/Italic files are still usable in KOReader. KOReader will create an artificial bold effect or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font (fonts marked with an X just use generic, scaled-down capital letters).
 
