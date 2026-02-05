@@ -1,6 +1,6 @@
-Copyright 2022 The Labrada Project Authors (https://github.com/Omnibus-Type/Labrada)
+Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Kadabra.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Bamako.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

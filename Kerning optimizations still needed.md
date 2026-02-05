@@ -23,7 +23,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Libre Baskerville
 - Libre Caslon Text
 - Lora
-- Mali
 - Manuale
 - Outfit
 - Overpass

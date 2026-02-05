@@ -18,7 +18,7 @@ You may also be interested in my [list of of fonts with real small-caps](https:/
 
 Several of these fonts need kerning refinements (my original files didn't include scaled-down kerning tables, so some fonts ended up with kerning for the small caps that was too tight). These will be corrected in future updates, when feasible; see [this list](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for an update on my progress.
 
-Fonts without Bold/Italic files are still usable in KOReader. KOReader will create an artificial bold effect or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font (fonts marked with an X just use generic, scaled-down capital letters).
+Fonts without Bold/Italic files are still usable in KOReader. KOReader will create an artificial bold effect or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font. Fonts marked with an X just use generic, scaled-down capital letters. If there's a caution symbol, they use a mix of both true and scaled-down small capitals.
 
 |Original font name|Edited font name|Font license|Bold?|Italics?|Bold Italics?|"True" small caps?|Notes|
 |---|---|---|---|---|---|---|---|
@@ -117,6 +117,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lotion**|WP In the Basket|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Maitree**|WP My Tree|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**Mali**|WP Bamako|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Features substantial kerning improvements over the base font.|
 |**Manuale**|WP Manually|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Maple Mono**|WP Toronto|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Martian Mono**|WP Mars|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
