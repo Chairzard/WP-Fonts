@@ -36,7 +36,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Texturina
 - Ubuntu
 - Vesper Libre
-- Volkhov
 - Wittgenstein
 
 ## List of fonts that won't receive kerning optimizations
