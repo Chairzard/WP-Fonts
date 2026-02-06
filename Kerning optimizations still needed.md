@@ -38,7 +38,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Vesper Libre
 - Volkhov
 - Wittgenstein
-- Zen Old Mincho
 
 ## List of fonts that won't receive kerning optimizations
 
