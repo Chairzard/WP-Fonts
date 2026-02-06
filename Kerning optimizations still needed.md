@@ -24,7 +24,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Libre Caslon Text
 - Lora
 - Manuale
-- Outfit
 - Overpass
 - Philosopher
 - Recursive Sans Casual
@@ -35,7 +34,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - SUSE
 - Texturina
 - Ubuntu
-- Vesper Libre
 - Wittgenstein
 
 ## List of fonts that won't receive kerning optimizations
