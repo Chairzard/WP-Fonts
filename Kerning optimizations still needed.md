@@ -22,7 +22,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Recursive Sans Casual
 - Recursive Sans Linear
 - Reddit Sans
-- Roboto Serif
 - Rosario
 - SUSE
 - Texturina
