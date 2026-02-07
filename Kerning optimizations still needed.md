@@ -9,7 +9,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Chakra Petch
 - Comic Neue
 - Cooper Hewitt
-- Crimson Pro
 - Faustina
 - Finlandica
 - Google Sans
