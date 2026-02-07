@@ -32,8 +32,9 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 
 ## List of fonts that won't receive kerning optimizations
 
-The following fonts will not receive kerning optimizations (it's not feasible/possible to add them, or it seems like a waste of time to implement them):
+The following fonts will not receive kerning optimizations (it's not feasible/possible to add them, or I no longer read with these fonts):
 
 - Gupter
+- Josefin Sans
 - KoHo
 - Playpen Sans
