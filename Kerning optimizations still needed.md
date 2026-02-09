@@ -9,12 +9,9 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Chakra Petch
 - Comic Neue
 - Cooper Hewitt
-- Faustina
 - Finlandica
 - Google Sans
-- Grandstander
 - Inter
-- Libre Baskerville
 - Libre Caslon Text
 - Manuale
 - Overpass
@@ -26,13 +23,14 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - SUSE
 - Texturina
 - Ubuntu
-- Wittgenstein
 
 ## List of fonts that won't receive kerning optimizations
 
-The following fonts will not receive kerning optimizations (it's not feasible/possible to add them, or I no longer read with these fonts):
+The following fonts will not receive kerning optimizations (ones that are impossible for me to kern correctly due to their setup are noted below):
 
+- Grandstander
 - Gupter
-- Josefin Sans
+- Josefin Sans (not viable)
 - KoHo
-- Playpen Sans
+- Playpen Sans (not viable)
+- Wittgenstein (not viable)
