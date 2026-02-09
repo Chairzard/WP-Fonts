@@ -70,6 +70,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Finlandica**|WP Finland|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Fira Mono**|WP Fox Mono|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
+|**Fluxisch Else**|WP Or Else|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Formera**|WP Past|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Frank Ruhl Libre**|WP Frank Rules|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
