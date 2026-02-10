@@ -5,7 +5,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Amarna
 - Archivo
 - Cabin
-- Caladea
 - Chakra Petch
 - Comic Neue
 - Cooper Hewitt
