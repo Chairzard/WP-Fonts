@@ -19,14 +19,13 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Reddit Sans
 - Rosario
 - SUSE
-- Texturina
 - Ubuntu
 
 ## List of fonts that won't receive kerning optimizations
 
 The following fonts will not receive kerning optimizations (ones that are impossible for me to kern correctly due to their setup are noted below):
 
-- Grandstander
+- Grandstander (not viable)
 - Gupter
 - Josefin Sans (not viable)
 - KoHo
