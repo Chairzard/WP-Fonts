@@ -1,6 +1,6 @@
 Copyright 2020 The Texturina Project Authors (https://github.com/Omnibus-Type/Texturina)
 
-Copyright (c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Texture.
+Copyright (c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Texture.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

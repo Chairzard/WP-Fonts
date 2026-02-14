@@ -75,6 +75,7 @@ The following fonts have 3 files available, but are missing a single style:
 
 The following fonts do not have *italic* styles available. KOReader will apply an oblique effect to text, when a file calls for italics:  
 
+- [Agrave Pro](https://github.com/daanjobsis/agrave-pro)
 - [Bedstead](https://fontlibrary.org/en/font/bedstead)
 - [Hahmlet](https://fonts.google.com/specimen/Hahmlet)
 - [Hepta Slab](https://fonts.google.com/specimen/Hepta+Slab)

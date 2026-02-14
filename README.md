@@ -18,7 +18,7 @@ You may also be interested in my [list of of fonts with real small-caps](https:/
 
 Several of these fonts need kerning refinements (my original files didn't include scaled-down kerning tables, so some fonts ended up with kerning for the small caps that was too tight). These will be corrected in future updates, when feasible; see [this list](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for an update on my progress.
 
-Fonts without Bold/Italic files are still usable in KOReader. KOReader will create an artificial bold effect or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font. Fonts marked with an X just use generic, scaled-down capital letters. If there's a caution symbol, they use a mix of both true and scaled-down small capitals.
+Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KOReader will create an artificial bold effect and/or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font. Fonts marked with an X just use generic, scaled-down capital letters. If there's a caution symbol, they use a mix of both true and scaled-down small capitals.
 
 |Original font name|Edited font name|Font license|Bold?|Italics?|Bold Italics?|"True" small caps?|Notes|
 |---|---|---|---|---|---|---|---|
@@ -144,7 +144,7 @@ Fonts without Bold/Italic files are still usable in KOReader. KOReader will crea
 |**OpenDyslexic 2**|WP OD 2|Creative Commons Attribution 4.0 International license (CC BY 4.0)|✅|✅|✅|❌|Based off OpenDyslexic 2.x.|
 |**OpenDyslexic 4**|WP OD 4|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based off OpenDyslexic 4.x. Font left/right bearings have been greatly reduced. The double-story "a" has replaced the single-story a in the Regular/Bold styles (it has been made bolder in the bold style, too).|
 |**Orbit**|WP Galaxy|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font. Ligatures and Korean removed.|
-|**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" ligature has been made a standard ligature.|
+|**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" and "Th" ligatures have been made standard (rather than discretionary).|
 |**Overlock**|WP Overlocked|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.|
 |**Overpass**|WP Underpass|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Philosopher**|WP Philosophy|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
