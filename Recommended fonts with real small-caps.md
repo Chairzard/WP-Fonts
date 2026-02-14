@@ -89,6 +89,7 @@ The following fonts do not have **bold** styles available. KOReader will apply a
 The following fonts come in only a single, regular style. Both italics and bold text will have an artificial effect created by KOReader:  
 
 - [Departure Mono](https://github.com/rektdeckard/departure-mono)
+- [Old Timey Mono](https://github.com/dse/old-timey-mono-font)
 
 The following fonts include small-caps already, but are missing them in one or more styles in the base font files, or their implemenation and/or kerning is broken. I recommend using my modified versions of these fonts for KOReader to ensure your text renders properly:  
 
