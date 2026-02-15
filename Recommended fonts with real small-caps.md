@@ -114,5 +114,6 @@ The following fonts include small-caps already, but are missing them in one or m
 - [Sorts Mill Goudy](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
 - [Source Serif 4](https://github.com/Chairzard/WP-Fonts)
 - [TeX Gyre Termes](https://github.com/Chairzard/WP-Fonts) - Fixes kerning and L/R bearing issues with ligatures/the lowercase letter "v".
+- [Ubuntu Sans](https://github.com/canonical/Ubuntu-Sans-fonts)
 - [Vollkorn](https://github.com/Chairzard/WP-Fonts)
 - [Zilla Slab](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning issue with the lowercase r.

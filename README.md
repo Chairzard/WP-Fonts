@@ -173,7 +173,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**TeX Gyre Termes**|WP New Times|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes various kerning issues and left/right bearing issues, especially with ligatures and the lowercase "v".|
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Typey McTypeface**|WP Face Off|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
-|**Ubuntu**|Ubuntu WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|The font is named differently than other fonts in this repo due to the font's license terms.|
+|**Ubuntu Sans**|Ubuntu Sans WP|UBUNTU FONT LICENCE|✅|✅|✅|✅|The font is named differently than other fonts in this repo due to the font's license terms. Italic/Bold Italic small caps are oblique versions of the true small caps from the regular/bold styles.|
 |**Ubuntu Mono**|Ubuntu Mono WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|The font is named differently than other fonts in this repo due to the font's license terms.|
 |**Vesper Libre**|WP Venus|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Devanagari characters have been removed.|
 |**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
