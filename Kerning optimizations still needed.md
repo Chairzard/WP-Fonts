@@ -9,7 +9,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Finlandica
 - Google Sans
 - Inter
-- Libre Caslon Text
 - Overpass
 - Philosopher
 - Recursive Sans Casual
@@ -17,7 +16,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Reddit Sans
 - Rosario
 - SUSE
-- Ubuntu
 
 ## List of fonts that won't receive kerning optimizations
 

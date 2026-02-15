@@ -1,6 +1,6 @@
 Copyright 2018 The Libre Caslon Text Project Authors (https://github.com/thundernixon/Libre-Caslon)
 
-(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Caslon. Small cap glyphs were generated from scaled down capital letters.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Caslon.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
