@@ -14,7 +14,7 @@ Kerning was also added for the fake small-caps, provided the original font had k
 
 ## Current list of fonts available:
 
-You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those unless they are missing small caps in certain styles, are missing the monospaced flag in KOReader, or have bugs or really bad kerning issues that I can fix. I have uploaded the most up-to-date versions available of those fonts into the [Non-WP Fonts folder](https://github.com/Chairzard/WP-Fonts/tree/main/Non-WP%20Fonts).  
+You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those unless they are missing small caps in certain styles, are missing the monospaced flag in KOReader, or have bugs or really bad kerning issues that I can fix. I have uploaded the most up-to-date versions available of those fonts into the [Non-WP Fonts folder](https://github.com/Chairzard/WP-Fonts/tree/main/Non-WP%20Fonts), as of February 16, 2026, and will update them as I notice them being updated.  
 
 Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KOReader will create an artificial bold effect and/or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font. Fonts marked with an X just use generic, scaled-down capital letters. If there's a caution symbol, they use a mix of both true and scaled-down small capitals.
 
@@ -160,6 +160,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosario**|WP Rosenblum|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosarivo**|WP Rosebud|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
+|**Science Gothic**|WP Science|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Uses font instances generated from the variable file. I've used the Light/Semibold files rather than Normal/Bold for better e-ink performance.|
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
 |**Share Tech Mono**|WP Shared Tech Mono|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced.|
 |**Shippori Mincho**|WP S Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
@@ -171,6 +172,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**SUSE**|WP Geeko|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**SUSE Mono**|WP Geeko Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Tagesschrift**|WP One Day|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
+|**TeX Gyre Cursor**|WP Click|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Ligatures are removed.|
 |**TeX Gyre Termes**|WP New Times|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes various kerning issues and left/right bearing issues, especially with ligatures and the lowercase "v".|
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Typey McTypeface**|WP Face Off|SIL Open Font License (version 1.1)|❌|✅|❌|❌||

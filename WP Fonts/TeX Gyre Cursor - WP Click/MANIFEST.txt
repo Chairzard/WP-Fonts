@@ -1,0 +1,14 @@
+The following 4 font files comprise the WP New Times font family:
+
+WPClick-Bold.ttf
+WPClick-BoldItalic.ttf
+WPClick-Italic.ttf
+WPClick-Regular.ttf
+
+Other files in the folder in which the font is distributed:
+
+CHANGELOG.txt
+GUST-FONT-LICENSE.txt
+Link_to_original_font.txt
+MANIFEST.txt
+README.txt

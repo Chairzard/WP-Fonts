@@ -4,3 +4,11 @@ WPNewTimes-Bold.ttf
 WPNewTimes-BoldItalic.ttf
 WPNewTimes-Italic.ttf
 WPNewTimes-Regular.ttf
+
+Other files in the folder in which the font is distributed:
+
+CHANGELOG.txt
+GUST-FONT-LICENSE.txt
+Link_to_original_font.txt
+MANIFEST.txt
+README.txt

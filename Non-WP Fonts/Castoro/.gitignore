@@ -1,8 +1,0 @@
-**/*.backup
-/zip
-/inuse
-/working
-/venv
-/output
-.DS_Store
-.github

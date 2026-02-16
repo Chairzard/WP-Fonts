@@ -1,1 +1,0 @@
-https://ctan.org/pkg/tex-gyre?lang=en
