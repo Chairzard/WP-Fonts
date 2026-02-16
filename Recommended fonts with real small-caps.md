@@ -1,6 +1,6 @@
 This list was last updated on 2/2/2026.  
 
-The following fonts which work well on e-ink displays have small capitals already built in, so no modified version is needed to render text correctly in KOReader! If the regular font style is too thin (Ibarra Real Nova, Old Standard etc), try increasing the font size and/or using a heavier font weight (instead of using Regular/Italic, you might choose Medium/Medium Italic).  
+The following fonts which work well on e-ink displays have small capitals already built in, so no modified version is needed to render text correctly in KOReader! If the regular font style is too thin, try increasing the font size and/or using a heavier font weight (instead of using Regular/Italic, you might choose Medium/Medium Italic).  
 
 The first set of fonts listed here come with all 4 style files; these are "the best of the best", in terms of taking advantage of KOReader's full font rendering font capabilities:  
 
@@ -10,6 +10,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Andada Pro](https://huertatipografica.com/en/fonts/andada-ht-pro)
 - [Andika](https://github.com/silnrsi/font-andika)
 - [Antykwa Toruńska](https://www.ctan.org/tex-archive/fonts/antt/); [Project website](https://jmn.pl/en/antykwa-torunska/)
+- [Arsenal](https://fonts.google.com/specimen/Arsenal)
 - [Baskervaldx](https://www.ctan.org/pkg/baskervaldx)
 - [Bitter](https://fonts.google.com/specimen/Bitter)
 - [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918)
@@ -27,12 +28,9 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - FreeSerif (the version hosted at [GNU's Freefont page](https://www.gnu.org/software/freefont/) is grossly outdated. If running Linux, you can likely pull a more updated version from your distro's repositories. Example link [here](https://packages.debian.org/sid/fonts-freefont-ttf))
 - [Gentium Book](https://github.com/silnrsi/font-gentium)
 - [Gentium](https://github.com/silnrsi/font-gentium)
-- [GFS Artemisia](https://ctan.org/pkg/gfsartemisia?lang=en)
-- [Ibarra Real Nova](https://fonts.google.com/specimen/Ibarra+Real+Nova)
 - [JuliaMono](https://github.com/cormullion/juliamono)
 - [Junicode](https://github.com/psb1558/Junicode-font)
 - [Kierkegaard](https://github.com/jrgdrs/Kierkegaard)
-- [KpRoman](https://ctan.org/tex-archive/fonts/kpfonts-otf/)
 - [Libertinus Serif](https://github.com/alerque/libertinus) (NOTE: As of 2/2/26, the TTF/WOFF2 files are broken. Download the OTF files)
 - [Literata](https://fonts.google.com/specimen/Literata)
 - [Luciole](https://luciole-vision.com/)
@@ -41,7 +39,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Noto Sans Mono](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
 - [Noto Sans](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
 - [Noto Serif](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
-- [Old Standard](https://ctan.org/pkg/oldstandard?lang=en) (NOTE: It runs thin, so you'll need a larger font size/added weight, most likely)
 - [Petrona](https://fonts.google.com/specimen/Petrona)
 - [Piazzolla](https://fonts.google.com/specimen/Piazzolla)
 - [Poltawski Nowy](https://fonts.google.com/specimen/Poltawski+Nowy)
@@ -69,7 +66,6 @@ Another note: The fonts listed above are also ideal for use on Kindle. Kindle, u
 
 The following fonts have 3 files available, but are missing a single style:  
 
-- [Bona Nova](https://fonts.google.com/specimen/Bona+Nova) - Missing Bold Italic
 - [Neuton](https://fonts.google.com/specimen/Neuton) - Missing Bold Italic
 - [Libertinus Sans](https://github.com/alerque/libertinus) - Missing Bold Italic (NOTE: As of 2/2/26, the TTF/WOFF2 files are broken. Use the OTF files instead.)
 
@@ -95,6 +91,7 @@ The following fonts include small-caps already, but are missing them in one or m
 
 - [Baskervville](https://github.com/Chairzard/WP-Fonts)
 - [Besley](https://github.com/Chairzard/WP-Fonts)
+- [Bona Nova](https://fonts.google.com/specimen/Bona+Nova) - Fixes an error. Missing Bold Italic
 - [ETbb](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning error.
 - [Fanwood Text](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
 - [Hyde](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics
@@ -103,6 +100,7 @@ The following fonts include small-caps already, but are missing them in one or m
 - [IM FELL French Canon](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL Great Primer](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
+- [KpRoman](https://ctan.org/tex-archive/fonts/kpfonts-otf/) - Fixes a bug.
 - [Lekton](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics
 - [Linden Hill](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
 - [Mate](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
