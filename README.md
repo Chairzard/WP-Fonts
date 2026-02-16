@@ -61,6 +61,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**DM Mono**|WP Dredge|SIL Open Font License (version 1.1)|❌|✅|❌|❌|Monospaced font.|
 |**Domine**|WP Dopamine|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
+|**Drafting Mono**|WP Drafting|SIL Open Font License (version 1.1|✅|✅|✅|✅|Monospaced font. Modified to enable the monospace flag in KOReader.|
 |**Eczar**|WP Ick|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Enriqueta**|WP Silkscreen|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||

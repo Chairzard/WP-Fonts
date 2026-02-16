@@ -9,7 +9,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Ancizar Serif](https://fonts.google.com/specimen/Ancizar+Serif)
 - [Andada Pro](https://huertatipografica.com/en/fonts/andada-ht-pro)
 - [Andika](https://github.com/silnrsi/font-andika)
-- [Antykwa Torunska](https://www.ctan.org/tex-archive/fonts/antt/); [Project website](https://jmn.pl/en/antykwa-torunska/)
+- [Antykwa Toruńska](https://www.ctan.org/tex-archive/fonts/antt/); [Project website](https://jmn.pl/en/antykwa-torunska/)
 - [Baskervaldx](https://www.ctan.org/pkg/baskervaldx)
 - [Bitter](https://fonts.google.com/specimen/Bitter)
 - [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918)
