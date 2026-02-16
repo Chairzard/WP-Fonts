@@ -1,6 +1,6 @@
-# WP Fonts - Customized fonts with added small-caps for KOReader!
+# WP Fonts - Customized fonts with added small-caps for KOReader, and a curated selection of fonts that include small-caps of the box!
 
-One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters when a font lacks them and instead renders the text in lowercase (according to the developers, this is not a feature that is viable to add in due to how the engine functions). Some of my most beloved fonts don't have small-caps baked in, and losing the small cap formatting hurts my soul. However, the engine does support small-capitals for fonts that include them already. To take advantage of this and feed my unchecked font addiction, I’ve created (too many) fonts with custom small-capitals and created a GitHub repository to host them (they’re spartan and just scaled-down capital letters like a web browser/the Kobo stock reader would do, but they’ll do the trick in a pinch). With these fonts, you can go from this:  
+One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters when a font lacks them and instead renders the text in lowercase (according to the developers, this is not a feature that is viable to add in due to how the engine functions). Some of my most beloved fonts don't have small-caps baked in, and losing the small cap formatting hurts my soul. However, the engine does support small-capitals for fonts that include them already. To take advantage of this and feed my unchecked font addiction, I’ve created (too many) fonts with custom small-capitals and created a GitHub repository to host them (they’re Spartan and just scaled-down capital letters like a web browser/the Kobo stock reader would do, but they’ll do the trick in a pinch). With these fonts, you can go from this:  
 
 <img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/1acbdf2e-d6bd-4cf9-95b8-69c8ad2cf6fb" />
 
@@ -8,15 +8,13 @@ To this:
 
 <img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/81048731-b9e8-4376-9c31-1fddf4804d4b" />
 
-The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).
+The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).  
 
 Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase.
 
 ## Current list of fonts available:
 
-You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those, unless they are missing small caps in certain styles (or have really bad kerning issues that I can fix).  
-
-Several of these fonts need kerning refinements (my original files didn't include scaled-down kerning tables, so some fonts ended up with kerning for the small caps that was too tight). These will be corrected in future updates, when feasible; see [this list](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for an update on my progress.
+You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those unless they are missing small caps in certain styles, are missing the monospaced flag in KOReader, or have bugs or really bad kerning issues that I can fix. I have uploaded the most up-to-date versions available of those fonts into the [Non-WP Fonts folder](https://github.com/Chairzard/WP-Fonts/tree/main/Non-WP%20Fonts).  
 
 Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KOReader will create an artificial bold effect and/or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font. Fonts marked with an X just use generic, scaled-down capital letters. If there's a caution symbol, they use a mix of both true and scaled-down small capitals.
 
@@ -206,7 +204,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 **A:** I use FontForge, which currently doesn’t support this.
 
 **Q: I found an issue unrelated to small caps with the font. Should I let you know?**  
-**A:** I'm open to fixing glaring kerning errors/encoding errors/etc with these fonts, provided I can do so in a reasonable amount of time (I'd fix a couple of really bad kerning pairs, but I'm not re-kerning an entire font, for example). Open an Issue in the Issues tracker and I'll let you know if I can handle it.
+**A:** I'm open to fixing glaring kerning errors/encoding errors/etc with these fonts, provided I can do so in a reasonable amount of time (I'd fix a couple of really bad kerning pairs, but I'm not re-kerning an entire font, for example). Open an issue in the Issues tracker, and I'll let you know if I can handle it.
 
 **Q: Why were the font files renamed?**  
 **A:** To avoid confusion with the original font files, as well as to allow the modified files to coexist with the originals. Additionally, fonts under the OFL often have reserved font names. To legally redistribute them, I had to change the font names.
@@ -238,7 +236,7 @@ If you’re looking to create your own fake small-capital glyphs, here are the s
 7. OPTIONAL but highly recommended if your font has kerning (most good fonts that aren’t monospaced do): Repeat steps 1-2, remove any duplicates you previously needed to remove, then use Edit → Copy → Copy Lookup Data on the selected glyphs.
 	- Select all the small-cap glyphs and paste. Select all entries on the list that list “’kern’”. There will always be multiples of two (there’s a “second glyph” entry at the bottom of the list and a first entry somewhere above it).
 8. Select all the small-cap glyphs. Select Element → Transformations → Transform (also available in the right-click menu). The origin should have “Glyph Origin” selected, and the box under that (which defaults to Move) should be changed to “Scale Uniformly”. This part is subjective. I would typically recommend scaling by your font’s x-height percentage. You can find the percentage to scale by in most fonts by going to Element → Font Info → OS/2 → Metrics, dividing the X Height by the Capital height, and multiplying that by 100 (if you’re super lazy and want something that looks OK but may not be the ideal, you can just scale by 80%). Some badly made fonts may not include this info; in those cases, go to Element → Style → Add Small-Capitals and look at the number listed in the Horizontal and Vertical tabs and use that instead. If the default number results in small-caps that are too small for your liking, increase the number by 10-20%. IMPORTANT: When scaling non-monospace fonts, make sure “Transform Width Too” and “Transform simple positioning pairs and kern pairs” are checked. If you’re scaling a monospace font, uncheck transform width too.
-9. MONOSPACE FONTS ONLY: Right click on any uppercase or lowercase letter (don't use one of the newly created small cap glyphs for this), then go to metrics → set width. Note the width somewhere (you'll need it soon).
+9. MONOSPACE FONTS ONLY: Right-click on any uppercase or lowercase letter (don't use one of the newly created small-cap glyphs for this), then go to metrics → set width. Note the width somewhere (you'll need it soon).
 10. *MONOSPACE FONTS ONLY: Select all glyphs in the font (edit → select → select all), then select edit → Unlink reference.*
 11. *MONOSPACE FONTS ONLY: Select all glyphs, then select metrics → set width. Set the width of all glyphs in the font to the number from step 9. You need to do this so that FontForge flags the font as a monospace font (this is needed, in turn, so that KOReader recognizes the font as a monospace font).*
 12. *MONOSPACE FONTS ONLY: Select Metrics → Center in width.*
@@ -248,22 +246,22 @@ If you’re looking to create your own fake small-capital glyphs, here are the s
 
 Masochists only: Kerning your fonts that include kerning classes.  
 
-1. PREREQUISTE: Keep unaltered copies of your fonts handy.
-2. You'll need to manually add all your small-cap glyphs to the kerning classes that the glyphs they’re based off of are in (for example, you’d add “a.sc” to the Kerning classes “A” is in). Save a copy of the new font file(s) with these additions.
+1. PREREQUISITE: Keep unaltered copies of your fonts handy.
+2. You'll need to manually add all your small-cap glyphs to the kerning classes that the glyphs they’re based on are in (for example, you’d add “a.sc” to the Kerning classes “A” is in). Save a copy of the new font file(s) with these additions.
 3. Create 2 new files titled Left and Right.
 4. Remove all glyphs from ALL kerning classes on the left or right side, besides the .sc glyphs (you should delete any tables that don't have .sc glyphs on the side you're working on). Save.
 5. Repeat step 4, but in the other file/on the other side. Save.
 6. Load the file from step 2. Delete all kerning classes.
 7. Load the vanilla font from step one from within the same window (this enables imports).
-8. Go to the kerning class tables (element → font info → lookups → GPOS) and import the kerning tables from the other font (delete any "per glyph" tables; they'll be blank. The same goes for the following steps). Give the table and classes unique numbers/names (or you may run into wonky behavior).
-9. Arrange the kerning classes in the same order as the are in the base font. Save and quit FontForge (this prevents crashes).
+8. Go to the kerning class tables (element → font info → lookups → GPOS) and import the kerning tables from the other font (delete any "per glyph" tables; they'll be blank. The same goes for the following steps. Give the table and classes unique numbers/names (or you may run into wonky behavior).
+9. Arrange the kerning classes in the same order as they are in the base font. Save and quit FontForge (this prevents crashes).
 10. Open the file you're working on. Within that window, open the "left" or "right" file.
 11. Import the kerning classes from that file. Arrange the imported classes below the existing ones. Save and quit.
 12. Open the file you're working on. Within that window, open the "left" or "right" file not used in step 10.
 13. Import the kerning classes from that file. Arrange the imported classes below the existing ones. Merge them into the classes from step 11 (merge them in the same order; for example, you'd merge kerning class 4 from the right file into class 4 from the left).
 14. Export the font.
 
-**IMPORTANT NOTE:** I recommend saving in the file format that the original font files were in to avoid losing the font’s hinting data. For ttf files, generate the fonts in “TrueType” format, and make sure that within the Options box you have the following settings checked:
+**IMPORTANT NOTE:** I recommend saving in the file format that the original font files were in to avoid losing the font’s hinting data. For ttf files, generate the fonts in “TrueType” format, and make sure that within the Options box, you have the following settings checked:
 - Hints
 - Flex Hints
 - TrueType Hints
