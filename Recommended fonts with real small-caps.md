@@ -26,6 +26,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Exo](https://fonts.google.com/specimen/Exo)
 - [Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
 - FreeSerif (the version hosted at [GNU's Freefont page](https://www.gnu.org/software/freefont/) is grossly outdated. If running Linux, you can likely pull a more updated version from your distro's repositories. Example link [here](https://packages.debian.org/sid/fonts-freefont-ttf))
+- [Garamontio](https://codeberg.org/m-casanova/Garamontio)
 - [Gentium Book](https://github.com/silnrsi/font-gentium)
 - [Gentium](https://github.com/silnrsi/font-gentium)
 - [JuliaMono](https://github.com/cormullion/juliamono)
