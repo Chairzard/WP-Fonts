@@ -31,6 +31,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [JuliaMono](https://github.com/cormullion/juliamono)
 - [Junicode](https://github.com/psb1558/Junicode-font)
 - [Kierkegaard](https://github.com/jrgdrs/Kierkegaard)
+- [KpRoman](https://ctan.org/pkg/kpfonts-otf)
 - [Libertinus Serif](https://github.com/alerque/libertinus) (NOTE: As of 2/2/26, the TTF/WOFF2 files are broken. Download the OTF files)
 - [Literata](https://fonts.google.com/specimen/Literata)
 - [Luciole](https://luciole-vision.com/)
