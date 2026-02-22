@@ -64,8 +64,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Young Serif](https://github.com/noirblancrouge/YoungSerif)
 - [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
 
-Another note: The fonts listed above are also ideal for use on Kindle. Kindle, unlike KOReader, *can* create fake small-caps on its own. However, if a font includes real small-caps, it will display those instead (which look better than artificial small caps). However, unlike KOReader, Kindle handles fonts missing one or more style files in… unpredictable ways; I only recommend using fonts with all 4 styles on Kindle. Kobo is *terrible* when it comes to text rendering. It *will* at least create fake small caps when a font is missing, but it won't use real ones, if the font has them. Use whatever fonts you want there (no modified versions needed, as a result!). Pocketbook also will not use native small caps.
-
 The following fonts have 3 files available, but are missing a single style:  
 
 - [Neuton](https://fonts.google.com/specimen/Neuton) - Missing Bold Italic
