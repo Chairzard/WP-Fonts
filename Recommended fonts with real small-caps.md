@@ -78,10 +78,6 @@ The following fonts do not have *italic* styles available. KOReader will apply a
 - [Minipax](https://github.com/ronotypo/Minipax)
 - [Signika](https://fonts.google.com/specimen/Signika)
 
-The following fonts do not have **bold** styles available. KOReader will apply added weight to the font when the text call for bold text. How good this looks varies wildly; tread with caution, if reading text that uses bold text:  
-
-- [Chapbook](https://www.feorag.com/freestuff/chapbook.html)
-
 The following fonts come in only a single, regular style. Both italics and bold text will have an artificial effect created by KOReader:  
 
 - [Departure Mono](https://github.com/rektdeckard/departure-mono)
