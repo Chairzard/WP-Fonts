@@ -38,6 +38,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Libertinus Serif](https://github.com/alerque/libertinus) (NOTE: As of 2/2/26, the TTF/WOFF2 files are broken. Download the OTF files)
 - [Literata](https://fonts.google.com/specimen/Literata)
 - [Luciole](https://luciole-vision.com/)
+- [Miju Goudy](https://github.com/aperezdc/miju-goudy)
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Munson](https://www.fontsquirrel.com/fonts/munson)
 - [Noto Sans Mono](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
