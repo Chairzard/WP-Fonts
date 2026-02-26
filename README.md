@@ -39,7 +39,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs. This font uses the Medium weight files rather than the regular weighted ones for better e-ink performance.|
 |**Besley**|WP Bestley|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Made substantial kerning improvements to the SMCP glyphs and made the question mark more sane.|
 |**BIZ UDPMincho**|WP B Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
-|**Bona Nova**|WP Bona|SIL Open Font License (version 1.1|✅|✅|✅|✅|Fixes a bug in the base italic file; no further changes.|
+|**Bona Nova**|WP Bona|SIL Open Font License (version 1.1|✅|✅|❌|✅|Fixes a bug in the base italic file; no further changes.|
 |**Brawler**|WP Super Smash|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Cabin**|WP In the Woods|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Caladea**|WP Calamari|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
