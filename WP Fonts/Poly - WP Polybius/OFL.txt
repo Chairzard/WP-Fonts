@@ -1,7 +1,7 @@
 Copyright (c) 2010, 2011 José Nicolás Silva Schwarzenberg <info@nsilva.com>,
 with Reserved Font Names "Poly".
 
-(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Polybius. Small cap glyphs were added to the italic file based on the glyphs in the regular file.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Polybius.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -45,7 +45,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Noto Serif](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
 - [Petrona](https://fonts.google.com/specimen/Petrona)
 - [Piazzolla](https://fonts.google.com/specimen/Piazzolla)
-- [Poltawski Nowy](https://fonts.google.com/specimen/Poltawski+Nowy)
 - [Raleway](https://fonts.google.com/specimen/Raleway) (NOTE: The small caps don't support diacritics)
 - [REM](https://fonts.google.com/specimen/REM)
 - [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)
@@ -87,28 +86,29 @@ The following fonts come in only a single, regular style. Both italics and bold 
 
 The following fonts include small-caps already, but are missing them in one or more styles in the base font files, or their implemenation and/or kerning is broken. I recommend using my modified versions of these fonts for KOReader to ensure your text renders properly:  
 
-- [Antykwa Toruńska](https://github.com/Chairzard/WP-Fonts) - Fixes incorrect non-breaking space width
+- [Antykwa Toruńska](https://github.com/Chairzard/WP-Fonts) - Fixes incorrect non-breaking space width.
 - [Baskervville](https://github.com/Chairzard/WP-Fonts)
 - [Besley](https://github.com/Chairzard/WP-Fonts)
-- [Bona Nova](https://github.com/Chairzard/WP-Fonts) - Fixes an error. Missing Bold Italic
+- [Bona Nova](https://github.com/Chairzard/WP-Fonts) - Fixes an error. Missing Bold Italic.
 - [ETbb](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning error.
-- [Fanwood Text](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
-- [Hyde](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics
+- [Fanwood Text](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
+- [Hyde](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
 - [IM FELL Double Pica](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL English](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL French Canon](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL Great Primer](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [KpRoman](https://github.com/Chairzard/WP-Fonts) - Fixes a bug that caused the italic style to override the regular style.
-- [Lekton](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics
-- [Linden Hill](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
+- [Lekton](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
+- [Linden Hill](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Mate](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [Merriweather](https://github.com/Chairzard/WP-Fonts) - Fixes broken small-cap implemenation in the base files.
 - [Overlock](https://github.com/Chairzard/WP-Fonts); Small-caps in all styles except Regular are fake.
-- [Poly](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
+- [Poltawski Nowy](https://fonts.google.com/specimen/Poltawski+Nowy) - Fixes incorrect non-breaking space kerning.
+- [Poly](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Roboto Mono](https://github.com/Chairzard/WP-Fonts)
 - [Sedan](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [Sorts Mill Goudy](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics
+- [Sorts Mill Goudy](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Source Serif 4](https://github.com/Chairzard/WP-Fonts)
 - [TeX Gyre Termes](https://github.com/Chairzard/WP-Fonts) - Fixes kerning and L/R bearing issues with ligatures/the lowercase letter "v".
 - [Ubuntu Sans](https://github.com/Chairzard/WP-Fonts)
