@@ -28,6 +28,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Amarna**|WP Armada|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Anaheim**|WP Ducks|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Anonymous Pro**|WP Four Chan|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Antykwa Toruńska**|WP Antique|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes incorrect non-breaking space width. No further modifications.|
 |**Archivo**|WP Archivist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Aref Ruqaa**|WP Agile Ruqaa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Arabic characters have been removed.|
 |**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|

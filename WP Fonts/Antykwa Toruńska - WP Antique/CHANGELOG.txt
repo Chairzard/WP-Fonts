@@ -1,0 +1,3 @@
+Incorrect width for the non-breaking space has been corrected (it is now the same width as the regular space).
+
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts)/
