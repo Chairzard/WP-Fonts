@@ -63,7 +63,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Work Sans](https://fonts.google.com/specimen/Work+Sans)
 - [XCharter](https://www.ctan.org/tex-archive/fonts/xcharter/)
 - [Young Serif](https://github.com/noirblancrouge/YoungSerif)
-- [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
 
 The following fonts have 3 files available, but are missing a single style:  
 
@@ -112,4 +111,5 @@ The following fonts include small-caps already, but are missing them in one or m
 - [TeX Gyre Termes](https://github.com/Chairzard/WP-Fonts) - Fixes kerning and L/R bearing issues with ligatures/the lowercase letter "v".
 - [Ubuntu Sans](https://github.com/Chairzard/WP-Fonts)
 - [Vollkorn](https://github.com/Chairzard/WP-Fonts)
+- [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
 - [Zilla Slab](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning issue with the lowercase r.
