@@ -10,7 +10,7 @@ To this:
 
 The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).  
 
-Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase.
+Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase. However, see [this file](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for a list of fonts that currently are kerned a bit too tightly (fixing them would currently that more time than it's worth).
 
 ## Current list of fonts available:
 
