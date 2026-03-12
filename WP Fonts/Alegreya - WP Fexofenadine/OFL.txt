@@ -1,5 +1,7 @@
 Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)
 
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Fexofenadine.
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://openfontlicense.org
