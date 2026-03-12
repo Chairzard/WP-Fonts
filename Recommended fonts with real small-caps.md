@@ -4,7 +4,6 @@ The following fonts which work well on e-ink displays have small capitals alread
 
 The first set of fonts listed here come with all 4 style files; these are "the best of the best", in terms of taking advantage of KOReader's full font rendering font capabilities:  
 
-- [Alegreya](https://fonts.google.com/specimen/Alegreya)
 - [Ancizar Sans](https://fonts.google.com/specimen/Ancizar+Sans)
 - [Ancizar Serif](https://fonts.google.com/specimen/Ancizar+Serif)
 - [Andada Pro](https://huertatipografica.com/en/fonts/andada-ht-pro)
@@ -84,6 +83,7 @@ The following fonts come in only a single, regular style. Both italics and bold 
 
 The following fonts include small-caps already, but are missing them in one or more styles in the base font files, or their implemenation and/or kerning is broken. I recommend using my modified versions of these fonts for KOReader to ensure your text renders properly:  
 
+- [Alegreya](https://github.com/Chairzard/WP-Fonts) - Kerning improvements related to quotation marks, as well as the letter f.
 - [Antykwa Toruńska](https://github.com/Chairzard/WP-Fonts) - Fixes incorrect non-breaking space width.
 - [Baskervville](https://github.com/Chairzard/WP-Fonts)
 - [Besley](https://github.com/Chairzard/WP-Fonts)
@@ -92,10 +92,10 @@ The following fonts include small-caps already, but are missing them in one or m
 - [Fanwood Text](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Hyde](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
 - [IM FELL Double Pica](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
+- [IM FELL DW Pica](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL English](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL French Canon](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL Great Primer](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [IM FELL](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [KpRoman](https://github.com/Chairzard/WP-Fonts) - Fixes a bug that caused the italic style to override the regular style.
 - [Lekton](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
 - [Linden Hill](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
