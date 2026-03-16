@@ -147,6 +147,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" and "Th" ligatures have been made standard (rather than discretionary).|
 |**Overlock**|WP Overlocked|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.|
 |**Overpass**|WP Underpass|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Patrick Hand**|WP Star|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes the font's broken small-caps opentype table.|
 |**Philosopher**|WP Philosophy|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Pixel Code**|WP PixelC|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced.|
 |**Półtawski Nowy**|WP Poltergeist|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes incorrect non-breaking space kerning. No further modifications.|
