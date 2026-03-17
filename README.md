@@ -186,7 +186,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Wittgenstein**|WP Sharpstein|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Ysabeau**|WP Eezahboh|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
 |**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
-|**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌|The right side bearing of the lowercase r has been corrected.|
+|**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been corrected.|
 |**mononoki**|WP Doki Doki|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 
 ## FAQs:
