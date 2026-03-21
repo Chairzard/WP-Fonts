@@ -17,7 +17,6 @@ The fonts listed below have not had their kerning classes scaled down. As a resu
 - Recursive Sans Linear
 - Reddit Sans
 - Rosario
-- SUSE
 
 ## List of fonts that won't receive kerning optimizations
 

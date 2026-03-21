@@ -22,7 +22,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Electrum ADF](https://arkandis.tuxfamily.org/adffonts.html)
 - [Elstob](https://github.com/psb1558/Elstob-font)
 - [Epilogue](https://fonts.google.com/specimen/Epilogue)
-- [erewhon](https://ctan.org/pkg/erewhon?lang=en)
 - [Exo](https://fonts.google.com/specimen/Exo)
 - [Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
 - FreeSerif (the version hosted at [GNU's Freefont page](https://www.gnu.org/software/freefont/) is grossly outdated. If running Linux, you can likely pull a more updated version from your distro's repositories. Example link [here](https://packages.debian.org/sid/fonts-freefont-ttf))
@@ -113,3 +112,4 @@ The following fonts include small-caps already, but are missing them in one or m
 - [Vollkorn](https://github.com/Chairzard/WP-Fonts)
 - [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
 - [Zilla Slab](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning issue with the lowercase r.
+- [erewhon](https://github.com/Chairzard/WP-Fonts) - Adds missing kerning for the Italic/Bold Italic small-caps.
