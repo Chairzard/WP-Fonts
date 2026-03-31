@@ -17,7 +17,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Charis](https://github.com/silnrsi/font-charis/)
 - [Cochineal](https://ctan.org/pkg/cochineal?lang=en)
 - [Coelacanth](https://gitlab.com/Fuzzypeg/coelacanth)
-- [Drafting* Mono](https://github.com/indestructible-type/Drafting)
 - [EB Garamond](https://fonts.google.com/specimen/EB+Garamond)
 - [Electrum ADF](https://arkandis.tuxfamily.org/adffonts.html)
 - [Elstob](https://github.com/psb1558/Elstob-font)
@@ -78,7 +77,9 @@ The following fonts do not have *italic* styles available. KOReader will apply a
 The following fonts come in only a single, regular style. Both italics and bold text will have an artificial effect created by KOReader:  
 
 - [Departure Mono](https://github.com/rektdeckard/departure-mono)
+- [Joan](https://fonts.google.com/specimen/Joan)
 - [Old Timey Mono](https://github.com/dse/old-timey-mono-font)
+- [Questrial](https://fonts.google.com/specimen/Questrial)
 
 The following fonts include small-caps already, but are missing them in one or more styles in the base font files, or their implemenation and/or kerning is broken. I recommend using my modified versions of these fonts for KOReader to ensure your text renders properly:  
 
@@ -87,6 +88,7 @@ The following fonts include small-caps already, but are missing them in one or m
 - [Baskervville](https://github.com/Chairzard/WP-Fonts)
 - [Besley](https://github.com/Chairzard/WP-Fonts)
 - [Bona Nova](https://github.com/Chairzard/WP-Fonts) - Fixes an error. Missing Bold Italic.
+- [Drafting* Mono](https://github.com/Chairzard/WP-Fonts) - Adds the monospace flag so that you can use it as a default monospace font.
 - [ETbb](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning error.
 - [Fanwood Text](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Hyde](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
