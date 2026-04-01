@@ -1,6 +1,6 @@
-Copyright (c) 2010, Igino Marini (mail@iginomarini.com)
+Copyright 2018 The Sometype Mono Project Authors (https://github.com/googlefonts/sometype-mono)
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Fell English.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Some Type Mono.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

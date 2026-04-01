@@ -122,6 +122,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Linden Hill**|WP Hill House|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lotion**|WP In the Basket|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**M PLUS Code Latin **|WP M MINUS|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
 |**Maitree**|WP My Tree|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Mali**|WP Bamako|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Features substantial kerning improvements over the base font.|
 |**Manuale**|WP Manually|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -169,6 +170,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
 |**Share Tech Mono**|WP Shared Tech Mono|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced.|
 |**Shippori Mincho**|WP S Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
+|**Sometype Mono**|WP Sum Type Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Sorts Mill Goudy**|WP Out of Sorts|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Source Code Pro**|WP SCode Pro|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
