@@ -205,25 +205,25 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 **A:** See the user guide here: https://koreader.rocks/user_guide/#L2-fonts
 
 **Q: Should I use these fonts outside of KOReader?**  
-**A:** In many cases, there’s no advantage to using these files outside of KOReader, as many other popular ereaders (Kobo, Pocketbook, etc) and software (Calibre, etc) will automatically generate their own fake small-capital letters (so whether or not small caps are present is a moot point). There are a handful of fonts where I use true small-capital glyphs, as A) The original files had them already, B) I was able to extract them from the “SC” font file from within the family and merge them into the regular font files, or C) I copied over the small caps from the regular or bold files into the bold/bold italic files; you would see a benefit from using those in any apps that support true small-capitals.
+**A:** In many cases, there’s no advantage to using these files outside of KOReader, as many other popular ereaders (Kobo, Pocketbook, etc) and software (Calibre, etc) will automatically generate their own fake small-capital letters (so whether or not small caps are present is a moot point). There are a handful of fonts where I use true small-capital glyphs, as I was able to extract them from the “SC” font file from other files (such as dedicate "SC" files) within the family and merge them into the regular font files; you would see a benefit from using those in any apps that support true small-capitals.
 
 **Q: Does Kindle support true small caps, or auto-generate them??**  
-**A:** Sometimes it supports them. I believe this is tied to the enhanced typesetting feature, though I'm not 100% sure. For books that support native small-caps, you'd benefit from using my fonts with "true" small-caps. However, Kindle will auto-generate small-caps for fonts that lack them, so there's no need to use my modified fonts with small-caps added (unless you want the extra changes I've made).  
+**A:** Sometimes it supports them. I *think* this is tied to the "enhanced typesetting" feature, though I'm not 100% sure. For books that support native small-caps, you'd benefit from using my fonts with "true" small-caps. However, Kindle will auto-generate small-caps for fonts that lack them, so there's no need to use my modified fonts with small-caps added (unless you want the extra changes I've made).  
 
 **Q: Did you make any other changes to these files?**  
-**A:** Various other changes have occasionally been made; see the notes for each font above. Among the changes I tend to make:kerning adjustments (usually for glaring errors, but sometimes I'd improve the kerning classes), enabling ligatures that weren’t properly enabled in the original files, manually creating extra ligatures when they were badly needed, hinting the fonts using TTFAutohint, and removing scripts besides Latin and Greek to reduce file sizes (especially with the "Mincho" files).
+**A:** Various other changes have occasionally been made; see the notes for each font above. Among the changes I tend to make: kerning adjustments (usually for glaring errors, but sometimes I'd improve the kerning classes), enabling ligatures that weren’t properly enabled in the original files, manually creating extra ligatures when they were badly needed, hinting the fonts using TTFAutohint, and removing scripts besides Latin and Greek to reduce file sizes.
 
 **Q: Will you add Bookerly, Rakuten Serif, or (insert proprietary font here)?**  
-**A:** Unfortunately, I cannot legally edit or redistribute these proprietary font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s firmware *does* have small-caps built in… (the version hosted on the Amazon Developer site for developers is outdated).
+**A:** Unfortunately, I cannot legally edit or redistribute these proprietary font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s downloadable firmware *does* have small-caps built in… (the version hosted on the Amazon Developer site for developers is outdated).
 
 **Q: Can you add or update (insert non-proprietary font here)?**  
-**A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here (unless something is seriously messed up with the base font). I want to move on from this obsession of mine, so I only really would consider creating monospaced fonts (as they require no kerning, by far the most time-intensive step), fonts that lack kerning entirely, fonts that only use kerning *pairs* rather than *classes* (as they can have kerning copied effortlessly), or fonts that are so good that they feel worth the time investment for me. Create an issue in the GitHub issue tracker if a font catches your eye that you'd like to see a KOReader-friendly version of.
+**A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here (unless something is seriously messed up with the base font). I want to move on from this obsession of mine, so I only really would consider creating monospaced fonts (as they require no kerning, by far the most time-intensive step), fonts that lack kerning entirely, fonts that only use kerning *pairs* rather than *classes* (as they can have kerning copied effortlessly), or fonts (generally serif rather than sans-serif) that are so good that they feel worth the time investment for me. Create an issue in the GitHub issue tracker if a font catches your eye that you'd like to see a KOReader-friendly version of.
 
 **Q: Can you add the glyphs from (insert language here)?**  
 **A:** To save time, these files were created and use only the glyph sets I expect to run across in the books I read (Latin and Greek). I currently do not have plans to re-do any of these fonts with other glyph sets. However, I’ve provided instructions on how to make your own fake small-caps below.
 
 **Q: Can you create variable versions of these fonts?**  
-**A:** I use FontForge, which currently doesn’t support this.
+**A:** I use FontForge, which currently doesn’t support this. KOReader also doesn't have proper variable font support, so there currently isn't a great reason to do this.
 
 **Q: I found an issue unrelated to small caps with the font. Should I let you know?**  
 **A:** I'm open to fixing glaring kerning errors/encoding errors/etc with these fonts, provided I can do so in a reasonable amount of time (I'd fix a couple of really bad kerning pairs, but I'm not re-kerning an entire font, for example). Open an issue in the Issues tracker, and I'll let you know if I can handle it.
@@ -235,10 +235,10 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 **A:** I just used references or puns that came to mind, most of the time.
 
 **Q: Why are the Italic/Bold/Bold Italic files missing?**  
-**A:** Font styles will be missing when the original font lacks them. I try to favor fonts that include all four styles, but oftentimes I liked the base font enough to include it anyway and deal with KOReader applying a fake oblique and/or bold effect when needed. Your ereader/app will probably fake these effects if they’re missing (The only exception I’m aware of is Kindle, which won’t properly render Bold Italic if you are missing the Bold Italic File but have regular Bold and Italic; in that case, delete/don’t use the Bold file at all).
+**A:** Font styles will be missing when the original font lacks them (or, in very rare cases, because those style files have severe issues). I try to favor fonts that include all four styles, but oftentimes I liked the base font enough to include it anyway and deal with KOReader applying a fake oblique and/or bold effect when needed. Your ereader/app will probably fake these effects if they’re missing (The only exception I’m aware of is Kindle, which won’t properly render Bold Italic if you are missing the Bold Italic File but have regular Bold and Italic; in that case, delete/don’t use the Bold file at all).
 
 **Q: (Insert font here from the collection) just released an updated version with true small-caps!**  
-**A:** Please let me know if this happens and update your ereader/computer with the official files. I will retire the customized version in that case. Real small-caps always look better than fake, scaled-down ones.
+**A:** Please let me know if this happens and update your ereader/computer with the official files. I will retire the customized version in that case. Real small-caps always look better than fake, scaled-down ones!
 
 ## How to create your own fake small caps in FontForge:
 
