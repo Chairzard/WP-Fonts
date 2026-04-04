@@ -22,7 +22,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |---|---|---|---|---|---|---|---|
 |**Adelphe**|WP Affinity|Open Inclusif·ve Fonte Licence|✅|✅|✅|❌|This release is based on the Mar 18, 2024 Adelphe font files, as the latest version uses the more restrictive CUTE License.|
 |**Afacad**|WP Dacafa|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Afacad was chosen rather than Afacad Flux due to its italic/bold italic styles.|
-|**Agave**|WP Spikes|MIT License|✅|❌|❌|❌|Monospaced font.|
+|**Agave**|WP Spikes|MIT License|❌|❌|❌|✅|Monospaced font. Small caps are taken from the "duck" glyphs in the base font. The bold style is omitted, as it is incomplete and very buggy.|
 |**Alegreya**|WP Fexofenadine|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Left/right bearings of the left/right single/double quotation marks have been increased (I found them too tight by default, sometimes causing them to intersect with other glyphs). I also increased the distance between the "f" glyph and the exclamation/question marks and right parenthesis.|
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Almendra**|WP Amygdala|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small cap glyphs in the regular style were partially taken from the "SC" font file; all other small cap glyphs in the regular style, as well as all glyphs in the other styles, were generated from scaled down capital letters.|
@@ -112,6 +112,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**KPRoman**|WP KP|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes an error that cause italics to override the normal style; no further changes made|
 |**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
 |**Laila**|WP Dominos|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-Latin characters have been removed.|
+|**Latin Modern Mono**|WP Latin Moderner Mono|The GUST Font License (GFL) (version 1)|✅|❌|❌|✅|Monospaced font. Small caps are taken from the "SC" file. For the italic style, those glyphs were given an oblique effect.|
 |**Lekton**|WP Lecturn|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Monospaced font. Small caps in the Italic style are pulled from the regular style.|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Liberation Mono**|WP Libertino Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
@@ -126,8 +127,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Maitree**|WP My Tree|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Mali**|WP Bamako|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Features substantial kerning improvements over the base font.|
 |**Manuale**|WP Manually|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Maple Mono**|WP Toronto|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**Martian Mono**|WP Mars|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Maple Mono NL**|WP Toronto|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font (no ligature variant).|
 |**Mate**|WP Checkmate|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters.|
 |**Merriweather**|WP Merry Weather|SIL Open Font License (version 1.1)|✅|✅|✅|✅|This fixes an issue which causes ligatures to have priority over small-caps in the base font.|
 |**Monaspace Argon**|WP MS A|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
@@ -161,6 +161,8 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Radley**|WP Radical|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Recursive Sans Casual**|WP Recurrent Sans Casual|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Recursive Sans Linear**|WP Recurrent Sans Linear|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Recursive Mono Casual**|WP Recurrent Mono Casual|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Recursive Mono Linear**|WP Recurrent Mono Linear|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Reddit Sans**|WP We Did It|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Roboto Mono**|WP Bot Mono|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Monospaced font. Corrected the SMCP table in the font and added a C2SC table.|
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||

@@ -1,7 +1,7 @@
 Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.
 Glyphs imported from Arev fonts are (c) Tavmjong Bah (see below)
 
-(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts).
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts).
 
 
 Bitstream Vera Fonts Copyright

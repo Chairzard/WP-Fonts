@@ -1,0 +1,12 @@
+The following 2 font files comprise the WP Latin Moderner Mono font family:
+
+WPLatinModernerMono-Italic.otf
+WPLatinModernerMono-Regular.otf
+
+Other files in the folder in which the font is distributed:
+
+CHANGELOG.txt
+GUST-FONT-LICENSE.txt
+Link_to_original_font.txt
+MANIFEST.txt
+README.txt

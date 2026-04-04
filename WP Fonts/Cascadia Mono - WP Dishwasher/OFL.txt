@@ -1,7 +1,7 @@
 Copyright (c) 2019 - Present, Microsoft Corporation,
 with Reserved Font Name Cascadia Code.
 
-(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Dishwasher.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Dishwasher.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

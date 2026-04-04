@@ -1,4 +1,4 @@
-(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts). Small cap glyphs were generated from scaled down capital letters.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts).
 
 Copyright 2022 The 3270font Authors (https://github.com/rbanffy/3270font)
 

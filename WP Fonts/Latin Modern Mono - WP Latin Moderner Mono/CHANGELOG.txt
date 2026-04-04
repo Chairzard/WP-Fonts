@@ -1,0 +1,3 @@
+Version 1.0: Font created; small caps have been added to both styles. Font names, version numbers, and various other metadata has been altered or removed to comply with the GUST license terms.
+
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts)/

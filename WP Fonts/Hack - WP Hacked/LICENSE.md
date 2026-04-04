@@ -1,4 +1,4 @@
-(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts). Small cap glyphs were generated from scaled down capital letters.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts).
 
 The work in the Hack project is Copyright 2018 Source Foundry Authors and licensed under the MIT License
 
