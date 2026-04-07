@@ -79,8 +79,10 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Gensco**|WP Lucretia|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Geom**|WP Geometry|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Glacial Indifference**|WP Titanic|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Glegoo**|WP Igloo|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
-|**Go Mono**|WP Collect $200|The 3-Clause BSD License|✅|✅|✅|❌|Monospaced font.|
+|**Go**|WP Collect $200|The 3-Clause BSD License|✅|✅|✅|❌|Small caps in the regular & italic styles are true small caps, merged from the "SC" font files. Small caps in the Bold/Bold Italic styles are scaled down letters.|
+|**Go Mono**|WP Collect $200 Mono|The 3-Clause BSD License|✅|✅|✅|⚠️|Monospaced font.|
 |**Google Sans**|WP Search Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Google Sans Code**|WP Search Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Granstander**|WP Sophist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -111,6 +113,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Kode Mono**|WP Koder|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
 |**KPRoman**|WP KP|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes an error that cause italics to override the normal style; no further changes made|
 |**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
+|**Laconic**|WP Few Words|SIL Open Font License (version 1.1)|✅|❌|❌|❌|This fixes an issue which causes ligatures to have priority over small-caps in the base font.|
 |**Laila**|WP Dominos|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-Latin characters have been removed.|
 |**Latin Modern Mono**|WP Latin Moderner Mono|The GUST Font License (GFL) (version 1)|✅|❌|❌|✅|Monospaced font. Small caps are taken from the "SC" file. For the italic style, those glyphs were given an oblique effect.|
 |**Lekton**|WP Lecturn|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Monospaced font. Small caps in the Italic style are pulled from the regular style.|

@@ -11,8 +11,10 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Antykwa Półtawskiego](https://ctan.org/pkg/poltawski?lang=en)
 - [Arsenal](https://fonts.google.com/specimen/Arsenal)
 - [Baskervaldx](https://www.ctan.org/pkg/baskervaldx)
+- [Bainsley](https://www.fontsquirrel.com/fonts/bainsley)
 - [Bitter](https://fonts.google.com/specimen/Bitter)
 - [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918)
+- [Cadman](https://www.fontsquirrel.com/fonts/cadman)
 - [Castoro](https://github.com/TiroTypeworks/Castoro)
 - [Charis](https://github.com/silnrsi/font-charis/)
 - [Cochineal](https://ctan.org/pkg/cochineal?lang=en)
@@ -50,6 +52,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Sofia Sans](https://fonts.google.com/specimen/Sofia+Sans)
 - [Spectral](https://fonts.google.com/specimen/Spectral)
 - [STIX Two Text](https://fonts.google.com/specimen/STIX+Two+Text)
+- [Stilu](https://www.fontsquirrel.com/fonts/stilu)
 - [TeX Gyre Adventor](https://ctan.org/pkg/tex-gyre?lang=en)
 - [TeX Gyre Bonum](https://ctan.org/pkg/tex-gyre?lang=en)
 - [TeX Gyre Cursor](https://ctan.org/pkg/tex-gyre?lang=en)
@@ -98,6 +101,7 @@ The following fonts include small-caps already, but are missing them in one or m
 - [IM FELL French Canon](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL Great Primer](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [KpRoman](https://github.com/Chairzard/WP-Fonts) - Fixes a bug that caused the italic style to override the regular style.
+- [Laconic](https://github.com/Chairzard/WP-Fonts) - Fixes broken small-cap implemenation in the base files.
 - [Lekton](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
 - [Linden Hill](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Mate](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
