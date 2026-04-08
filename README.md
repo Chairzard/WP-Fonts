@@ -1,6 +1,6 @@
-# WP Fonts - Customized fonts with added small-caps for KOReader, and a curated selection of fonts that include small-caps of the box!
+# WP Fonts - The largest compilation of free/open-source fonts with small-caps for KOReader!
 
-One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters when a font lacks them and instead renders the text in lowercase (according to the developers, this is not a feature that is viable to add in due to how the engine functions). Some of my most beloved fonts don't have small-caps baked in, and losing the small cap formatting hurts my soul. However, the engine does support small-capitals for fonts that include them already. To take advantage of this and feed my unchecked font addiction, I’ve created (too many) fonts with custom small-capitals and created a GitHub repository to host them (they’re Spartan and often just scaled-down capital letters like a web browser/the Kobo stock reader would do, unless I was able to pull true small cap glyphs from a different font file, but they’ll do the trick in a pinch). With these fonts, you can go from this:  
+One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters when a font lacks them and instead renders the text in lowercase (according to the developers, this is not a feature that is viable to add in due to how the engine functions). Some of my most beloved fonts don't have small-caps baked in, and losing the small cap formatting hurts my soul. However, the engine does support small-capitals for fonts that include them already. To take advantage of this and feed my unchecked font addiction, I’ve created a repository of (too many) fonts with small-capitals, including fonts that have been edited with artificial small-caps included (they’re Spartan and often just scaled-down capital letters like a web browser/the Kobo stock reader would do, unless I was able to pull true small cap glyphs from a different font file, but they’ll do the trick in a pinch!). With these custom fonts, you can go from this:  
 
 <img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/1acbdf2e-d6bd-4cf9-95b8-69c8ad2cf6fb" />
 
@@ -8,9 +8,9 @@ To this:
 
 <img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/81048731-b9e8-4376-9c31-1fddf4804d4b" />
 
-The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).  
+This repository is also host to a collection of all free & open-source fonts that I've stumbled upon that have small-caps out of the box. The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).  
 
-Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase. However, see [this file](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for a list of fonts that currently are kerned a bit too tightly (fixing them would currently that more time than it's worth).
+Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase. However, see [this file](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for a list of fonts that currently are kerned a bit too tightly (fixing them would currently that more time than it's worth).  For from fonts with existing small-caps in different style files, the kerning was yanked from there.
 
 ## Current list of fonts available:
 
