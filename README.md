@@ -200,7 +200,8 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|
 |**Wittgenstein**|WP Sharpstein|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Ysabeau**|WP Eezahboh|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
-|**Ysabeau Semibold**|WP Eezahboh 2|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs. A heavier cut of this great font, for those who prefer it.|
+|**Ysabeau Medium**|WP Eezahboh 2|SIL Open Font License (version 1.1)|✅|✅|✅|✅|A heavier cut of this great font, for those who prefer it..|
+|**Ysabeau Semibold**|WP Eezahboh 3|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The heaviest cut of this great font, for those who prefer it.|
 |**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
 |**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been corrected.|
 |**erewhon**|WP Nowhere|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Adds kerning that was missing for the Italic/Bold Italic small-caps.|
