@@ -19,7 +19,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Charis](https://github.com/silnrsi/font-charis/)
 - [Cochineal](https://ctan.org/pkg/cochineal?lang=en)
 - [Coelacanth](https://gitlab.com/Fuzzypeg/coelacanth)
-- [EB Garamond](https://fonts.google.com/specimen/EB+Garamond)
 - [Electrum ADF](https://arkandis.tuxfamily.org/adffonts.html)
 - [Elstob](https://github.com/psb1558/Elstob-font)
 - [Epilogue](https://fonts.google.com/specimen/Epilogue)
@@ -92,6 +91,7 @@ The following fonts include small-caps already, but are missing them in one or m
 - [Besley](https://github.com/Chairzard/WP-Fonts)
 - [Bona Nova](https://github.com/Chairzard/WP-Fonts) - Fixes an error. Missing Bold Italic.
 - [Drafting* Mono](https://github.com/Chairzard/WP-Fonts) - Adds the monospace flag so that you can use it as a default monospace font.
+- [EB Garamond](https://github.com/Chairzard/WP-Fonts) - This one's complicated. The version hosted on Google Fonts is Octavio Pardo's fork of Georg Duffner's version. Octavio's version has broken/missing small-caps kerning, but is otherwise more feature-complete. I've included an unmodified version of Georg Duffner's version, as the small-caps kerning is present there. However, I've also created "WP Garamond", which takes the kerning for the font that's present in *another* fork (Garamontio) and merges it into Octavio's version.
 - [ETbb](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning error.
 - [Fanwood Text](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Hyde](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.

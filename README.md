@@ -65,6 +65,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Domine**|WP Dopamine|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**Drafting Mono**|WP Drafting|SIL Open Font License (version 1.1|✅|✅|✅|✅|Monospaced font. Modified to enable the monospace flag in KOReader.|
+|**EB Garamond**|WP Garamond|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Combines the small caps kerning used in Garamontio with Octavio Pardo's EB Garamond font. Out of an abudance of caution, I've disabled petite caps (ebooks *almost* never use them, but I didn't fix those, so I don't want books to accidentally call them).|
 |**Eczar**|WP Ick|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Enriqueta**|WP Silkscreen|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -200,7 +201,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|
 |**Wittgenstein**|WP Sharpstein|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Ysabeau**|WP Eezahboh|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
-|**Ysabeau Medium**|WP Eezahboh 2|SIL Open Font License (version 1.1)|✅|✅|✅|✅|A heavier cut of this great font, for those who prefer it..|
+|**Ysabeau Medium**|WP Eezahboh 2|SIL Open Font License (version 1.1)|✅|✅|✅|✅|A heavier cut of this great font, for those who prefer it.|
 |**Ysabeau Semibold**|WP Eezahboh 3|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The heaviest cut of this great font, for those who prefer it.|
 |**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
 |**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been corrected.|
