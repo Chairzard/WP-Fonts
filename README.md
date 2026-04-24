@@ -131,7 +131,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Linden Hill**|WP Hill House|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lotion**|WP In the Basket|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**M PLUS Code Latin **|WP M MINUS|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
+|**M PLUS Code Latin**|WP M MINUS|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
 |**Maitree**|WP My Tree|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Mali**|WP Bamako|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Features substantial kerning improvements over the base font.|
 |**Manuale**|WP Manually|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -144,8 +144,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Monaspace Radon**|WP MS R|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Monaspace Xenon**|WP MS X|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Nepomuk**|WP Nepogrimer|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
-|**New Computer Modern**|WP New Computer Moderner|Regular style file: GPL3 or later plus Font Exception (FE) plus
-Distribution Exception (DE). All other files: The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Copied small-caps kerning from the regular/bold files into the italic/bold italic files. Also fixed an issue with the non-breaking space.|
+|**New Computer Modern**|WP New Computer Moderner|Regular style file: GPL3 or later plus Font Exception (FE) plus Distribution Exception (DE). All other files: The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Copied small-caps kerning from the regular/bold files into the italic/bold italic files. Also fixed an issue with the non-breaking space.|
 |**New Computer Modern Mono**|WP New Computer Moderner Mono|The GUST Font License (GFL) (version 1)|✅|❌|❌|✅|Monospaced font. Fixed a missing italic style flag and edited the font to use KOReader's monospace flag.|
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
