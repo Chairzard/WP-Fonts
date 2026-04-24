@@ -49,6 +49,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Cascadia Mono**|WP Dishwasher|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Cause**|WP Just|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Chakra Petch**|WP Angles|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Cohaerentia**|WP Coherent|SIL Open Font License (version 1.1)|❌|✅|❌|✅|Small caps merged from the standalone .sc file and copied into the Regular file. The same was done for the Italic file, with a reduced font weight and a little tweaking.|
 |**Comic Neue**|WP Comic New|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Comic Relief**|WP Class Clown|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Comic Shanns**|WP Funny Shanns|MIT License|❌|❌|❌|❌|Monospaced font.|
