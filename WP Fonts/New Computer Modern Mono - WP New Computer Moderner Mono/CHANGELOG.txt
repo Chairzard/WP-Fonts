@@ -1,0 +1,3 @@
+Version 1.0: Font created. All glyphs were set to a standard width to enable the monospace flag for KOReader. Various other metadata has been altered or removed to comply with the GUST license terms.
+
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts)/

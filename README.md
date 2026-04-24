@@ -120,7 +120,6 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
 |**Laconic**|WP Few Words|SIL Open Font License (version 1.1)|✅|❌|❌|❌|This fixes an issue which causes ligatures to have priority over small-caps in the base font.|
 |**Laila**|WP Dominos|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-Latin characters have been removed.|
-|**Latin Modern Mono**|WP Latin Moderner Mono|The GUST Font License (GFL) (version 1)|✅|❌|❌|✅|Monospaced font. Small caps are taken from the "SC" file. For the italic style, those glyphs were given an oblique effect.|
 |**Lekton**|WP Lecturn|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Monospaced font. Small caps in the Italic style are pulled from the regular style.|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Liberation Mono**|WP Libertino Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
@@ -144,6 +143,9 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Monaspace Radon**|WP MS R|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Monaspace Xenon**|WP MS X|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Nepomuk**|WP Nepogrimer|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
+|**New Computer Modern**|WP New Computer Moderner|Regular style file: GPL3 or later plus Font Exception (FE) plus
+Distribution Exception (DE). All other files: The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Copied small-caps kerning from the regular/bold files into the italic/bold italic files. Also fixed an issue with the non-breaking space.|
+|**New Computer Modern Mono**|WP New Computer Moderner Mono|The GUST Font License (GFL) (version 1)|✅|❌|❌|✅|Monospaced font. Fixed a missing italic style flag and edited the font to use KOReader's monospace flag.|
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**Newt Serif**|WP Salamander|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
