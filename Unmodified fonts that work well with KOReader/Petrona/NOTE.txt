@@ -1,0 +1,1 @@
+These files are instances generated from the base Petrona variable font files. I have included files with weights slightly increased font weights (450 vs 400 for the regular files, 750 vs 700 for the bold files) for better e-ink performance.
