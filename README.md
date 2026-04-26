@@ -151,6 +151,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**Newt Serif**|WP Salamander|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
+|**Nocturne Serif**|WP Nocturnal|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes issue where ligatures overrode small-caps. There's a commercial version available with more font styles; as far as I'm aware, only the regular style is available under the OFL.|
 |**Noticia Text**|WP Notice|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**OCR-A**|WP OCR-A|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
 |**OCR-B**|WP OCR-B|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|

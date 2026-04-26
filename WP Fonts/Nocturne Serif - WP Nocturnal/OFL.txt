@@ -1,6 +1,6 @@
-Copyright 2020 The Newsreader Project Authors (http://github.com/productiontype/Newsreader)
+Copyright © 2016 Stowarzyszenie Kulturotwórcze Miastodwa (https://github.com/warszawskie-kroje/nocturne)
 
-(c) 2025 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Extra Extra.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Nocturnal. Based off version 1.0 of Nocturne Serif.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

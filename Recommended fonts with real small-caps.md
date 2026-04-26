@@ -83,7 +83,6 @@ The following fonts come in only a single, regular style. Both italics and bold 
 - [Comprehension](https://www.fontsquirrel.com/fonts/comprehension)
 - [Departure Mono](https://github.com/rektdeckard/departure-mono)
 - [Joan](https://fonts.google.com/specimen/Joan)
-- [Nocturne Serif](https://github.com/warszawskie-kroje/nocturne) - There's a commercial version available with more font styles; as far as I'm aware, only the regular style is available under the OFL.
 - [Old Timey Mono](https://github.com/dse/old-timey-mono-font)
 - [Questrial](https://fonts.google.com/specimen/Questrial)
 
