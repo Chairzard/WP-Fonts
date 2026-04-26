@@ -39,6 +39,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Miju Goudy](https://github.com/aperezdc/miju-goudy)
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Munson](https://www.fontsquirrel.com/fonts/munson)
+- [Noctilucenta](https://github.com/tayloraswift/noctilucenta)
 - [Noto Sans Mono](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
 - [Noto Sans](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
 - [Noto Serif](https://github.com/notofonts/notofonts.github.io/) (NOTE: KOReader ships with an outdated version of the Noto fonts. Installing it in your font directory will override KOReader's version)
@@ -73,13 +74,16 @@ The following fonts do not have *italic* styles available. KOReader will apply a
 - [Bedstead](https://fontlibrary.org/en/font/bedstead) Available from various Linux distro repositories; I couldn't find a site with the most up to date version. Example link [here](https://packages.debian.org/sid/fonts-freefont-ttf)). Note that these may be under copyright in the UK and some other countries, but they are not under copyright where I'm located.
 - [Hahmlet](https://fonts.google.com/specimen/Hahmlet)
 - [Hepta Slab](https://fonts.google.com/specimen/Hepta+Slab)
+- [LT Superior Serif](https://lyonstype4.wixsite.com/lyonstype-beta/fonts)
 - [Minipax](https://github.com/ronotypo/Minipax)
 - [Signika](https://fonts.google.com/specimen/Signika)
 
 The following fonts come in only a single, regular style. Both italics and bold text will have an artificial effect created by KOReader:  
 
+- [Comprehension](https://www.fontsquirrel.com/fonts/comprehension)
 - [Departure Mono](https://github.com/rektdeckard/departure-mono)
 - [Joan](https://fonts.google.com/specimen/Joan)
+- [Nocturne Serif](https://github.com/warszawskie-kroje/nocturne) - There's a commercial version available with more font styles; as far as I'm aware, only the regular style is available under the OFL.
 - [Old Timey Mono](https://github.com/dse/old-timey-mono-font)
 - [Questrial](https://fonts.google.com/specimen/Questrial)
 
@@ -107,7 +111,7 @@ The following fonts include small-caps already, but are missing them in one or m
 - [Mate](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [Merriweather](https://github.com/Chairzard/WP-Fonts) - Fixes broken small-cap implemenation in the base files.
 - [Overlock](https://github.com/Chairzard/WP-Fonts); Small-caps in all styles except Regular are fake.
-- [Poltawski Nowy](https://fonts.google.com/specimen/Poltawski+Nowy) - Fixes incorrect non-breaking space kerning.
+- [Poltawski Nowy](https://github.com/Chairzard/WP-Fonts) - Fixes incorrect non-breaking space kerning.
 - [Poly](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
 - [Roboto Mono](https://github.com/Chairzard/WP-Fonts)
 - [Sedan](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.

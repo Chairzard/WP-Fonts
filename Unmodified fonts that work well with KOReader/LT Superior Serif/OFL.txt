@@ -1,8 +1,9 @@
-Copyright 2020 The Poltawski Nowy Project Authors (https://github.com/kosmynkab/Poltawski-Nowy)
+Copyright (c) 2024, LyonsType (lyonstype4.wixsite.com/lyonstype-beta),
+with Reserved Font Name LT Superior Serif.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-https://openfontlicense.org
+http://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
