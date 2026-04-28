@@ -211,6 +211,8 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Ysabeau**|WP Eezahboh|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
 |**Ysabeau Medium**|WP Eezahboh 2|SIL Open Font License (version 1.1)|✅|✅|✅|✅|A heavier cut of this great font, for those who prefer it.|
 |**Ysabeau Semibold**|WP Eezahboh 3|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The heaviest cut of this great font, for those who prefer it.|
+|**Yuji Syuku**|WP Wesker|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Changes to the font spacing and ellipsis have been made. Japanese glyphs were removed to reduce font size.|
+|**Yuji Syuku (reduced l and r bearings)**|WP Wesker Narrow|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Changes to the font spacing and ellipsis have been made. Japanese glyphs were removed to reduce font size. Letter spacing and spacing between words have been substantially reduced.|
 |**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
 |**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been corrected.|
 |**erewhon**|WP Nowhere|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Adds kerning that was missing for the Italic/Bold Italic small-caps.|
