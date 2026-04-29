@@ -29,6 +29,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Gentium Book](https://github.com/silnrsi/font-gentium)
 - [Gentium](https://github.com/silnrsi/font-gentium)
 - [Georama](https://fonts.google.com/specimen/Georama)
+- [Irradiant](https://github.com/psb1558/Irradiant-font)
 - [Junicode](https://github.com/psb1558/Junicode-font)
 - [Kierkegaard](https://github.com/jrgdrs/Kierkegaard)
 - [Kufam](https://fonts.google.com/specimen/Kufam)
