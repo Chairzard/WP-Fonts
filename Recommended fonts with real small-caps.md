@@ -1,5 +1,3 @@
-This list was last updated on 2/2/2026.  
-
 The following fonts which work well on e-ink displays have small capitals already built in, so no modified version is needed to render text correctly in KOReader! If the regular font style is too thin, try increasing the font size and/or using a heavier font weight (instead of using Regular/Italic, you might choose Medium/Medium Italic).  
 
 The first set of fonts listed here come with all 4 style files; these are "the best of the best", in terms of taking advantage of KOReader's full font rendering font capabilities:  
