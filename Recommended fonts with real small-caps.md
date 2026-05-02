@@ -30,7 +30,6 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Gentium](https://github.com/silnrsi/font-gentium)
 - [Georama](https://fonts.google.com/specimen/Georama)
 - [Irradiant](https://github.com/psb1558/Irradiant-font)
-- [Junicode](https://github.com/psb1558/Junicode-font)
 - [Kierkegaard](https://github.com/jrgdrs/Kierkegaard)
 - [Kufam](https://fonts.google.com/specimen/Kufam)
 - [Libertinus Serif](https://github.com/alerque/libertinus) (NOTE: As of 2/2/26, the TTF/WOFF2 files are broken. Download the OTF files)
@@ -105,6 +104,7 @@ The following fonts include small-caps already, but are missing them in one or m
 - [IM FELL English](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL French Canon](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
 - [IM FELL Great Primer](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
+- [Junicode](https://github.com/psb1558/Junicode-font) - Fixes a kerning bug and smcp feature priority issue.
 - [KpRoman](https://github.com/Chairzard/WP-Fonts) - Fixes a bug that caused the italic style to override the regular style.
 - [Laconic](https://github.com/Chairzard/WP-Fonts) - Fixes broken small-cap implemenation in the base files.
 - [Lekton](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
