@@ -54,6 +54,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Comic Relief**|WP Class Clown|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Comic Shanns**|WP Funny Shanns|MIT License|❌|❌|❌|❌|Monospaced font.|
 |**Commit Mono**|WP Committed|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Cochineal**|WP Red Dye|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes a glyph bug.|
 |**Cooper Hewitt**|WP Coop|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font. Ligatures have been disabled.|
 |**Crete Round**|WP Cretan|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
