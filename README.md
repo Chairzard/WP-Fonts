@@ -58,6 +58,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font. Ligatures have been disabled.|
 |**Crete Round**|WP Cretan|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Crimson Text**|WP Red Text|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Small-cap glyphs are copied from the roman styles. Kerning is copied from Cochineal, with some minor adjustments.|
 |**Cuomotype**|WP Andrewtype|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Cutive Mono**|WP Executive Premier|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font.|
 |**DejaVu Sans Mono**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
