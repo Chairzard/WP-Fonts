@@ -1,6 +1,6 @@
 Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Red Text. Based on Crimson Text version 1.100. Kerning for small-caps is Copyright (c) 2016--2021, Michael Sharpe (msharpe@ucsd.edu), from version 0.9 of Cochineal.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Red Text. Based on Crimson Text version 1.100. Kerning for the small-caps was taken and adjusted from version 0.9 of Cochineal.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
