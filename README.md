@@ -185,6 +185,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosario**|WP Rosary|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosarivo**|WP Rosebud|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
+|**Sawarabi Mincho**|WP Zenith|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Japanese characters have been removed.|
 |**Science Gothic**|WP Science|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Uses font instances generated from the variable file. I've used the Light/Semibold files rather than Normal/Bold for better e-ink performance.|
 |**Secuela**|WP Seiklus|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes the font's broken smcp tables.|
 |**Sedan**|WP Vroom|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps. Small caps in the Italic style are scaled down letters. Custom ligatures were added, and a major kerning fix was made.|
@@ -221,6 +222,8 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been corrected.|
 |**erewhon**|WP Nowhere|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Adds kerning that was missing for the Italic/Bold Italic small-caps.|
 |**mononoki**|WP Doki Doki|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+
+
 
 ## FAQs:
 
