@@ -84,42 +84,44 @@ The following fonts come in only a single, regular style. Both italics and bold 
 - [Old Timey Mono](https://github.com/dse/old-timey-mono-font)
 - [Questrial](https://fonts.google.com/specimen/Questrial)
 
-The following fonts include small-caps already, but are missing them in one or more styles in the base font files, or their implemenation and/or kerning is broken. I recommend using my modified versions of these fonts for KOReader to ensure your text renders properly:  
+The following fonts include small-caps already, but I have customized versions available:  
 
-- [Alegreya](https://github.com/Chairzard/WP-Fonts) - Kerning improvements related to quotation marks, as well as the letter f.
-- [Antykwa Toruńska](https://github.com/Chairzard/WP-Fonts) - Fixes incorrect non-breaking space width.
-- [Baskervville](https://github.com/Chairzard/WP-Fonts)
-- [Besley](https://github.com/Chairzard/WP-Fonts)
-- [Bona Nova](https://github.com/Chairzard/WP-Fonts) - Fixes an error. Missing Bold Italic.
-- [Cochineal](https://github.com/Chairzard/WP-Fonts) - Fixes an error with a glyph.
-- [Drafting* Mono](https://github.com/Chairzard/WP-Fonts) - Adds the monospace flag so that you can use it as a default monospace font.
-- [EB Garamond](https://github.com/Chairzard/WP-Fonts) - This one's complicated. The version hosted on Google Fonts is Octavio Pardo's fork of Georg Duffner's version. Octavio's version has broken/missing small-caps kerning, but is otherwise more feature-complete. I've included an unmodified version of Georg Duffner's version, as the small-caps kerning is present there. However, I've also created "WP Garamond", which takes the kerning for the font that's present in *another* fork (Garamontio) and merges it into Octavio's version.
-- [ETbb](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning error.
-- [Fanwood Text](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
-- [Hyde](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
-- [IM FELL Double Pica](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [IM FELL DW Pica](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [IM FELL English](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [IM FELL French Canon](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [IM FELL Great Primer](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [Junicode](https://github.com/psb1558/Junicode-font) - Fixes a kerning bug and smcp feature priority issue.
-- [KpRoman](https://github.com/Chairzard/WP-Fonts) - Fixes a bug that caused the italic style to override the regular style.
-- [Laconic](https://github.com/Chairzard/WP-Fonts) - Fixes broken small-cap implemenation in the base files.
-- [Lekton](https://github.com/Chairzard/WP-Fonts) - Missing Bold Italics.
-- [Linden Hill](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
-- [Mate](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [Merriweather](https://github.com/Chairzard/WP-Fonts) - Fixes broken small-cap implemenation in the base files.
-- [Overlock](https://github.com/Chairzard/WP-Fonts); Small-caps in all styles except Regular are fake.
-- [Poltawski Nowy](https://github.com/Chairzard/WP-Fonts) - Fixes incorrect non-breaking space kerning.
-- [Poly](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
-- [Roboto Mono](https://github.com/Chairzard/WP-Fonts)
-- [Sedan](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics; Small-caps in the Italic style are fake.
-- [Sorts Mill Goudy](https://github.com/Chairzard/WP-Fonts) - Missing Bold/Bold Italics.
-- [Source Serif 4](https://github.com/Chairzard/WP-Fonts)
-- [TeX Gyre Termes](https://github.com/Chairzard/WP-Fonts) - Fixes kerning and L/R bearing issues with ligatures/the lowercase letter "v".
-- [Ubuntu Sans](https://github.com/Chairzard/WP-Fonts)
-- [Vollkorn](https://github.com/Chairzard/WP-Fonts)
-- [XCharter](https://github.com/Chairzard/WP-Fonts) - Fixes broken metrics with the Italic small-caps
-- [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
-- [Zilla Slab](https://github.com/Chairzard/WP-Fonts) - Fixes a kerning issue with the lowercase r.
-- [erewhon](https://github.com/Chairzard/WP-Fonts) - Adds missing kerning for the Italic/Bold Italic small-caps.
+- Agràve Pro
+- Alegreya
+- Antykwa Toruńska
+- Baskervville
+- Besley
+- Bona Nova
+- Cochineal
+- Crimson Text
+- Drafting* Mono
+- EB Garamond
+- ETbb
+- Fanwood Text
+- Hyde
+- IM FELL Double Pica
+- IM FELL DW Pica
+- IM FELL English
+- IM FELL French Canon
+- IM FELL Great Primer
+- Junicode
+- KpRoman
+- Laconic
+- Lekton
+- Linden Hill
+- Mate
+- Merriweather
+- Overlock
+- Poltawski Nowy
+- Poly
+- Roboto Mono
+- Sedan
+- Sorts Mill Goudy
+- Source Serif 4
+- TeX Gyre Termes
+- Ubuntu Sans
+- Vollkorn
+- XCharter
+- Ysabeau
+- Zilla Slab
+- erewhon
