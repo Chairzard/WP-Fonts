@@ -23,7 +23,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Adelphe**|WP Affinity|Open Inclusif·ve Fonte Licence|✅|✅|✅|❌|This release is based on the Mar 18, 2024 Adelphe font files, as the latest version uses the more restrictive CUTE License.|
 |**Afacad**|WP Dacafa|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Afacad was chosen rather than Afacad Flux due to its italic/bold italic styles.|
 |**Agave**|WP Spikes|MIT License|❌|❌|❌|✅|Monospaced font. Small caps are taken from the "duck" glyphs in the base font. The bold style is omitted, as it is incomplete and very buggy.|
-|**Agrave Pro**|WP Gravy Pro|SIL Open Font License (version 1.1)|✅|❌|❌|❌|✅|Fixes incorrect non-breaking space kerning.|
+|**Agrave Pro**|WP Gravy Pro|SIL Open Font License (version 1.1)|✅|❌|❌|✅|Fixes incorrect non-breaking space kerning.|
 |**Alegreya**|WP Fexofenadine|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Left/right bearings of the left/right single/double quotation marks have been increased (I found them too tight by default, sometimes causing them to intersect with other glyphs). I also increased the distance between the "f" glyph and the exclamation/question marks and right parenthesis.|
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Almendra**|WP Amygdala|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small cap glyphs in the regular style were partially taken from the "SC" font file; all other small cap glyphs in the regular style, as well as all glyphs in the other styles, were generated from scaled down capital letters.|
