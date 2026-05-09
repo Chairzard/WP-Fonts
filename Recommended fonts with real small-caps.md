@@ -2,6 +2,7 @@ The following fonts which work well on e-ink displays have small capitals alread
 
 The first set of fonts listed here come with all 4 style files; these are "the best of the best", in terms of taking advantage of KOReader's full font rendering font capabilities:  
 
+- [Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans)
 - [Ancizar Sans](https://fonts.google.com/specimen/Ancizar+Sans)
 - [Ancizar Serif](https://fonts.google.com/specimen/Ancizar+Serif)
 - [Andada Pro](https://huertatipografica.com/en/fonts/andada-ht-pro)
