@@ -12,6 +12,8 @@ This repository is also host to a collection of all free & open-source fonts tha
 
 Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase. However, see [this file](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for a list of fonts that currently are kerned a bit too tightly (fixing them would currently that more time than it's worth).  For from fonts with existing small-caps in different style files, the kerning was yanked from there.
 
+*NOTE: If you have an ereader with a 300+ PPI display, I strongly recommend turning off font hinting in KOReader for the best font rendering experince. Leaving it on can cause glyphs to slightly distort.*
+
 ## Current list of fonts available:
 
 You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those unless they are missing small caps in certain styles, are missing the monospaced flag in KOReader, or have bugs or really bad kerning issues that I can fix. I have uploaded the most up-to-date versions available of those fonts into the [Non-WP Fonts folder](https://github.com/Chairzard/WP-Fonts/tree/main/Non-WP%20Fonts), as of February 16, 2026, and will update them as I notice them being updated.  
@@ -74,7 +76,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Eczar**|WP Ick|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Enriqueta**|WP Silkscreen|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**ETbb**|WPbb|MIT License|✅|✅|✅|✅|Fixes an annoying kerning error with the "s h" pair.|
+|**ETbb**|WPbb|MIT License|✅|✅|✅|❌|Fixes an annoying kerning error with the "s h" pair. Note that while this font includes the small-caps the original font creator used, they are scaled-down capital letters (so I don't consider them true small-caps).|
 |**Fantasque Sans Mono**|WP Fantastic|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -164,6 +166,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**OpenDyslexic 4**|WP OD 4|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based off OpenDyslexic 4.x. Font left/right bearings have been greatly reduced. The double-story "a" has replaced the single-story a in the Regular/Bold styles (it has been made bolder in the bold style, too).|
 |**Orbit**|WP Galaxy|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font. Ligatures and Korean removed.|
 |**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" and "Th" ligatures have been made standard (rather than discretionary).|
+|**Outfit**|WP Outfitted Classic|SIL Open Font License (version 1.1)|✅|❌|❌|❌|This version of Outfit uses only the ligatures that the default font ships with (though it removes the "outfit" ligature).|
 |**Overlock**|WP Overlocked|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.|
 |**Overpass**|WP Underpass|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Patrick Hand**|WP Star|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes the font's broken small-caps opentype table.|
