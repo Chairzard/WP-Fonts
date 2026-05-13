@@ -139,6 +139,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Linden Hill**|WP Hill House|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lotion**|WP In the Basket|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**LT Superior Serif**|WP Superior|SIL Open Font License (version 1.1)|✅|❌|❌|✅|Fixes font metadata.|
 |**M PLUS Code Latin**|WP M MINUS|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
 |**Maitree**|WP My Tree|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Mali**|WP Bamako|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Features substantial kerning improvements over the base font.|
@@ -202,6 +203,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Space Mono**|WP Space Invaders|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
+|**Stilu**|WP Style U|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes many font metadata bugs which broke the font.|
 |**Sudo**|WP RM RF|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**SUSE**|WP Geeko|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**SUSE Mono**|WP Geeko Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
@@ -217,11 +219,11 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|
 |**Wittgenstein**|WP Sharpstein|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**XCharter**|WP Charred|Bitstream Free font license|✅|✅|✅|✅|Fixes broken italic small-caps metrics.|
+|**Young Serif**|WP Younger Serif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes broken font metadata.|
 |**Ysabeau**|WP Eezahboh|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
 |**Ysabeau Medium**|WP Eezahboh 2|SIL Open Font License (version 1.1)|✅|✅|✅|✅|A heavier cut of this great font, for those who prefer it.|
 |**Ysabeau Semibold**|WP Eezahboh 3|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The heaviest cut of this great font, for those who prefer it.|
-|**Yuji Syuku**|WP Wesker|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Changes to the font spacing and ellipsis have been made. Japanese glyphs were removed to reduce font size.|
-|**Yuji Syuku (reduced l and r bearings)**|WP Wesker Narrow|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Changes to the font spacing and ellipsis have been made. Japanese glyphs were removed to reduce font size. Letter spacing and spacing between words have been substantially reduced.|
+|**Yuji Syuku**|WP Wesker|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Changes to ellipsis and bearings of quotation marks have been made. Japanese glyphs were removed to reduce font size.|
 |**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
 |**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been corrected.|
 |**erewhon**|WP Nowhere|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Adds kerning that was missing for the Italic/Bold Italic small-caps.|

@@ -1,5 +1,7 @@
 Copyright © 2015 by Genilson Lima Santos (genilson.blacktype@gmail.com), with Reserved Font Name 'Stilu’.
 
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Style U. Based on Stilu version 001.200.
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 

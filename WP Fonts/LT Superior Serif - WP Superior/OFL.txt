@@ -1,6 +1,8 @@
 Copyright (c) 2024, LyonsType (lyonstype4.wixsite.com/lyonstype-beta),
 with Reserved Font Name LT Superior Serif.
 
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Superior. Based on LT Superior Serif version 002.120.
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
