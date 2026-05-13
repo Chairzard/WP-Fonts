@@ -14,9 +14,9 @@ Kerning was also added for the fake small-caps, provided the original font had k
 
 *NOTE: If you have an ereader with a 300+ PPI display, I strongly recommend turning off font hinting in KOReader for the best font rendering experince. Leaving it on can cause glyphs to slightly distort.*
 
-## Current list of fonts available:
+## Current list of modified fonts available:
 
-You may also be interested in my [list of of fonts with real small-caps](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those unless they are missing small caps in certain styles, are missing the monospaced flag in KOReader, or have bugs or really bad kerning issues that I can fix. I have uploaded the most up-to-date versions available of those fonts into the [Non-WP Fonts folder](https://github.com/Chairzard/WP-Fonts/tree/main/Non-WP%20Fonts), as of February 16, 2026, and will update them as I notice them being updated.  
+You may also be interested in my [list of of fonts with real small-caps that didn't require any modifications to work well in KOReader](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those unless they are missing small caps in certain styles, are missing the monospaced flag in KOReader, or have bugs or really bad kerning issues that I can fix. I have uploaded the most up-to-date versions available of those fonts into the [Non-WP Fonts folder](https://github.com/Chairzard/WP-Fonts/tree/main/Non-WP%20Fonts), as of February 16, 2026, and will update them as I notice them being updated.  
 
 Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KOReader will create an artificial bold effect and/or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font. Fonts marked with an X just use generic, scaled-down capital letters. If there's a caution symbol, they use a mix of both true and scaled-down small capitals.
 
