@@ -1,6 +1,6 @@
 Copyright 2025 The Lazy Darwin Project Authors (https://github.com/The-EPL-Type-Foundry/Lazy-Darwin.git)
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Charles.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Charles. Based on version 0.001 of Hundar.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
