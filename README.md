@@ -30,7 +30,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Almendra**|WP Amygdala|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small cap glyphs in the regular style were partially taken from the "SC" font file; all other small cap glyphs in the regular style, as well as all glyphs in the other styles, were generated from scaled down capital letters.|
 |**Amarna**|WP Armada|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Amstelvar**|WP Amsterdam|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Small caps were created from the variable font by setting capital height and width to 70%. Ligatures have been enabled, and the problematic , ” kerning pair was removed.|
+|**Amstelvar**|WP Amsterdam|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Small caps were created from the variable font by setting capital height and width to 70%. Ligatures and Oldstyle Figures have been enabled.|
 |**Anaheim**|WP Ducks|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Anonymous Pro**|WP Four Chan|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Antykwa Toruńska**|WP Antique|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes incorrect non-breaking space width. No further modifications.|
