@@ -117,7 +117,6 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**JetBrains Mono**|WP PlaneBrains|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Josefin Sans**|WP Josephine|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Junicode**|WP Medieval Times|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes bugs with the opentype smcp/pcap features, as well as a kerning bug with g.sc.|
 |**Jura**|WP Ticket|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Karma**|WP Korma|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Kaisei Decol**|WP Kaiju|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-latin characters were removed to reduce font size.|

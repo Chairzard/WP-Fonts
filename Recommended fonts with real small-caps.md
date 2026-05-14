@@ -28,6 +28,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Gentium](https://github.com/silnrsi/font-gentium)
 - [Georama](https://fonts.google.com/specimen/Georama)
 - [Irradiant](https://github.com/psb1558/Irradiant-font)
+- [Junicode](https://github.com/psb1558/Junicode-font)
 - [Kierkegaard](https://github.com/jrgdrs/Kierkegaard)
 - [Kufam](https://fonts.google.com/specimen/Kufam)
 - [Libertinus Serif](https://github.com/alerque/libertinus) (NOTE: As of 2/2/26, the TTF/WOFF2 files are broken. Download the OTF files)
@@ -105,7 +106,6 @@ The following fonts include small-caps already, but I have customized versions a
 - IM FELL English
 - IM FELL French Canon
 - IM FELL Great Primer
-- Junicode
 - KpRoman
 - Laconic
 - Lekton
