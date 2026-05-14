@@ -72,6 +72,7 @@ The following fonts have 3 files available, but are missing a single style:
 The following fonts do not have *italic* styles available. KOReader will apply an oblique effect to text, when a file calls for italics:  
 
 - [Bedstead](https://fontlibrary.org/en/font/bedstead) Available from various Linux distro repositories; I couldn't find a site with the most up to date version. Example link [here](https://packages.debian.org/sid/fonts-freefont-ttf)). Note that these may be under copyright in the UK and some other countries, but they are not under copyright where I'm located.
+- [Estedad](https://github.com/aminabedi68/Estedad)
 - [Hahmlet](https://fonts.google.com/specimen/Hahmlet)
 - [Hepta Slab](https://fonts.google.com/specimen/Hepta+Slab)
 - [LT Superior Serif](https://lyonstype4.wixsite.com/lyonstype-beta/fonts)
