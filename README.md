@@ -75,6 +75,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**DSE Typewriter**|WP DSE|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font.|
 |**EB Garamond**|WP Garamond|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Combines the small caps kerning used in Garamontio with Octavio Pardo's EB Garamond font. Out of an abudance of caution, I've disabled petite caps (ebooks *almost* never use them, but I didn't fix those, so I don't want books to accidentally call them).|
 |**Eczar**|WP Ick|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**Electrum ADF**|WP Electric|GNU GENERAL PUBLIC LICENSE Version 2|✅|✅|✅|✅|Fixes metadata bugs and enables oldstyle figures.|
 |**Enriqueta**|WP Silkscreen|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**ETbb**|WPbb|MIT License|✅|✅|✅|❌|Fixes an annoying kerning error with the "s h" pair. Note that while this font includes the small-caps the original font creator used, they are scaled-down capital letters (so I don't consider them true small-caps).|
@@ -157,7 +158,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
 |**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**Newt Serif**|WP Salamander|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Nimbus Mono PS**|WP Postal| GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
+|**Nimbus Mono PS**|WP Postal|GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
 |**Nocturne Serif**|WP Nocturnal|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes issue where ligatures overrode small-caps. There's a commercial version available with more font styles; as far as I'm aware, only the regular style is available under the OFL.|
 |**Noticia Text**|WP Notice|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**OCR-A**|WP OCR-A|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|

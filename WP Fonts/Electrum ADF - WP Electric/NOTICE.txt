@@ -1,3 +1,6 @@
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts). Based on version 1.005 of Electrum ADF. The original font license is listed below. This font is subject to the GNU General Public License v2, as is the original font. This version of the font enables oldstyle figures, fixes metadata bugs (such as incorrect style maps), and applies an oblique effect to the oldstyle figures in the Oblique font file. The font has been renamed to WP Electric.
+
+
     The Electrum collection consists of fonts made by Arkandis Digital
     Foundry (ADF), collectively known as the "Program"
 
