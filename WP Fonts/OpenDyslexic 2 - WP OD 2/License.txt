@@ -1,6 +1,6 @@
 LICENSE AND ATTRIBUTION INFORMATION
 
-FONT NAME: WP OD
+FONT NAME: WP OD 2
 DATE: January 2026
 
 -------------------------------------------------------------------------------
@@ -8,7 +8,8 @@ DATE: January 2026
 -------------------------------------------------------------------------------
 This font is a derivative work created by Winston Payne/Chairzard.
 Specific modifications: Small caps, created from scaled-down capitals,
-have been added to the font.
+have been added to the font. Blank glyphs have also been removed from
+the Regular style file.
 
 Author: Winston Payne/Chairzard
 Source: https://github.com/Chairzard/WP-Fonts
