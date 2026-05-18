@@ -137,6 +137,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Libre Baskerville**|WP Mortimer|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Libre Caslon Text**|WP Caslon|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Linden Hill**|WP Hill House|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
+|**Literata**|WP Illiterata|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Reduces the space between the "H e" kerning pair in the Regular and Bold styles (I tried to live with it, as Literata is perhaps my favorite font, but I couldn't help myself on this one; it was insufferably wide!)|
 |**Lora**|WP Arol|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Lotion**|WP In the Basket|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**LT Superior Serif**|WP Superior|SIL Open Font License (version 1.1)|✅|❌|❌|✅|Fixes font metadata.|
