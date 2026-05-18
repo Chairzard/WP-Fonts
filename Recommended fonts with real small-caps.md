@@ -33,6 +33,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Kufam](https://fonts.google.com/specimen/Kufam)
 - [Libertinus Serif](https://github.com/alerque/libertinus) (NOTE: As of 2/2/26, the TTF/WOFF2 files are broken. Download the OTF files)
 - [Listopad](https://github.com/StefanPeev/opensans/tree/local)
+- [Literata](https://fonts.google.com/specimen/Literata)
 - [Luciole](https://luciole-vision.com/)
 - [Marauder](https://indestructibletype.com/Marauder/)
 - [Miju Goudy](https://github.com/aperezdc/miju-goudy)
@@ -110,7 +111,6 @@ The following fonts include small-caps already, but I have customized versions a
 - Laconic
 - Lekton
 - Linden Hill
-- Literata
 - Mate
 - Merriweather
 - Overlock
