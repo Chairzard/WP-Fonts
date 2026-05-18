@@ -1,7 +1,7 @@
 Copyright (c) 2011, TypeTogether (www.type-together.com), 
 with Reserved Font Names "Crete" and "Crete Round"
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Cretan.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Cretan. Based on version 1.001 of Crete Round.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
