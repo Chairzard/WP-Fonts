@@ -87,6 +87,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Fluxisch Else**|WP Or Else|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Various errors with the font's have been corrected.|
 |**Formera**|WP Past|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Frank Ruhl Libre**|WP Frank Rules|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**FreeSerif**|WP FreerSerif|GNU GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|✅|Copies small-cap kerning from the italic style to the bold italic style.|
 |**Gelasio**|WP Sorberto|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Gensco**|WP Lucretia|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Geom**|WP Geometry|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
