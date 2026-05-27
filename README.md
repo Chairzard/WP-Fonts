@@ -122,7 +122,8 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Judson**|WP Judder|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Jura**|WP Ticket|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Karma**|WP Korma|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
-|**Kaisei Decol**|WP Kaiju|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-latin characters were removed to reduce font size.|
+|**Kaisei Decol**|WP Kaiju|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters were removed to reduce font size.|
+|**KazukiReiwa**|WP Kazuki|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Japanese characters were removed to reduce font size.|
 |**Kay Pho Du**|WP Kaye|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Kelvinch**|WP Kelvin|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The base fonts supports petite capitals; I created a small-capital opentype table to enable them to work with small-caps and fixed an error that cause ligatures to override the table. The broken kerning tables were removed to allow the font to save. The font has also been hinted.|
 |**Kreon**|WP Crayon|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
