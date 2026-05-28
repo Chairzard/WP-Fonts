@@ -103,7 +103,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Happy Times at the IKOB**|WP Happy|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Hunck**|WP Amazing Bulk|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Small-caps were merged in from the SC font file. Ligatures have been enabled. Added missing kerning for small-cap characters with diacritics.|
 |**Hundar**|WP Charles|SIL Open Font License (version 1.1)|❌|❌|❌|❌|An interesting font that's in development. For some reason, the version available on the project's Github repo page is missing small caps, but I was able to pull them and add them into the font from sample docs on the project's website. I also fixed the broken ligature table and reduced word spacing.|
-|**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Kerning for the existing small capital letters has been improved, small caps in the bold style have been made bolder, and small caps in the italicized file have had an oblique effect added. Hinting has also been added to the fonts.|
+|**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|⚠️|Kerning for the existing small capital letters has been improved. Small caps in the italicized file have had an oblique effect added. Small caps in the bold style are scaled-down letters.|
 |**IBM 3270**|WP 3270|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**IBM Plex Mono**|WP Perplex Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**IBM Plex Serif**|WP Perplex Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the "Text" font weight from the variable font, for better e-ink performance.|
