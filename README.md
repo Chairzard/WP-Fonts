@@ -207,6 +207,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Space Mono**|WP Space Invaders|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
+|**Splentinex**|WP Splenda|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small-caps in the regular style are true small-caps. Small-caps in the italic style are copied from the regular style. Small-caps in the Bold/Bold Italic styles are scaled-down letters. A kerning issue with old-style figures in the regular style was also corrected.|
 |**Stilu**|WP Style U|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes many font metadata bugs which broke the font.|
 |**Sudo**|WP RM RF|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**SUSE**|WP Geeko|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
