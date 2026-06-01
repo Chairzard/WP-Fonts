@@ -134,6 +134,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Laila**|WP Dominos|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-Latin characters have been removed.|
 |**Lekton**|WP Lecturn|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Monospaced font. Small caps in the Italic style are pulled from the regular style.|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**LXGW Neo ZhiSong Screen**|WP Sing Sing|IPA Font License (version 1.0)|❌|❌|❌|❌|Japanese characters were removed to reduce font size.|
 |**Liberation Mono**|WP Libertino Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Liberation Sans**|WP Libertino Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Liberation Serif**|WP Libertino Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Ligatures have been enabled, and a kerning error was fixed (note that the kerning error was left in by design to match the metrics of Times New Roman; my changes mean the font is no longer metrically-compatible with it).|
