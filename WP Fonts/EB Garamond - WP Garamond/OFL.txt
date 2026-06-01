@@ -1,6 +1,8 @@
 Copyright 2017 The EB Garamond Project Authors (https://github.com/octaviopardo/EBGaramond12)
 Copyright 2025 Deborah Khodanovich (RCS citation glyphs)
-"Garamontio": Additions and modifications (c) 2024-2026 Michele Casanova - Credit for Small Caps kerning (taken from version 1.107).
+
+"Garamontio": Additions and modifications (c) 2024-2026 Michele Casanova - Credit for kerning fixes (taken from version 1.107).
+
 (c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Garamond. Based on version 1.001 of Octavio Pardo's EB Garamond.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
