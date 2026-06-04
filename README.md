@@ -186,6 +186,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Proza Libre**|WP Prose|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Ligatures have been enabled.|
 |**PT Serif**|WP Petey Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Radley**|WP Radical|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
+|**Readerly**|WP Bookreader|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Recursive Sans Casual**|WP Recurrent Sans Casual|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Recursive Sans Linear**|WP Recurrent Sans Linear|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Recursive Mono Casual**|WP Recurrent Mono Casual|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
