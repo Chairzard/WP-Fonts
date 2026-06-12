@@ -12,7 +12,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [Baskervaldx](https://www.ctan.org/pkg/baskervaldx)
 - [Bainsley](https://www.fontsquirrel.com/fonts/bainsley)
 - [Bitter](https://fonts.google.com/specimen/Bitter)
-- [Breeze Sans](https://developer.samsung.com/one-ui-watch-tizen/visual/typography.html)
+- [BreezeSans](https://developer.samsung.com/one-ui-watch-tizen/visual/typography.html)
 - [Brygada 1918](https://fonts.google.com/specimen/Brygada+1918)
 - [Cadman](https://www.fontsquirrel.com/fonts/cadman)
 - [Castoro](https://github.com/TiroTypeworks/Castoro)
