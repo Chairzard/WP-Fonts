@@ -320,7 +320,7 @@ Masochists only: Kerning your fonts that include kerning classes.
 13. Import the kerning classes from that file. Arrange the imported classes below the existing ones. Merge them into the classes from step 11 (merge them in the same order; for example, you'd merge kerning class 4 from the right file into class 4 from the left).
 14. Export the font.
 
-**IMPORTANT NOTE:** I recommend saving in the file format that the original font files were in to avoid losing the font’s hinting data. For ttf files, generate the fonts in “TrueType” format, and make sure that within the Options box, you have the following settings checked:
+**IMPORTANT NOTE:** I recommend saving in the file format that the original font files were in to avoid losing the font’s hinting data. For ttf files, generate the fonts in “TrueType” format. Make sure that within the Options box, you have the following settings checked:
 - Hints
 - Flex Hints
 - TrueType Hints
