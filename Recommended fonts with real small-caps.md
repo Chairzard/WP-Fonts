@@ -61,6 +61,7 @@ The first set of fonts listed here come with all 4 style files; these are "the b
 - [TeX Gyre Pagella](https://ctan.org/pkg/tex-gyre?lang=en)
 - [TeX Gyre Schola](https://ctan.org/pkg/tex-gyre?lang=en)
 - [Walleye](https://github.com/chuckmasterson/walleye)
+- [Wittgenstein](https://github.com/jrgdrs/Wittgenstein)
 - [Work Sans](https://fonts.google.com/specimen/Work+Sans)
 - [Young Serif](https://github.com/noirblancrouge/YoungSerif)
 
