@@ -25,4 +25,3 @@ The following fonts will not receive kerning optimizations (due to technical iss
 - Grandstander
 - Josefin Sans
 - Playpen Sans
-- Wittgenstein (as per the font maintainer, small caps are currently planned for the font anyway)
