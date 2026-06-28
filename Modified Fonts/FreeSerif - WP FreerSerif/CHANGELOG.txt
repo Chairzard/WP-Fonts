@@ -1,0 +1,3 @@
+Version 1.0 of FreerSerif: Copied the small-cap kerning classes from the italic style to the Bold Italic style.
+
+Based on version 0412.4253 of FreeSerif.

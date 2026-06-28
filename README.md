@@ -1,26 +1,37 @@
-# WP Fonts - The largest compilation of free/open-source fonts with small-caps for KOReader, plus customized fonts that include small-caps (for fonts that lack them)!
+# WP Fonts - The internet's largest compilation of (quality) free/open-source fonts for KOReader, with fixes and other additions!
 
-**IMPORTANT** (2026/06/24): KOReader will soon support synthesized small-caps. Based on the latest nightly, this change breaks support for some of my fonts (instead of using the small-caps built into the font, it falls back to the synthesized small-caps). This is due to an error, based on how FontForge set up some of the font GSUB tables. I will be reworking my fonts, but be advised that this will take some time.
+This project started off to address a shortcoming of KOReader's engine at the time: No ability to synthesize small-caps that lacked them. As a secondary focus, I'd make improvements to the fonts I was tinkering with at the same time. As KOReader now can synthesize small-caps, the focus of the repo has flipped a bit on its head. Now, the focus is on fonts that have had technical improvements made to them (kerning fixes, missing opentype features, etc). I am also leaving my vast catalog of catalog of fonts that were modified to have small-caps, as their included small-caps are generally superior to KOReader's small-caps for the following reasons:
 
-One of the only shortcomings of KOReader is that the engine it uses can’t create fake small-capital letters when a font lacks them and instead renders the text in lowercase (according to the developers, this is not a feature that is viable to add in due to how the engine functions). Some of my most beloved fonts don't have small-caps baked in, and losing the small cap formatting hurts my soul. However, the engine does support small-capitals for fonts that include them already. To take advantage of this and feed my unchecked font addiction, I’ve created a repository of (too many) fonts with small-capitals, including fonts that have been edited with artificial small-caps included (they’re Spartan and often just scaled-down capital letters like a web browser/the Kobo stock reader would do, unless I was able to pull true small cap glyphs from a different font file, but they’ll do the trick in a pinch!). With these custom fonts, you can go from this:  
+- Their kerning when they follow uppercase letters is superior (example: The glyph V following by the small-cap A will be kerned a lot tighter in my version versus the native sythesized fonts, *if* the font creator kerned them)
+- I don't like how the engine handles scaled down small-caps for monospaced fonts, as it breaks monospacing (note: this is an issue with *all* ereader apps due to the technical limitations of faking small-caps)
+- The KOReader engine scales glyphs to 75% of their height. This is a pretty decent choice, given the engine can only choose one number to scale by, but this is an imperect solution for every font. Small-capitals should ideally be at least a font's x-height % tall (when compared with the regular X's height), plus ideally a little taller than that (10-20% taller is generally the ideal). If the x-height of a font is, say, 80%, the small-caps will look anemic. My fonts have their small-caps based on the X-height (+10-20%, as needed), rather than a flat percentage, so they tend to be sized more appropriately.
 
-<img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/1acbdf2e-d6bd-4cf9-95b8-69c8ad2cf6fb" />
+Why download my fonts?
+- Unlike jumping into a sea of free fonts on a site like Google Fonts, every font here is at least passable for use on an ereader.
+- Every font here can be freely downloaded and modified.
+- Monospaced fonts have been edited to enable the monospace flag in KOReader (allowing them to be set as your default monospace fonts).
+- The small-caps added to the monospaced fonts won't break monospacing.
+- Fonts that included small-caps in their regular and/or bold style, but not in their italic and/or bold italic style, had those small-caps copied to the italic files with full kerning support (minus support for some Capital letter/small-cap kerning pairs).
+- I'm making the bold claim that basically every free & open-source serif font on the internet *worth using* can be found here. By that, I mean the font has no glaring technical issues and supports enough basic Latin glyphs for 99% of books you'll read in English.
+- The most famous free & open-source sans-serif and monospaced fonts can also be found here. However, because they start to feel same-y after a while, my collection there is less comprehensive.
 
-To this:
+When possible, my license of choice is the SIL Open Font License (I've included an FAQ about it in the main folder of the repo). However, fonts are usually (maybe always!; I can't remember) distributed under their original licensing terms. All downloads contain a copy of the font licenses.  
 
-<img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/81048731-b9e8-4376-9c31-1fddf4804d4b" />
+Note: These fonts have **not** generally had their line heights adjusted and are tested to work best with [KOReader](https://koreader.rocks/) or other apps where users can make line height adjustments on the fly. If you need fonts modified for ereaders which *cannot* make such adjustments, I recommend looking at Nico Verbruggen's excellent [Ebook Fonts repository](https://github.com/nicoverbruggen/ebook-fonts).  
 
-This repository is also host to a collection of all free & open-source fonts that I've stumbled upon that have small-caps out of the box. The various fonts contained within this repository are licensed under different licenses. When possible, my license of choice is the SIL Open Font License (I've included an FAQ about it in the main folder of the repo).  
+*IMPORTANT NOTE: If you have an ereader with a 300+ PPI display, I **strongly** recommend turning off font hinting in KOReader for the best font rendering experince. Leaving it on can cause glyphs to distort in unusual ways! If you're on a lower PPI display, you might need the hinting, though.*
 
-Kerning was also added for the fake small-caps, provided the original font had kerning for its uppercase letters. I just copied over the kerning from the uppercase letters. This generally means that words in small-caps will have the same appearance as words in all uppercase. However, see [this file](https://github.com/Chairzard/WP-Fonts/blob/main/Kerning%20optimizations%20still%20needed.md) for a list of fonts that currently are kerned a bit too tightly (fixing them would currently that more time than it's worth).  For from fonts with existing small-caps in different style files, the kerning was yanked from there.
+**Q: How do I install these?**  
+**A:** See the user guide here: https://koreader.rocks/user_guide/#L2-fonts. In general, you can just download the latest releases and drag all the font folders into KOReader's fonts folder and be done with (tip: you can also download fonts individually by exploring the repo a bit). Be advised that the TeX Gyre fonts (and possibly some others) are distributed in their original .zip files to comply with their license terms, so you'll need to extract those first before you can use them, too.
 
-*NOTE: If you have an ereader with a 300+ PPI display, I strongly recommend turning off font hinting in KOReader for the best font rendering experince. Leaving it on can cause glyphs to slightly distort.*
+**Q: Now that KOreader can do fake small-caps, what's the plan for this repo?**
+**A: Going forward, I will no longer be creating my own scaled-down small-caps for non-monospaced fonts.** It's no longer worth the time investment with a "good enough" solution in place. If a font is missing small-caps in certain styles but has true small-caps in others, I'm *potentially* still open to porting them over to styles that lack them, but the font will need to be a banger and not have kerning designed in one of the circles of Hell for me to make that time commitment. I will continue to modify fonts that have bugs or really bad kerning issues that I can fix.  
 
 ## Current list of modified fonts available:
 
-You may also be interested in my [list of of fonts with real small-caps that didn't require any modifications to work well in KOReader](https://github.com/Chairzard/WP-Fonts/blob/main/Recommended%20fonts%20with%20real%20small-caps.md). In most cases, I will not be releasing modified versions of those unless they are missing small caps in certain styles, are missing the monospaced flag in KOReader, or have bugs or really bad kerning issues that I can fix. I have uploaded the most up-to-date versions available of those fonts into the [Non-WP Fonts folder](https://github.com/Chairzard/WP-Fonts/tree/main/Non-WP%20Fonts), as of February 16, 2026, and will update them as I notice them being updated.  
+*Note: Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. Many fonts distributed here lack at least one style. KOReader will create an artificial bold effect and/or apply an oblique effect, respectively, for fonts missing these files.*
 
-Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KOReader will create an artificial bold effect and/or apply an oblique effect, respectively, for fonts missing these files. Fonts marked as "true" small caps use small capitals with the correct stroke width, taken from other style files for the font. Fonts marked with an X just use generic, scaled-down capital letters. If there's a caution symbol, they use a mix of both true and scaled-down small capitals.
+Here's a complete list of modified fonts in this repo, and the modifications that were made. If you see no note listed in the far-right column, the only change made to the font was my addition of scaled-down small-caps from the era before KOReader could do that itself. Fonts marked as having "true" small caps use small capitals with the correct stroke width designed by the font creator, taken from other style files for the font. Fonts marked with an X just use my scaled-down capital letters. If there's a caution symbol, they use a mix of both true small capitals and my scaled-down ones.
 
 |Original font name|Edited font name|Font license|Bold?|Italics?|Bold Italics?|"True" small caps?|Notes|
 |---|---|---|---|---|---|---|---|
@@ -32,7 +43,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Almendra**|WP Amygdala|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small cap glyphs in the regular style were taken from the "SC" font file. Small-caps in the other styles were generated from scaled down capital letters.|
 |**Amarna**|WP Armada|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Amstelvar**|WP Amsterdam|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Small caps were created from the variable font by setting capital height and width to 70%. Ligatures and Oldstyle Figures have been enabled.|
+|**Amstelvar**|WP Amsterdam|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Small caps were created from the variable font by setting capital height and width to 70%. Ligatures and Oldstyle Figures have been enabled. Word spacing was reduced.|
 |**Anaheim**|WP Ducks|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Anonymous Pro**|WP Four Chan|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Antykwa Toruńska**|WP Antique|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes incorrect non-breaking space width. No further modifications.|
@@ -49,19 +60,14 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Besley**|WP Bestley|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Made substantial kerning improvements to the SMCP glyphs and made the question mark more sane.|
 |**BIZ UDPMincho**|WP B Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
 |**Bona Nova**|WP Bona|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Fixes a bug in the base italic file; no further changes.|
-|**Brawler**|WP Super Smash|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
-|**Cabin**|WP In the Woods|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Caladea**|WP Calamari|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Cascadia Mono**|WP Dishwasher|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Cause**|WP Just|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Chakra Petch**|WP Angles|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Cohaerentia**|WP Coherent|SIL Open Font License (version 1.1)|❌|✅|❌|✅|Small caps merged from the standalone .sc file and copied into the Regular file. The same was done for the Italic file, with a reduced font weight and a little tweaking.|
-|**Comic Neue**|WP Comic New|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Comic Relief**|WP Class Clown|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Comic Shanns**|WP Funny Shanns|MIT License|❌|❌|❌|❌|Monospaced font.|
 |**Commit Mono**|WP Committed|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Cochineal**|WP Red Dye|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes a glyph bug.|
-|**Cooper Hewitt**|WP Coop|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Courier Prime**|WP Prime Time|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font. Ligatures have been disabled.|
 |**Crete Round**|WP Cretan|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Crimson Pro**|WP Seeing Red|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -84,9 +90,8 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Fantasque Sans Mono**|WP Fantastic|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Finlandica**|WP Finland|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Fira Mono**|WP Fox Mono|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font.|
-|**Fluxisch Else**|WP Or Else|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Various errors with the font's have been corrected.|
+|**Fluxisch Else**|WP Or Else|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Various errors with the font's glyphs (there's "debris" that intersects with other glyphs) have been corrected. I omitted the bold file; it's not bold enough.|
 |**Formera**|WP Past|SIL Open Font License (version 1.1)|❌|❌|❌|❌||
 |**Frank Ruhl Libre**|WP Frank Rules|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**FreeSerif**|WP FreerSerif|GNU GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|✅|Copies small-cap kerning from the italic style to the bold italic style.|
@@ -97,10 +102,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Glegoo**|WP Igloo|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Go**|WP Collect $200|The 3-Clause BSD License|✅|✅|✅|❌|Small caps in the regular & italic styles are true small caps, merged from the "SC" font files. Small caps in the Bold/Bold Italic styles are scaled down letters.|
 |**Go Mono**|WP Collect $200 Mono|The 3-Clause BSD License|✅|✅|✅|⚠️|Monospaced font.|
-|**Google Sans**|WP Search Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Google Sans Code**|WP Search Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**Granstander**|WP Sophist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Gupter**|WP Reptar|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Hack**|WP Hacked|MIT License/Bitstream Vera License|✅|✅|✅|❌|Monospaced font.|
 |**Happy Times at the IKOB**|WP Happy|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Hunck**|WP Amazing Bulk|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Small-caps were merged in from the SC font file. Ligatures have been enabled. Added missing kerning for small-cap characters with diacritics.|
@@ -108,7 +110,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|⚠️|Kerning for the existing small capital letters has been improved. Small caps in the italicized file have had an oblique effect added. Small caps in the bold style are scaled-down letters.|
 |**IBM 3270**|WP 3270|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
 |**IBM Plex Mono**|WP Perplex Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**IBM Plex Serif**|WP Perplex Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the "Text" font weight from the variable font, for better e-ink performance.|
+|**IBM Plex Serif**|WP Perplex Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the "Text" font weight from the variable font, for better e-ink performance. Otherwise, this is unmodified; there are no custom small-caps in this one.|
 |**IM FELL Double Pica**|WP Fell Double Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL DW Pica**|WP Fell DW Pica|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
 |**IM FELL English**|WP Fell English|SIL Open Font License (version 1.1)|❌|✅|❌|⚠️|Small caps in the regular style are true small caps, merged from the "SC" font files. Small caps in the Italic style are scaled down letters.|
@@ -117,14 +119,11 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Inika**|WP Eureka|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Inria Serif**|WP Calcul|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Intel One Mono**|WP CPU Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**Inter**|WP Between|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**JetBrains Mono**|WP PlaneBrains|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**Josefin Sans**|WP Josephine|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Jost**|WP Jasper|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Judson**|WP Judder|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
 |**Jura**|WP Ticket|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Karma**|WP Korma|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
-|**Kaisei Decol**|WP Kaiju|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters were removed to reduce font size.|
 |**KazukiReiwa**|WP Kazuki|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Japanese characters were removed to reduce font size.|
 |**Kay Pho Du**|WP Kaye|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Kelvinch**|WP Kelvin|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The base fonts supports petite capitals; I created a small-capital opentype table to enable them to work with small-caps and fixed an error that cause ligatures to override the table. The broken kerning tables were removed to allow the font to save. The font has also been hinted.|
@@ -134,7 +133,7 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Labrada**|WP Kadabra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|A kerning fix to the lowercase b was also made.|
 |**Laconic**|WP Few Words|SIL Open Font License (version 1.1)|✅|❌|❌|❌|This fixes an issue which causes ligatures to have priority over small-caps in the base font.|
 |**Laila**|WP Dominos|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-Latin characters have been removed.|
-|**Lekton**|WP Lecturn|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Monospaced font. Small caps in the Italic style are pulled from the regular style.|
+|**Lekton**|WP Lecturn|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Monospaced font. Small caps in the Italic style are pulled from the regular style. Kerning has been removed in the italic file (who kerns a monospaced font? 😂)|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**LXGW Neo ZhiSong Screen**|WP Sing Sing|IPA Font License (version 1.0)|❌|❌|❌|❌|Japanese characters were removed to reduce font size.|
 |**Liberation Mono**|WP Libertino Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
@@ -163,23 +162,19 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**New Computer Modern**|WP New Computer Moderner|Regular style file: GPL3 or later plus Font Exception (FE) plus Distribution Exception (DE). All other files: The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Copied small-caps kerning from the regular/bold files into the italic/bold italic files. Also fixed an issue with the non-breaking space.|
 |**New Computer Modern Mono**|WP New Computer Moderner Mono|The GUST Font License (GFL) (version 1)|✅|❌|❌|✅|Monospaced font. Fixed a missing italic style flag and edited the font to use KOReader's monospace flag.|
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
-|**Newsreader**|WP Extra Extra|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based on the 16 pt ("Text") version of the font.|
 |**Newt Serif**|WP Salamander|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Nimbus Mono PS**|WP Postal|GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
 |**Nocturne Serif**|WP Nocturnal|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes issue where ligatures overrode small-caps. There's a commercial version available with more font styles; as far as I'm aware, only the regular style is available under the OFL.|
 |**Noticia Text**|WP Notice|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**OCR-A**|WP OCR-A|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
 |**OCR-B**|WP OCR-B|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Custom glyphs have also been added.|
-|**Open Sans**|WP Sans of Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**OpenDyslexic 2**|WP OD 2|Creative Commons Attribution 4.0 International license (CC BY 4.0)|✅|✅|✅|❌|Based off OpenDyslexic 2.x.|
 |**OpenDyslexic 4**|WP OD 4|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Based off OpenDyslexic 4.x. Font left/right bearings have been greatly reduced. The double-story "a" has replaced the single-story a in the Regular/Bold styles (it has been made bolder in the bold style, too).|
 |**Orbit**|WP Galaxy|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font. Ligatures and Korean removed.|
-|**Outfit**|WP Outfitted|SIL Open Font License (version 1.1)|✅|❌|❌|❌|The "ft" and "Th" ligatures have been made standard (rather than discretionary).|
-|**Outfit**|WP Outfitted Classic|SIL Open Font License (version 1.1)|✅|❌|❌|❌|This version of Outfit uses only the ligatures that the default font ships with (though it removes the "outfit" ligature).|
+|**Outfit**|WP Outfitted Classic|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Removes the "outfit" ligature.|
 |**Overlock**|WP Overlocked|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small caps were enabled in the regular style. Scaled-down small cap glyphs were added to the other files. Ligatures were enabled across all files.|
-|**Overpass**|WP Underpass|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Overpass**|WP Underpass|SIL Open Font License (version 1.1)|✅|✅|✅|❌|
 |**Patrick Hand**|WP Star|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes the font's broken small-caps opentype table.|
-|**Philosopher**|WP Philosophy|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Pixel Code**|WP PixelC|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced.|
 |**Półtawski Nowy**|WP Poltergeist|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes incorrect non-breaking space kerning. No further modifications.|
 |**Poly**|WP Polybius|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
@@ -188,15 +183,8 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Proza Libre**|WP Prose|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Ligatures have been enabled.|
 |**PT Serif**|WP Petey Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Radley**|WP Radical|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
-|**Readerly**|WP Bookreader|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Recursive Sans Casual**|WP Recurrent Sans Casual|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Recursive Sans Linear**|WP Recurrent Sans Linear|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Recursive Mono Casual**|WP Recurrent Mono Casual|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Recursive Mono Linear**|WP Recurrent Mono Linear|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Reddit Sans**|WP We Did It|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Roboto Mono**|WP Bot Mono|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Monospaced font. Corrected the SMCP table in the font and added a C2SC table.|
 |**Roboto Serif**|WP Bot Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**Rosario**|WP Rosary|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Rosarivo**|WP Rosebud|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Sawarabi Mincho**|WP Zenith|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Japanese characters have been removed.|
 |**Science Gothic**|WP Science|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Uses font instances generated from the variable file. I've used the Light/Semibold files rather than Normal/Bold for better e-ink performance.|
@@ -206,7 +194,6 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**Share Tech Mono**|WP Shared Tech Mono|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced.|
 |**Shippori Mincho**|WP S Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
 |**Sometype Mono**|WP Sum Type Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**Sorts Mill Goudy**|WP Out of Sorts|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Source Code Pro**|WP SCode Pro|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Space Mono**|WP Space Invaders|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
@@ -220,53 +207,46 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 |**TeX Gyre Cursor**|WP Click|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Ligatures are removed.|
 |**TeX Gyre Termes**|WP New Times|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes various kerning issues and left/right bearing issues, especially with ligatures and the lowercase "v".|
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Tienne**|WP Yours|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Enabled ligatures.|
 |**Typey McTypeface**|WP Face Off|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Ubuntu Mono**|Ubuntu Mono WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|Monospaced font. The font is named differently than other fonts in this repo due to the font's license terms.|
 |**Ubuntu Sans**|Ubuntu Sans WP|UBUNTU FONT LICENCE|✅|✅|✅|✅|The font is named differently than other fonts in this repo due to the font's license terms. Italic/Bold Italic small caps are oblique versions of the true small caps from the regular/bold styles.|
 |**Vesper Libre**|WP Venus|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Devanagari characters have been removed.|
 |**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|
-|**XCharter**|WP Charred|Bitstream Free font license|✅|✅|✅|✅|Fixes broken italic small-caps metrics.|
+|**XCharter**|WPCharter|Bitstream Free font license|✅|✅|✅|✅|Deleted the buggy and uneven small-cap glyphs. Changed made the oldstyle `1` glyph the alternate, and vice-versa.|
 |**Young Serif**|WP Younger Serif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes broken font metadata.|
 |**Ysabeau**|WP Eezahboh|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|
 |**Ysabeau Medium**|WP Eezahboh 2|SIL Open Font License (version 1.1)|✅|✅|✅|✅|A heavier cut of this great font, for those who prefer it.|
 |**Ysabeau Semibold**|WP Eezahboh 3|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The heaviest cut of this great font, for those who prefer it.|
 |**Yuji Syuku**|WP Wesker|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Changes to ellipsis and bearings of quotation marks have been made. Japanese glyphs were removed to reduce font size.|
 |**Zen Old Mincho**|WP Old Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed. While a bold file is included (based on the Black file), it's very subtle. You may want to consider using only the regular file and having KOReader fake the bold effect.|
-|**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been corrected.|
+|**Zilla Slab**|WP Fox Slab|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The right side bearing of the lowercase r has been improved. Edited the font's small-cap table to work with the lastest version of crengine.|
 |**erewhon**|WP Nowhere|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Adds kerning that was missing for the Italic/Bold Italic small-caps.|
 |**mononoki**|WP Doki Doki|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 
-
-
-## FAQs:
-
-**Q: How do I install these?**  
-**A:** See the user guide here: https://koreader.rocks/user_guide/#L2-fonts
+## Other FAQs:
 
 **Q: Should I use these fonts outside of KOReader?**  
-**A:** In many cases, there’s no advantage to using these files outside of KOReader, as many other popular ereaders (Kobo, Pocketbook, etc) and software (Calibre, etc) will automatically generate their own fake small-capital letters (so whether or not small caps are present is a moot point). There are a handful of fonts where I use true small-capital glyphs, as I was able to extract them from the “SC” font file from other files (such as dedicate "SC" files) within the family and merge them into the regular font files; you would see a benefit from using those in any apps that support true small-capitals (Pocketbook's stock reader and Kindle books with "enhanced typsetting" both support true small caps, when present, for example).
+**A:** On any ereader that supports true small-capitals via opentype features (such as Pocketbook's stock reader and Kindle books with "enhanced typsetting"), you'll set the full set of benefits mentioned earlier. Other fonts have various fixes that enhance the reading experience, such as kerning and other bug fixes, that will apply to basically all ereaders except for Kobo's stock software (if you're on a repo like this, you shouldn't be using Kobo's dreadfully outdated and limited reader anyway, though; join the KOReader gang 😉).
 
 **Q: Does Kindle support true small caps, or auto-generate them??**  
 **A:** Sometimes it supports them. I *think* this is tied to the "enhanced typesetting" feature, though I'm not 100% sure. For books that support native small-caps, you'd benefit from using my fonts with "true" small-caps. However, Kindle will auto-generate small-caps for fonts that lack them, so there's no need to use my modified fonts with small-caps added (unless you want the extra changes I've made).  
 
-**Q: Did you make any other changes to these files?**  
-**A:** Various other changes have occasionally been made; see the notes for each font above. Among the changes I tend to make: kerning adjustments (usually for glaring errors, but sometimes I'd improve the kerning classes), enabling ligatures/oldstyle figures that weren’t properly enabled in the original files, manually creating extra ligatures when they were badly needed, and removing scripts besides Latin and Greek to reduce file sizes.
-
 **Q: Will you add Bookerly, Rakuten Serif, or (insert proprietary font here)?**  
-**A:** Unfortunately, I cannot legally edit or redistribute these proprietary font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s downloadable firmware *does* have small-caps built in… (the version hosted on the Amazon Developer site for developers is outdated).
+**A:** Unfortunately, I cannot legally edit, redistribute, or encourage pirating these proprietary font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s downloadable firmware *does* have true small-caps built in (the version hosted on the Amazon Developer site for developers is outdated and lacks them).
 
 **Q: Can you add or update (insert non-proprietary font here)?**  
-**A:** First, check to make sure the font you’re looking at doesn’t already include small-caps. If it does, I won’t have a version here (unless something is seriously messed up with the base font). I want to move on from this obsession of mine, so I only really would consider creating monospaced fonts (as they require no kerning, by far the most time-intensive step), fonts that lack kerning entirely, fonts that only use kerning *pairs* rather than *classes* (as they can have kerning copied effortlessly), or fonts (generally serif rather than sans-serif) that are so good that they feel worth the time investment for me. Create an issue in the GitHub issue tracker if a font catches your eye that you'd like to see a KOReader-friendly version of.
+**A:** I'll add any free & open source font serif or sans-serif font you request (throw an issue into the github issues section). Doing bugfixes beyond that will be at my discretion. Monospaced fonts will also be at my discretion, as they often take a bit more work to make them play nice with KOReader.
 
 **Q: Can you add the glyphs from (insert language here)?**  
-**A:** To save time, these files were created and use only the glyph sets I expect to run across in the books I read (Latin and Greek). I currently do not have plans to re-do any of these fonts with other glyph sets. However, I’ve provided instructions on how to make your own fake small-caps below.
+**A:** To save time, these files were created and use only the glyph sets I expect to run across in the books I read (Latin and Greek). I currently do not have plans to re-do any of these fonts with other glyph sets. However, I’ve provided instructions on how to make your own fake small-caps below. Fonts added after the big update should have their entire glyph sets, unless they're monospaced (in which case, I may prune some unused languages from them).
 
 **Q: Can you create variable versions of these fonts?**  
-**A:** I use FontForge, which currently doesn’t support this. KOReader also doesn't have proper variable font support, so there currently isn't a great reason to do this.
+**A:** I use FontForge, which currently doesn’t support this. KOReader technically will support variable fonts in this upcoming update, but I've found that static files still play nicer with it, so I will continue adding the static files.
 
 **Q: I found an issue unrelated to small caps with the font. Should I let you know?**  
-**A:** I'm open to fixing glaring kerning errors/encoding errors/etc with these fonts, provided I can do so in a reasonable amount of time (I'd fix a couple of really bad kerning pairs, but I'm not re-kerning an entire font, for example). Open an issue in the Issues tracker, and I'll let you know if I can handle it.
+**A:** Yes! I'm open to fixing glaring kerning errors and other smaller issues with these fonts, provided I can do so in a reasonable amount of time (I'm not re-kerning an entire font, for example). Open an issue in the Issues tracker, and I'll let you know if I can handle it.
 
 **Q: Why were the font files renamed?**  
 **A:** To avoid confusion with the original font files, as well as to allow the modified files to coexist with the originals. Additionally, fonts under the OFL often have reserved font names. To legally redistribute them, I had to change the font names.
@@ -275,12 +255,12 @@ Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. KORead
 **A:** I just used references or puns that came to mind, most of the time.
 
 **Q: Why are the Italic/Bold/Bold Italic files missing?**  
-**A:** Font styles will be missing when the original font lacks them (or, in very rare cases, because those style files have severe issues). I try to favor fonts that include all four styles, but oftentimes I liked the base font enough to include it anyway and deal with KOReader applying a fake oblique and/or bold effect when needed. Your ereader/app will probably fake these effects if they’re missing (The only exception I’m aware of is Kindle, which won’t properly render Bold Italic if you are missing the Bold Italic File but have regular Bold and Italic; in that case, delete/don’t use the Bold file at all).
+**A:** Font styles will be missing when the original font lacks them (or, in very rare cases, because those style files have severe issues, such as *extremely* incomplete glyph sets). I try to favor fonts that include all four styles, but oftentimes I liked the base font enough to include it anyway and deal with KOReader applying a fake oblique and/or bold effect when needed. Your ereader/app will probably fake these effects if they’re missing (one important exception I know of is Kindle, which won’t properly render Bold Italic if you are missing the Bold Italic File but have regular Bold and Italic; in that case, delete/don’t use the Bold file at all).
 
-**Q: (Insert font here from the collection) just released an updated version with true small-caps!**  
-**A:** Please let me know if this happens and update your ereader/computer with the official files. I will retire the customized version in that case. Real small-caps always look better than fake, scaled-down ones!
+**Q: (Insert font here from the collection) just released an updated version!**  
+**A:** If you see a substantially updated font that's out of date here, feel free to open an issue and I'll make sure it's updated, *unless* it's one of the fonts I modified and the core reasons I modified it in the first place remain unaddressed.
 
-## How to create your own fake small caps in FontForge:
+## How to create your own fake small caps in FontForge (this is no longer recommended, in most cases!):
 
 *NOTE: Fonts sometimes keep their kerning classes in their dist/mark tables; if you don't see kerning classes under "kern", look there*.  
 
@@ -301,10 +281,11 @@ If you’re looking to create your own fake small-capital glyphs, here are the s
 9. *MONOSPACE FONTS ONLY: Select all small-cap glyphs in the font, then select edit → Unlink reference.*
 10. *MONOSPACE FONTS ONLY (Optional, but I think it looks better): With all small-cap glyphs still selected, Select Metrics → Center in width.*
 11. Go to Element → Font info → Lookups. Under GSUB, we’ll need to edit two tables so that smallcap lookups happen correctly. Move smcp and c2sc to the top of your list, if they aren't there already (the order of those two doesn’t matter; those two just need to be above everything else). Hit the plus button for each, then click the entry that pops up, and finally click Edit Data. IN ORDER, do the following: Remove All, Populate, Remove empty. You’ll know you messed this step up if you see dots about your small-capital “I”s when you test out the font!
-12. *OPTIONAL: If you want proper kerning for the small-capital glyphs, you’re going to have to manually add it in. Step 7 copied over any kerning pairs your font may have had, but if your font also uses kerning tables (common, especially for newer fonts), the process is nightmarish. See instructions below. I’m not going to sugarcoat it; that can be a brutal process and takes way, way too long, so if you can live without proper kerning, skip this step. I couldn’t, so all fonts here are kerned.*
-13. Go to file → Generate fonts and generate your fonts!  
+12. Right click any lookup table, and click "Add 'DFLT' script, then click "Apply to All". I do the same for the GPOS tables, too (though that may not be necessary).
+13. *OPTIONAL: If you want proper kerning for the small-capital glyphs, you’re going to have to manually add it in. Step 7 copied over any kerning pairs your font may have had, but if your font also uses kerning tables (common, especially for newer fonts), the process is nightmarish. See instructions below. I’m not going to sugarcoat it; that can be a brutal process and takes way, way too long, so if you can live without proper kerning, skip this step. I couldn’t, so all fonts here are kerned.*
+14. Go to file → Generate fonts and generate your fonts!  
 
-Masochists only: Kerning your fonts that include kerning classes.  
+⚠️Masochists only!⚠️ - Kerning your fonts that include kerning classes.  
 
 1. PREREQUISITE: Keep unaltered copies of your fonts handy.
 2. You'll need to manually add all your small-cap glyphs to the kerning classes that the glyphs they’re based on are in (for example, you’d add “a.sc” to the Kerning classes “A” is in). Save a copy of the new font file(s) with these additions.
@@ -329,4 +310,4 @@ Masochists only: Kerning your fonts that include kerning classes.
 - OpenType
 - FFTM
 
-Make very sure that “Apple”, “windows-compatible kern”, “old style kern”, and “prefer native kerning” are NOT checked. If the font was originally an OTF file, save it as an “OpenType (CFF)” file.
+Make **very** sure that “Apple”, “windows-compatible kern”, “old style kern”, and “prefer native kerning” are NOT checked. If the font was originally an OTF file, save it as an “OpenType (CFF)” file. In very rare cases, usually with very old fonts, you may need to enable old-style kerning.
