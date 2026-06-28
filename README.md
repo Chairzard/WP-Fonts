@@ -1,18 +1,20 @@
 # WP Fonts - The internet's largest compilation of (quality) free/open-source fonts for KOReader, with fixes and other additions!
 
+**I'm making the bold claim that basically every free & open-source *serif* font on the internet that's worth using can be found here**. By that, I mean the font has no glaring technical issues and supports enough basic Latin glyphs for 99% of books you'll read in English.
+
 This project started off to address a shortcoming of KOReader's engine at the time: No ability to synthesize small-caps that lacked them. As a secondary focus, I'd make improvements to the fonts I was tinkering with at the same time. As KOReader now can synthesize small-caps, the focus of the repo has flipped a bit on its head. Now, the focus is on fonts that have had technical improvements made to them (kerning fixes, missing opentype features, etc). I am also leaving my vast catalog of catalog of fonts that were modified to have small-caps, as their included small-caps are generally superior to KOReader's small-caps for the following reasons:
 
 - Their kerning when they follow uppercase letters is superior (example: The glyph V following by the small-cap A will be kerned a lot tighter in my version versus the native sythesized fonts, *if* the font creator kerned them)
 - I don't like how the engine handles scaled down small-caps for monospaced fonts, as it breaks monospacing (note: this is an issue with *all* ereader apps due to the technical limitations of faking small-caps)
 - The KOReader engine scales glyphs to 75% of their height. This is a pretty decent choice, given the engine can only choose one number to scale by, but this is an imperect solution for every font. Small-capitals should ideally be at least a font's x-height % tall (when compared with the regular X's height), plus ideally a little taller than that (10-20% taller is generally the ideal). If the x-height of a font is, say, 80%, the small-caps will look anemic. My fonts have their small-caps based on the X-height (+10-20%, as needed), rather than a flat percentage, so they tend to be sized more appropriately.
 
-Why download my fonts?
+**Why download my fonts?**  
+
 - Unlike jumping into a sea of free fonts on a site like Google Fonts, every font here is at least passable for use on an ereader.
 - Every font here can be freely downloaded and modified.
 - Monospaced fonts have been edited to enable the monospace flag in KOReader (allowing them to be set as your default monospace fonts).
 - The small-caps added to the monospaced fonts won't break monospacing.
 - Fonts that included small-caps in their regular and/or bold style, but not in their italic and/or bold italic style, had those small-caps copied to the italic files with full kerning support (minus support for some Capital letter/small-cap kerning pairs).
-- I'm making the bold claim that basically every free & open-source serif font on the internet *worth using* can be found here. By that, I mean the font has no glaring technical issues and supports enough basic Latin glyphs for 99% of books you'll read in English.
 - The most famous free & open-source sans-serif and monospaced fonts can also be found here. However, because they start to feel same-y after a while, my collection there is less comprehensive.
 
 When possible, my license of choice is the SIL Open Font License (I've included an FAQ about it in the main folder of the repo). However, fonts are usually (maybe always!; I can't remember) distributed under their original licensing terms. All downloads contain a copy of the font licenses.  
@@ -24,7 +26,7 @@ Note: These fonts have **not** generally had their line heights adjusted and are
 **Q: How do I install these?**  
 **A:** See the user guide here: https://koreader.rocks/user_guide/#L2-fonts. In general, you can just download the latest releases and drag all the font folders into KOReader's fonts folder and be done with (tip: you can also download fonts individually by exploring the repo a bit). Be advised that the TeX Gyre fonts (and possibly some others) are distributed in their original .zip files to comply with their license terms, so you'll need to extract those first before you can use them, too.
 
-**Q: Now that KOreader can do fake small-caps, what's the plan for this repo?**
+**Q: Now that KOreader can do fake small-caps, what's the plan for this repo?**  
 **A: Going forward, I will no longer be creating my own scaled-down small-caps for non-monospaced fonts.** It's no longer worth the time investment with a "good enough" solution in place. If a font is missing small-caps in certain styles but has true small-caps in others, I'm *potentially* still open to porting them over to styles that lack them, but the font will need to be a banger and not have kerning designed in one of the circles of Hell for me to make that time commitment. I will continue to modify fonts that have bugs or really bad kerning issues that I can fix.  
 
 ## Current list of modified fonts available:
@@ -229,9 +231,6 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 
 **Q: Should I use these fonts outside of KOReader?**  
 **A:** On any ereader that supports true small-capitals via opentype features (such as Pocketbook's stock reader and Kindle books with "enhanced typsetting"), you'll set the full set of benefits mentioned earlier. Other fonts have various fixes that enhance the reading experience, such as kerning and other bug fixes, that will apply to basically all ereaders except for Kobo's stock software (if you're on a repo like this, you shouldn't be using Kobo's dreadfully outdated and limited reader anyway, though; join the KOReader gang 😉).
-
-**Q: Does Kindle support true small caps, or auto-generate them??**  
-**A:** Sometimes it supports them. I *think* this is tied to the "enhanced typesetting" feature, though I'm not 100% sure. For books that support native small-caps, you'd benefit from using my fonts with "true" small-caps. However, Kindle will auto-generate small-caps for fonts that lack them, so there's no need to use my modified fonts with small-caps added (unless you want the extra changes I've made).  
 
 **Q: Will you add Bookerly, Rakuten Serif, or (insert proprietary font here)?**  
 **A:** Unfortunately, I cannot legally edit, redistribute, or encourage pirating these proprietary font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s downloadable firmware *does* have true small-caps built in (the version hosted on the Amazon Developer site for developers is outdated and lacks them).
