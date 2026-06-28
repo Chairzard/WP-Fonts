@@ -1,6 +1,6 @@
 # WP Fonts - The internet's largest compilation of (quality) free/open-source fonts for KOReader, with fixes and other additions!
 
-**I'm making the bold claim that basically every free & open-source *serif* font on the internet that's worth using can be found here**. By that, I mean the font has no glaring technical issues and supports enough basic Latin glyphs for 99% of books you'll read in English.
+**I'm making the bold claim that basically every free & open-source *serif* font on the internet that's worth using can be found here**. By "worth using", I mean the font has no glaring technical issues and supports enough basic Latin glyphs for 99% of books you'll read in English.
 
 This project started off to address a shortcoming of KOReader's engine at the time: No ability to synthesize small-caps that lacked them. As a secondary focus, I'd make improvements to the fonts I was tinkering with at the same time. As KOReader now can synthesize small-caps, the focus of the repo has flipped a bit on its head. Now, the focus is on fonts that have had technical improvements made to them (kerning fixes, missing opentype features, etc). I am also leaving my vast catalog of catalog of fonts that were modified to have small-caps, as their included small-caps are generally superior to KOReader's small-caps for the following reasons:
 
