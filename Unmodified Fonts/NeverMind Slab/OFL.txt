@@ -1,14 +1,11 @@
-Copyright 2023 The Afacad Project Authors (https://github.com/Dicotype/Afacad)
-
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Dacafa. Based on Afacad v.1.0.
+Copyright (c) 2020 XMind ltd. All Rights Reserved
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-https://openfontlicense.org
-
+http://scripts.sil.org/OFL
 
 -----------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+SIL OPEN FONT LICENSE Version 1.1 - 02 January 2020
 -----------------------------------------------------------
 
 PREAMBLE
@@ -20,7 +17,7 @@ with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
 redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded, 
+fonts, including any derivative works, can be bundled, embedded,
 redistributed and/or sold with any software provided that any reserved
 names are not used by derivative works. The fonts and derivatives,
 however, cannot be released under any other type of license. The
@@ -46,7 +43,7 @@ new environment.
 "Author" refers to any designer, engineer, programmer, technical
 writer or other person who contributed to the Font Software.
 
-PERMISSION & CONDITIONS
+PERMISSION AND CONDITIONS
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of the Font Software, to use, study, copy, merge, embed, modify,
 redistribute, and sell modified and unmodified copies of the Font

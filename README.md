@@ -164,6 +164,7 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**New Computer Modern**|WP New Computer Moderner|Regular style file: GPL3 or later plus Font Exception (FE) plus Distribution Exception (DE). All other files: The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Copied small-caps kerning from the regular/bold files into the italic/bold italic files. Also fixed an issue with the non-breaking space.|
 |**New Computer Modern Mono**|WP New Computer Moderner Mono|The GUST Font License (GFL) (version 1)|✅|❌|❌|✅|Monospaced font. Fixed a missing italic style flag and edited the font to use KOReader's monospace flag.|
 |**New Tegomin**|WP Cigarette Burns|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Non-latin characters have been removed.|
+|**New Telegraph**|WP Newer Telegraph|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Enables ligatures.|
 |**Newt Serif**|WP Salamander|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Nimbus Mono PS**|WP Postal|GNU AFFERO GENERAL PUBLIC LICENSE Version 3|✅|✅|✅|❌|Monospaced font.|
 |**Nocturne Serif**|WP Nocturnal|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes issue where ligatures overrode small-caps. There's a commercial version available with more font styles; as far as I'm aware, only the regular style is available under the OFL.|
