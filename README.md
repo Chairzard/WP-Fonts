@@ -55,6 +55,7 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|
 |**Atkinson Hyperlegible Mono**|WP Hyperlegible Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Avara**|WP Angles|SIL Open Font License (version 1.1)|✅|✅|❌|❌|Fixes the font's metadata.|
 |**Averia Libre**|WP Mean|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Averia Sans Libre**|WP Mean Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Averia Serif Libre**|WP Mean Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
