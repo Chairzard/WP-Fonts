@@ -62,7 +62,8 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs. This font uses the Medium weight files rather than the regular weighted ones for better e-ink performance.|
 |**Besley**|WP Bestley|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Made substantial kerning improvements to the SMCP glyphs and made the question mark more sane.|
 |**BIZ UDPMincho**|WP B Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
-|**Bitter**|WP Bxtter|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Swaps the lowercase x for the more traditional version. (`x` and `x.ss01`)|
+|**Bitter**|WP Bittersweet|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes bugs with the fi/ffi ligatures and the small-caps table.|
+|**Bitter (traditional x)**|WP Bxtter|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Swaps the lowercase x for the more traditional version. (`x` and `x.ss01`). Same bug fixes as above.|
 |**Bona Nova**|WP Bona|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Fixes a bug in the base italic file; no further changes.|
 |**Caladea**|WP Calamari|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Cascadia Mono**|WP Dishwasher|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
