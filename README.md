@@ -139,6 +139,7 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**Laconic**|WP Few Words|SIL Open Font License (version 1.1)|✅|❌|❌|❌|This fixes an issue which causes ligatures to have priority over small-caps in the base font.|
 |**Laila**|WP Dominos|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Non-Latin characters have been removed.|
 |**Lekton**|WP Lecturn|SIL Open Font License (version 1.1)|✅|✅|❌|✅|Monospaced font. Small caps in the Italic style are pulled from the regular style. Kerning has been removed in the italic file (who kerns a monospaced font? 😂)|
+|**Leluja Original**|WP Unoriginal|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Fixes broken style flags.|
 |**Lexend**|WP Luthor|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**LXGW Neo ZhiSong Screen**|WP Sing Sing|IPA Font License (version 1.0)|❌|❌|❌|❌|Japanese characters were removed to reduce font size.|
 |**Liberation Mono**|WP Libertino Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
