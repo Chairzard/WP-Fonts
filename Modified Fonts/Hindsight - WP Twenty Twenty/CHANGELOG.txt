@@ -1,0 +1,6 @@
+Changelog for Version 1.0 of WP Twenty Twenty
+
+- The font has been renamed from Hindsight.
+- Small caps from the small-caps file were merged into the regular file.
+- Small caps from the small-caps file were merged into the italic file and given an Oblique effect (-11.3°).
+- Ligatures were enabled in the regular and italic files.

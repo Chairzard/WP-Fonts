@@ -110,6 +110,7 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**Google Sans Code**|WP Search Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Hack**|WP Hacked|MIT License/Bitstream Vera License|✅|✅|✅|❌|Monospaced font.|
 |**Happy Times at the IKOB**|WP Happy|SIL Open Font License (version 1.1)|✅|✅|❌|❌||
+|**Hindsight**|WP Twenty Twenty|Design Science License|❌|✅|❌|✅|Small-caps were merged in from the SC font file. Ligatures have been enabled.|
 |**Hunck**|WP Amazing Bulk|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Small-caps were merged in from the SC font file. Ligatures have been enabled. Added missing kerning for small-cap characters with diacritics.|
 |**Hundar**|WP Charles|SIL Open Font License (version 1.1)|❌|❌|❌|❌|An interesting font that's in development. For some reason, the version available on the project's Github repo page is missing small caps, but I was able to pull them and add them into the font from sample docs on the project's website. I also fixed the broken ligature table and reduced word spacing.|
 |**Hyde**|WP Jekyll|SIL Open Font License (version 1.1)|✅|✅|❌|⚠️|Kerning for the existing small capital letters has been improved. Small caps in the italicized file have had an oblique effect added. Small caps in the bold style are scaled-down letters.|
@@ -221,6 +222,7 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**Vesper Libre**|WP Venus|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Devanagari characters have been removed.|
 |**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|
+|**X Typewriter**|WP Y Typewriter|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Monospaced font. Improves the font's quotation marks.|
 |**XCharter**|WPCharter|Bitstream Free font license|✅|✅|✅|✅|Deleted the buggy and uneven small-cap glyphs. Changed made the oldstyle `1` glyph the alternate, and vice-versa.|
 |**Young Serif**|WP Younger Serif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes broken font metadata.|
 |**Ysabeau**|WP Eezahboh|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Italic/Bold italics generated using the regular/bold style glyphs.|

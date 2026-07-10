@@ -1,0 +1,48 @@
+    The Tribun collection consists of fonts made by Arkandis Digital
+    Foundry (ADF), collectively known as the "Program"
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or any later 
+    version, with font exception.
+
+   As a special exception, if you create a document which uses Tribun
+   font, and embed this font or unaltered portions of this font into the
+   document, this font does not by itself cause the resulting document to
+   be covered by the GNU General Public License. This exception does not
+   however invalidate any other reasons why the document might be covered
+   by the GNU General Public License. If you modify this font, you may
+   extend this exception to your version of the font, but you are not
+   obligated to do so. If you do not wish to do so, delete this exception
+   statement from your version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+_____________________________________________________________________________________
+     RELEASE 
+	1.000 - Initial release: September 1999
+	1.001 - Modifications: Y,y new kerning
+	1.002 - Modifications: a,o,e
+	1.003 - Modifications: t,i,V,W minor corrections
+	1.004 - Modifications: j,h,m,n hinting corrections
+	1.005 - Spacing correction new kerning
+	1.006 - Modification: r,v,w
+	1.007 - Modification: a,f,F,m,n Addition ffi, ffl liga
+	1.008 - Modifications: T, t, new kerning, change license to GNU GPL
+	1.009 - Modifications: A,a,A,e,g ,minor corrections. Addition of glyphes to Std format
+	1.010 - Modification: lowercase height, spacing numbers, and minor corrections.
+	1.011 - Liga addition: fj,ffj,st,sp.
+	1.012 - Minor corrections, std ext to scribus.
+	1.013 - Minor corrections, germandbls modification.
+	1.014 - Minor corrections;
+	1.015 - Minor corrections.
+	1.016 - Naming changes, "e" design change.
+	1.017 - Minor changes, Win table addition.
+
