@@ -216,6 +216,7 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**TeX Gyre Termes**|WP New Times|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes various kerning issues and left/right bearing issues, especially with ligatures and the lowercase "v".|
 |**Texturina**|WP Texture|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Tienne**|WP Yours|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Enabled ligatures.|
+|**Tribun ADF Std**|WP Tribute|GNU GENERAL PUBLIC LICENSE Version 2|✅|✅|✅|❌|Improves metrics and kerning for the font's ligatures.|
 |**Typey McTypeface**|WP Face Off|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Ubuntu Mono**|Ubuntu Mono WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|Monospaced font. The font is named differently than other fonts in this repo due to the font's license terms.|
 |**Ubuntu Sans**|Ubuntu Sans WP|UBUNTU FONT LICENCE|✅|✅|✅|✅|The font is named differently than other fonts in this repo due to the font's license terms. Italic/Bold Italic small caps are oblique versions of the true small caps from the regular/bold styles.|
