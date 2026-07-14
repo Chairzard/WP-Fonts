@@ -6,7 +6,8 @@ This project started off to address a shortcoming of KOReader's engine at the ti
 
 **Why download my fonts?**  
 
-- I've fixed an unfathomable number of errors with these fonts (when possible, I've reported the issue(s) to the font creators, too; unfortunately, many fonts end up as dead projects). This includes enabling ligatures or oldstyle figures that weren't properly enabled by the font creator, fixing blantant kerning errors, fixing errors that prevented small-caps from rendering correctly, fixing broken font metadata that impacted the font's usability in KOReader, etc.
+- I've fixed an unfathomable number of errors with these fonts (when possible, I've reported the issue(s) to the font creators, too; unfortunately, many fonts are dead projects). This includes enabling ligatures or oldstyle figures that weren't properly enabled by the font creator, fixing blantant kerning errors, fixing errors that prevented small-caps from rendering correctly, fixing broken font metadata that impacted the font's usability in KOReader, etc.
+- I've expanded the glyph sets of certain fonts to add missing characters I consider vital (usually the em-dash, ellipsis, and/or left/right quotation marks).
 - Unlike jumping into a sea of free fonts on a site like Google Fonts, every font here is at least passable for use on an ereader.
 - Unlike font downloads from other sites, my downloads include _only_ the files required by KOReader and the font license file(s). You won't end up with a boatload of different font weights you'll never use, variable font files that have dodgy KOReader support, etc.
 - Every font here can be freely (legally) downloaded and modified.
