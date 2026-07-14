@@ -6,8 +6,10 @@ This project started off to address a shortcoming of KOReader's engine at the ti
 
 **Why download my fonts?**  
 
+- I've fixed an unfathomable number of errors with these fonts (when possible, I've reported the issue(s) to the font creators, too; unfortunately, many fonts end up as dead projects). This includes enabling ligatures or oldstyle figures that weren't properly enabled by the font creator, fixing blantant kerning errors, fixing errors that prevented small-caps from rendering correctly, fixing broken font metadata that impacted the font's usability in KOReader, etc.
 - Unlike jumping into a sea of free fonts on a site like Google Fonts, every font here is at least passable for use on an ereader.
-- Every font here can be freely downloaded and modified.
+- Unlike font downloads from other sites, my downloads include _only_ the files required by KOReader and the font license file(s). You won't end up with a boatload of different font weights you'll never use, variable font files that have dodgy KOReader support, etc.
+- Every font here can be freely (legally) downloaded and modified.
 - Monospaced fonts have been edited to enable the monospace flag in KOReader (allowing them to be set as your default monospace fonts).
 - The small-caps added to the monospaced fonts won't break monospacing.
 - Fonts that included small-caps in their regular and/or bold style, but not in their italic and/or bold italic style, had those small-caps copied to the italic files with full kerning support (minus support for some Capital letter/small-cap kerning pairs).
