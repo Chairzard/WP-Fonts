@@ -1,4 +1,4 @@
-# WP Fonts - The internet's largest compilation of (quality) free/open-source fonts for KOReader, with fixes and other additions!
+# WP Fonts - The internet's largest compilation of free/open-source fonts for KOReader, with bugfixes and other additions!
 
 **I'm making the bold claim that basically every free & open-source *serif* font on the internet that's worth using can be found here**. By "worth using", I mean the font has no glaring technical issues and supports enough basic Latin glyphs for 99% of books you'll read in English. And, of course, there are many curious fonts here that probably _aren't_ worth using, but I still found them neat enough to include.
 
