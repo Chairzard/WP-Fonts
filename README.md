@@ -33,7 +33,9 @@ Note: These fonts have **not** generally had their line heights adjusted and are
 
 *Note: Fonts without Bold/Italic/Bold Italic files are still usable in KOReader. Many fonts distributed here lack at least one style. KOReader will create an artificial bold effect and/or apply an oblique effect, respectively, for fonts missing these files.*
 
-Here's a complete list of modified fonts in this repo, and the modifications that were made. If you see no note listed in the far-right column, the only change made to the font was my addition of scaled-down small-caps from the era before KOReader could do that itself. Fonts marked as having "true" small caps use small capitals with the correct stroke width designed by the font creator, taken from other style files for the font. Fonts marked with an X just use my scaled-down capital letters. If there's a caution symbol, they use a mix of both true small capitals and my scaled-down ones.
+*Note: This list excludes the unmodified fonts in this repo. For a complete list of this repo's unmodified files, click [here](https://github.com/Chairzard/WP-Fonts/tree/main/Unmodified%20Fonts)*
+
+Here's a complete list of modified fonts in this repo, and the modifications that were made. If you see no note listed in the far-right column, the only change made to the font was my addition of scaled-down small-caps from the era before KOReader could do that itself. Fonts marked as having "true" small caps use small capitals with the correct stroke width designed by the font creator (ported over from other style files for the font, if they were missing in certain files). Fonts marked with an X just use my scaled-down capital letters. If there's a caution symbol, they use a mix of both true small capitals and scaled-down ones.
 
 |Original font name|Edited font name|Font license|Bold?|Italics?|Bold Italics?|"True" small caps?|Notes|
 |---|---|---|---|---|---|---|---|
