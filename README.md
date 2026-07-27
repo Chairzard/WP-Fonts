@@ -99,7 +99,7 @@ Here's a complete list of modified fonts in this repo, and the modifications tha
 |**Electrum ADF**|WP Electric|GNU GENERAL PUBLIC LICENSE Version 2|✅|✅|✅|✅|Fixes metadata bugs and enables oldstyle figures.|
 |**Enriqueta**|WP Silkscreen|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Epunda Slab**|WP Upunda Slab|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
-|**ETbb**|WPbb|MIT License|✅|✅|✅|❌|Fixes an annoying kerning error with the "s h" pair. Note that while this font includes the small-caps the original font creator used, they are scaled-down capital letters (so I don't consider them true small-caps).|
+|**ETbb**|WPbb|MIT License|✅|✅|✅|❌|Fixes an annoying kerning error with the "s h" pair. Vertical metrics have also been corrected. Note that while this font includes the small-caps the original font creator used, they are scaled-down capital letters (so I don't consider them true small-caps).|
 |**Fantasque Sans Mono**|WP Fantastic|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Fanwood Text**|WP Biggest Fan|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Faustina**|WP Wolfgang|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
