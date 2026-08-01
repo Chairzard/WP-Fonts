@@ -1,0 +1,10 @@
+This package contains the entire unmodified collection of the TeX Gyre fonts, distributed without modification to comply with their font licenses.
+
+I do NOT recommend using the included versions of TeX Gyre Cursor, Pagella, Schola, or Termes. All have issues with their vertical metrics, and Termes also has some kerning issues. The rest of the collection works well out of the box. Note that my modified version of Cursor also removes the ligatures that are used by the base version.
+
+The following fonts also are probably worth avoiding because they don't work great for e-reading.
+
+- TeX Gyre Chorus
+- TeX Gyre Heros Cn (the condensed version of the font)
+
+You can install your desired fonts from the .otf files in the "opentype" folder.

@@ -1,6 +1,6 @@
 Copyright (c) 2018 The Secuela Project Authors (https://github.com/defharo/secuela-variable).
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Seiklus.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Seiklus. Based on Secula v.1.787.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

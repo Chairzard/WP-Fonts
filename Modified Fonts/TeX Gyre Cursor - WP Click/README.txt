@@ -4,4 +4,4 @@ Any issues with this font may be reported at https://github.com/Chairzard/WP-Fon
 
 WP Click is distributed under the GUST Font License (GFL) version 1.0.
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts).
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts). Based on TeX Gyre Cursor version 2.004.

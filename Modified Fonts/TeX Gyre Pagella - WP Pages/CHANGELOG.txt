@@ -1,0 +1,3 @@
+Version 1.0: Fixed vertical metrics.
+
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts)/

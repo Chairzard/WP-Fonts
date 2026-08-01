@@ -1,3 +1,5 @@
 Version 1.0 of FreerSerif: Copied the small-cap kerning classes from the italic style to the Bold Italic style.
+Version 1.1 of FreerSerif: Fixed metadata issue that prevented small-caps from working in some cases.
+Version 1.2 of FreerSerif: Fixed vertical metrics.
 
 Based on version 0412.4253 of FreeSerif.

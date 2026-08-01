@@ -1,4 +1,6 @@
-Ligatures have had their kerning and left/right side bearings corrected. Kerning for the lowercase letter v has also been adjusted, in some cases.
+Version 1.0: Ligatures have had their kerning and left/right side bearings corrected. Kerning for the lowercase letter v has also been adjusted, in some cases.
+Version 1.1: Fixed metadata issued that sometimes prevented small-caps from activating.
+Version 1.2: Fixed vertical metrics.
 
 These fonts have also been hinted, using ttfautohint.
 
