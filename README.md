@@ -252,7 +252,7 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 ## Other FAQs:
 
 **Q: Should I use these fonts outside of KOReader?**  
-**A:** On any ereader that supports true small-capitals via opentype features (such as Pocketbook's stock reader and Kindle books with "enhanced typsetting"), you'll set the full set of benefits mentioned earlier. Other fonts have various fixes that enhance the reading experience, such as kerning and other bug fixes, that will apply to basically all ereaders except for Kobo's stock software (if you're on a repo like this, you shouldn't be using Kobo's dreadfully outdated and limited reader anyway, though; join the KOReader gang 😉).
+**A:** The unmodified fonts can be used on any ereader. For modified fonts, they're usually worth using to take advantange of the fixes I've made, but it depends; pretty much all ereaders can take advantage of all fixes made to these font files, except for Kobo's stock software which lacks basic functionality like displaying true small-caps, kerning, etc (seriously Kobo? It's 2026; get your act together!).
 
 **Q: Will you add Bookerly, Rakuten Serif, or (insert proprietary font here)?**  
 **A:** Unfortunately, I cannot legally edit, redistribute, or encourage pirating these proprietary font files due to their restrictive font licenses. FYI, the latest version of Bookerly contained on the Kindle’s downloadable firmware *does* have true small-caps built in (the version hosted on the Amazon Developer site for developers is outdated and lacks them).
@@ -266,7 +266,7 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 **Q: Can you create variable versions of these fonts?**  
 **A:** I use FontForge, which currently doesn’t support this. KOReader now supports variable fonts, but I've found that static files still play nicer with it, so I will continue adding the static files.
 
-**Q: I found an issue unrelated to small caps with the font. Should I let you know?**  
+**Q: I found an issue with a font. Should I let you know?**  
 **A:** Yes! I'm open to fixing glaring kerning errors and other smaller issues with these fonts, provided I can do so in a reasonable amount of time (I'm not re-kerning an entire font, for example). Open an issue in the Issues tracker, and I'll let you know if I can handle it.
 
 **Q: Why were the font files renamed?**  
