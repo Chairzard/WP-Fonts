@@ -1,5 +1,6 @@
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts).
-Based on version 1.0 of John Sauter's OCR-A.
+(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts),
+with restricted font name WP OCR-A. Based on version 1.0 of John Sauter's
+OCR-A.
 
 License Agreement
 
