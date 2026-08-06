@@ -54,15 +54,15 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 |**Almendra**|WP Amygdala|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small cap glyphs in the regular style were taken from the "SC" font file. Small-caps in the other styles were generated from scaled down capital letters.|
 |**Amarna**|WP Armada|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Amstelvar**|WP Amsterdam|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Small caps were created from the variable font by setting capital height and width to 70%. Ligatures and Oldstyle Figures have been enabled. Word spacing was reduced. Vertical metrics have also been corrected.|
-|**Anaheim**|WP Ducks|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
+|**Anaheim**|WP California|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**Anonymous Pro**|WP Four Chan|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Antykwa Toruńska**|WP Antique|The GUST Font License (GFL) (version 1)|✅|✅|✅|✅|Fixes incorrect non-breaking space width. No further modifications.|
 |**Anvers**|WP Anvil|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
 |**Archivo**|WP Archivist|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Aref Ruqaa**|WP Agile Ruqaa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Arabic characters have been removed.|
 |**Asul**|WP Lusa|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Custom fi/fl ligatures have also been added.|
-|**Atkinson Hyperlegible Mono**|WP Hyperlegible Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
-|**Atkinson Hyperlegible Next**|WP Hyperlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
+|**Atkinson Hyperlegible Mono**|WP Superlegible Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Atkinson Hyperlegible Next**|WP Superlegible|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Avara**|WP Angles|SIL Open Font License (version 1.1)|✅|✅|❌|❌|Fixes the font's metadata.|
 |**Averia Libre**|WP Mean|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**Averia Sans Libre**|WP Mean Sans|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
@@ -216,10 +216,11 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 |**Sometype Mono**|WP Sum Type Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Source Code Pro**|WP SCode Pro|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Source Serif 4**|WP SSerif|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
-|**Space Mono**|WP Space Invaders|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
+|**Space Mono**|WP Spaced Out|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**Special Elite**|WP Elite|Apache License (version 2.0)|❌|❌|❌|❌||
-|**Splentinex (Splentino)**|WP Splenda|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small-caps in the regular style are true small-caps. Small-caps in the italic style are copied from the regular style. Small-caps in the Bold/Bold Italic styles are scaled-down letters. A kerning issue with old-style figures in the regular style was corrected. Vertical metrics have been corrected.|
+|**Splentinex (Splentino)**|WP Splendid|SIL Open Font License (version 1.1)|✅|✅|✅|⚠️|Small-caps in the regular style are true small-caps. Small-caps in the italic style are copied from the regular style. Small-caps in the Bold/Bold Italic styles are scaled-down letters. A kerning issue with old-style figures in the regular style was corrected. Vertical metrics have been corrected.|
 |**Stilu**|WP Style U|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes many font metadata bugs which broke the font.|
+|**STIX Two Text**|WP Pick-up Sticks|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes rendering bugs with the ligatures (instead of using contextual alternates like the base font, I use its dedicated ligatures). Metrics for the ligatures were corrected, and kerning was copied over from the glyphs that make up its parts.|
 |**Sudo**|WP RM RF|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**SUSE**|WP Geeko|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
 |**SUSE Mono**|WP Geeko Mono|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
@@ -232,8 +233,8 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 |**Tienne**|WP Yours|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Enabled ligatures.|
 |**Tribun ADF Std**|WP Tribute|GNU GENERAL PUBLIC LICENSE Version 2|✅|✅|✅|❌|Improves metrics and kerning for the font's ligatures.|
 |**Typey McTypeface**|WP Face Off|SIL Open Font License (version 1.1)|❌|✅|❌|❌||
-|**Ubuntu Mono**|Ubuntu Mono WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|Monospaced font. The font is named differently than other fonts in this repo due to the font's license terms.|
-|**Ubuntu Sans**|Ubuntu Sans WP|UBUNTU FONT LICENCE|✅|✅|✅|✅|The font is named differently than other fonts in this repo due to the font's license terms. Italic/Bold Italic small caps are oblique versions of the true small caps from the regular/bold styles.|
+|**Ubuntu Mono**|Ubuntu Mono derivative WP|UBUNTU FONT LICENCE|✅|✅|✅|❌|Monospaced font. The font is named differently than other fonts in this repo due to the font's license terms.|
+|**Ubuntu Sans**|Ubuntu Sans derivative WP|UBUNTU FONT LICENCE|✅|✅|✅|✅|The font is named differently than other fonts in this repo due to the font's license terms. Italic/Bold Italic small caps are oblique versions of the true small caps from the regular/bold styles.|
 |**Vesper Libre**|WP Venus|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Devanagari characters have been removed.|
 |**Vollkorn**|WP Korn|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs.|
 |**Winky Sans**|WP Rip Van Winkle|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Kerning is lifted from the "Rough" font style (it's more robust than the base file's kerning).|

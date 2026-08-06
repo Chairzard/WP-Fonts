@@ -1,6 +1,6 @@
-Copyright 2012 The Anaheim Project Authors (https://github.com/googlefonts/anaheimFont)
+Copyright 2020-2024 The Atkinson Hyperlegible Mono Project Authors (https://github.com/googlefonts/atkinson-hyperlegible-next-mono)
 
-(c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP California. Based on version 2.001 of Anaheim.
+Copyright (c) 2026 Winston Payne/Chairzard (https://github.com/Chairzard/WP-Fonts), with reserved font name WP Superlegible Mono. Based on Atkinson Hyperlegible Mono v. 2.001.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
