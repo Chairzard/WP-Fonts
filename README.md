@@ -69,6 +69,7 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 |**Averia Serif Libre**|WP Mean Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Vertical metrics have been corrected.|
 |**Baskervville**|WP Stapleton|SIL Open Font License (version 1.1)|✅|✅|✅|✅|The regular and bold styles already contained true small caps; small caps were created for the italic/bold italic styles based on those glyphs. This font uses the Medium weight files rather than the regular weighted ones for better e-ink performance.|
 |**Baskervaldx**|WP Basilisk|GNU GENERAL PUBLIC LICENSE Version 2|✅|✅|✅|✅|Corrected vertical metrics.|
+|**Beholden**|WP Beholder|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Enables ligatures and corrects some self-intersection.|
 |**Besley**|WP Bestley|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Made substantial kerning improvements to the SMCP glyphs and made the question mark more sane.|
 |**BIZ UDPMincho**|WP B Mincho|SIL Open Font License (version 1.1)|✅|❌|❌|❌|Japanese characters have been removed.|
 |**Bitter**|WP Bittersweet|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes bugs with the fi/ffi ligatures and the small-caps table.|
