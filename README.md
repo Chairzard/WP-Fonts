@@ -198,6 +198,7 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 |**Overpass**|WP Underpass|SIL Open Font License (version 1.1)|✅|✅|✅|❌|
 |**Patrick Hand**|WP Star|SIL Open Font License (version 1.1)|❌|❌|❌|✅|Fixes the font's broken small-caps opentype table.|
 |**Pixel Code**|WP PixelC|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced.|
+|**PL46**|WP46|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font.|
 |**Półtawski Nowy**|WP Poltergeist|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Fixes incorrect non-breaking space kerning. No further modifications.|
 |**Poly**|WP Polybius|SIL Open Font License (version 1.1)|❌|✅|❌|✅|The regular style already contained true small caps; small caps were created for the italic style based on those glyphs.|
 |**Poppins**|WP Mary|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
