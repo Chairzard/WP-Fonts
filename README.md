@@ -48,7 +48,6 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 |**Adelphe**|WP Affinity|Open Inclusif·ve Fonte Licence|✅|✅|✅|❌|This release is based on the Mar 18, 2024 Adelphe font files, as the latest version uses the more restrictive CUTE License.|
 |**Afacad**|WP Dacafa|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Afacad was chosen rather than Afacad Flux due to its italic/bold italic styles.|
 |**Agave**|WP Spikes|MIT License|❌|❌|❌|✅|Monospaced font. Small caps are taken from the "duck" glyphs in the base font. The bold style is omitted, as it is incomplete and very buggy.|
-|**Agrave Pro**|WP Gravy Pro|SIL Open Font License (version 1.1)|✅|❌|❌|✅|Fixes incorrect non-breaking space kerning.|
 |**Alegreya**|WP Fexofenadine|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Left/right bearings of the left/right single/double quotation marks have been increased (I found them too tight by default, sometimes causing them to intersect with other glyphs). I also increased the distance between the "f" glyph and the exclamation/question marks and right parenthesis.|
 |**Alegreya (modified italic g)**|WP Fexofenadine G|SIL Open Font License (version 1.1)|✅|✅|✅|✅|All the changes to the regular variant of Alegreya, as mentioned above, with the sole change being an italic lowercase `g` that's much more sane.|
 |**Aleo**|WP Leo|SIL Open Font License (version 1.1)|✅|✅|✅|❌||
