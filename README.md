@@ -92,6 +92,7 @@ Below is a complete list of modified fonts in this repo, and the modifications t
 |**Cutive Mono**|WP Executive Premier|SIL Open Font License (version 1.1)|❌|❌|❌|❌|Monospaced font.|
 |**DejaVu Sans Mono**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Monospaced font.|
 |**DejaVu Serif**|WP DR Serif|SIL Open Font License (version 1.1)|✅|✅|✅|❌|Vertical metrics have been corrected.|
+|**Dihjau**|WP Electra|SIL Open Font License (version 1.1)|✅|✅|✅|✅|Enables the small-caps and oldstyle figures already programmed into the font.|
 |**DM Mono**|WP Dredge|SIL Open Font License (version 1.1)|❌|✅|❌|❌|Monospaced font.|
 |**Domine**|WP Dopamine|SIL Open Font License (version 1.1)|✅|❌|❌|❌||
 |**DP Sans Mono**|WP Proofreader|Other (see included license)|❌|❌|❌|❌|Monospaced font.|
